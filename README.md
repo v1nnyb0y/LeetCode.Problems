@@ -2,7 +2,14 @@
 
 ## References
 
-1. [Two Pointers problems](#Two-Pointers-problems)
+1. [Basic Data Types](#Basic-Data-Types)
+2. [Two Pointers problems](#Two-Pointers-problems)
+
+## Basic Data Types
+
+- 1523\. Count Odd Numbers in an Interval Range
+    - [LINK TO GITHUB](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 
 ## Two Pointers problems
 
