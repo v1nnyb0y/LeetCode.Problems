@@ -21,8 +21,8 @@
 ## Operator
 
 - 191\. Number of 1 Bits
-    - [LINK TO GITHUB]()
-    - [LINK TO LEET CODE]()
+    - [LINK TO GITHUB](Operator/191_NumberOf1Bit.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/number-of-1-bits/)
 
 ----
 [:arrow_up:References](#References)
