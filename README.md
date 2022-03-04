@@ -11,6 +11,9 @@
     - [LINK TO GITHUB](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 
+----
+[:arrow_up:References](#References)
+
 ## Two Pointers problems
 
 - 876\. Middle of the Linked List
