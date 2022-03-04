@@ -10,6 +10,9 @@
 - 1523\. Count Odd Numbers in an Interval Range
     - [LINK TO GITHUB](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+- 1493\. Average Salary Excluding the Minimum and Maximum Salary
+    - [LINK TO GITHUB](BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 
 ----
 [:arrow_up:References](#References)
