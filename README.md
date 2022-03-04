@@ -3,7 +3,8 @@
 ## References
 
 1. [Basic Data Types](#Basic-Data-Types)
-2. [Two Pointers problems](#Two-Pointers-problems)
+2. [Operator](#Operator)
+3. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Basic Data Types
 
@@ -13,6 +14,15 @@
 - 1493\. Average Salary Excluding the Minimum and Maximum Salary
     - [LINK TO GITHUB](BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
+
+----
+[:arrow_up:References](#References)
+
+## Operator
+
+- 191\. Number of 1 Bits
+    - [LINK TO GITHUB]()
+    - [LINK TO LEET CODE]()
 
 ----
 [:arrow_up:References](#References)
