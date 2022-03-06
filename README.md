@@ -4,8 +4,9 @@
 
 1. [Basic Data Types](#Basic-Data-Types)
 2. [Conditional Statements](#Conditional-Statements)
-3. [Operator](#Operator)
-4. [Two Pointers problems](#Two-Pointers-problems)
+3. [Loop](#Loop)
+4. [Operator](#Operator)
+5. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Basic Data Types
 
@@ -27,6 +28,15 @@
 - 1779\. Find Nearest Point That Has the Same X or Y Coordinate
     - [LINK TO GITHUB](ConditionalStatements/1779_FindNearestPointThatHasTheSameXorYCoordinate.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) 
+
+----
+[:arrow_up:References](#References)
+
+## Loop
+
+- 1822\. Sign of the Product of an Array
+    - [LINK TO GITHUB](Loop/1822_SignOfTheProductOfAnArray.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/)
 
 ----
 [:arrow_up:References](#References)
