@@ -40,6 +40,9 @@
 - 1502\. Can Make Arithmetic Progression From Sequence
     - [LINK TO GITHUB](Loop/1502_CanMakeArithmeticProgressionFromSequence.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+- 1790\. Check if One String Swap Can Make Strings Equal
+    - [LINK TO GITHUB](Loop/1790_CheckIfOneStringSwapCanMakeStringsEqual.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)
 - 1822\. Sign of the Product of an Array
     - [LINK TO GITHUB](Loop/1822_SignOfTheProductOfAnArray.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/)
