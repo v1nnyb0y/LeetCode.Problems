@@ -3,8 +3,9 @@
 ## References
 
 1. [Basic Data Types](#Basic-Data-Types)
-2. [Operator](#Operator)
-3. [Two Pointers problems](#Two-Pointers-problems)
+2. [Conditional Statements](#Conditional-Statements)
+3. [Operator](#Operator)
+4. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Basic Data Types
 
@@ -14,6 +15,15 @@
 - 1493\. Average Salary Excluding the Minimum and Maximum Salary
     - [LINK TO GITHUB](BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
+
+----
+[:arrow_up:References](#References)
+
+## Conditional Statements
+
+- 976\. Largest Perimeter Triangle
+    - [LINK TO GITHUB](ConditionalStatements/976_LargestPerimeterTriangle.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/largest-perimeter-triangle/)
 
 ----
 [:arrow_up:References](#References)
