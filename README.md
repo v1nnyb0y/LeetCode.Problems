@@ -10,12 +10,12 @@
 
 ## Basic Data Types
 
-- 1523\. Count Odd Numbers in an Interval Range
-    - [LINK TO GITHUB](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
-    - [LINK TO LEET CODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - 1493\. Average Salary Excluding the Minimum and Maximum Salary
     - [LINK TO GITHUB](BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
+- 1523\. Count Odd Numbers in an Interval Range
+    - [LINK TO GITHUB](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 
 ----
 [:arrow_up:References](#References)
@@ -34,12 +34,15 @@
 
 ## Loop
 
-- 1822\. Sign of the Product of an Array
-    - [LINK TO GITHUB](Loop/1822_SignOfTheProductOfAnArray.ipynb)
-    - [LINK TO LEET CODE](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/)
+- 202\. Happy Number
+    - [LINK TO GITHUB](Loop/202_HappyNumber.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/happy-number/submissions/)
 - 1502\. Can Make Arithmetic Progression From Sequence
     - [LINK TO GITHUB](Loop/1502_CanMakeArithmeticProgressionFromSequence.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+- 1822\. Sign of the Product of an Array
+    - [LINK TO GITHUB](Loop/1822_SignOfTheProductOfAnArray.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/)
 
 ----
 [:arrow_up:References](#References)
@@ -58,12 +61,12 @@
 
 ## Two Pointers problems
 
-- 876\. Middle of the Linked List
-    - [LINK TO GITHUB](TwoPointers/876_MiddleOfTheLinkedList.ipynb)
-    - [LINK TO LEET CODE](https://leetcode.com/problems/middle-of-the-linked-list/)
 - 19\. Remove Nth Node Fromt End of List
     - [LINK TO GITHUB](TwoPointers/19_RemoveNthNodeFromTheList)
     - [LINK TO LEET CODE](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/)
+- 876\. Middle of the Linked List
+    - [LINK TO GITHUB](TwoPointers/876_MiddleOfTheLinkedList.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ----
 [:arrow_up:References](#References)
