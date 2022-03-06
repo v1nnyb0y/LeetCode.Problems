@@ -24,6 +24,9 @@
 - 976\. Largest Perimeter Triangle
     - [LINK TO GITHUB](ConditionalStatements/976_LargestPerimeterTriangle.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/largest-perimeter-triangle/)
+- 1779\. Find Nearest Point That Has the Same X or Y Coordinate
+    - [LINK TO GITHUB](ConditionalStatements/1779_FindNearestPointThatHasTheSameXorYCoordinate.ipynb)
+    - [LINK TO LEET CODE](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) 
 
 ----
 [:arrow_up:References](#References)
