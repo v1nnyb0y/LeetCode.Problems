@@ -4,9 +4,10 @@
 
 1. [Basic Data Types](#Basic-Data-Types)
 2. [Conditional Statements](#Conditional-Statements)
-3. [Loop](#Loop)
-4. [Operator](#Operator)
-5. [Two Pointers problems](#Two-Pointers-problems)
+3. [Function](#Function)
+4. [Loop](#Loop)
+5. [Operator](#Operator)
+6. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Basic Data Types
 
@@ -31,6 +32,14 @@
 
 ----
 [:arrow_up:References](#References)
+
+## Function
+
+- 589\. N-ary Tree Preorder Traversal
+    - [LINK TO GITHUB](Function/589_N-aryTreePreorderTraversal.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/n-ary-tree-preorder-traversal/submissions/)
+
+----
 
 ## Loop
 
