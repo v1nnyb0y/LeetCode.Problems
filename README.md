@@ -103,6 +103,9 @@
 
 ## Strings
 
+- 1678\. Goal Parser Interpretation
+    - [LINK TO GITHUB](Strings/1678_GoalParserInterpretation.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/goal-parser-interpretation/)
 - 1768\. Merge Strings Alternately
     - [LINK TO GITHUB](Strings/1768_MergeStringsAlternately.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-strings-alternately/) 
