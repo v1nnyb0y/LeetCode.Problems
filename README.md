@@ -8,7 +8,8 @@
 4. [Function](#Function)
 5. [Loop](#Loop)
 6. [Operator](#Operator)
-7. [Two Pointers problems](#Two-Pointers-problems)
+7. [Strings](#Strings)
+8. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Array
 
@@ -96,6 +97,15 @@
 - 1281\. Subtract the Product and Sum of Digits of an Integer
     - [LINK TO GITHUB](Operator/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+
+----
+[:arrow_up:References](#References)
+
+## Strings
+
+- 1768\. Merge Strings Alternately
+    - [LINK TO GITHUB](Strings/1768_MergeStringsAlternately.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/merge-strings-alternately/) 
 
 ----
 [:arrow_up:References](#References)
