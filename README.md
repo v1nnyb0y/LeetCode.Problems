@@ -35,12 +35,15 @@
 
 ## Function
 
-- 589\. N-ary Tree Preorder Traversal
-    - [LINK TO GITHUB](Function/589_N-aryTreePreorderTraversal.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/n-ary-tree-preorder-traversal/submissions/)
 - 496\. Next Greater Element I
     - [LINK TO GITHUB](Function/496_NextGreaterElementFirst.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-i/submissions/)
+- 589\. N-ary Tree Preorder Traversal
+    - [LINK TO GITHUB](Function/589_N-aryTreePreorderTraversal.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/n-ary-tree-preorder-traversal/submissions/)
+- 1232\. Check if It is a straight Line
+    - [LINK TO GITHUB](Feature/1232_CheckIfItIsAStraightLine.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-it-is-a-straight-line/) 
 
 ----
 [:arrow_up:References](#References)
