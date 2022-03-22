@@ -38,8 +38,12 @@
 - 589\. N-ary Tree Preorder Traversal
     - [LINK TO GITHUB](Function/589_N-aryTreePreorderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-ary-tree-preorder-traversal/submissions/)
+- 496\. Next Greater Element I
+    - [LINK TO GITHUB](Function/496_NextGreaterElementFirst.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-i/submissions/)
 
 ----
+[:arrow_up:References](#References)
 
 ## Loop
 
