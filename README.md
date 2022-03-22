@@ -12,9 +12,15 @@
 
 ## Array
 
+- 283\. Move Zeroes
+    - [LINK TO GITHUB](Array/283_MoveZeroes.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/move-zeroes/)
 - 1588\. Sum Of All Odd Length Subarrays
     - [LINK TO GITHUB](Array/1588_SumOfAllOddLengthSubarrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/)
+- 1672\. Richest Customer Wealth
+    - [LINK TO GITHUB](Array/1672_RichestCustomerWealth.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
 
 ----
 [:arrow_up:References](#References)
