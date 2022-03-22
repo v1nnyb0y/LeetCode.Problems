@@ -103,6 +103,9 @@
 
 ## Strings
 
+- 389\. Find the Difference
+    - [LINK TO GITHUB](Strings/389_FindTheDifference.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-difference/) 
 - 1678\. Goal Parser Interpretation
     - [LINK TO GITHUB](Strings/1678_GoalParserInterpretation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/goal-parser-interpretation/)
