@@ -15,6 +15,9 @@
 - 283\. Move Zeroes
     - [LINK TO GITHUB](Array/283_MoveZeroes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/move-zeroes/)
+- 1572\. Matrix Diagonal Sum
+    - [LINK TO GITHUB](Array/1572_MatrixDiagonalSum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
 - 1588\. Sum Of All Odd Length Subarrays
     - [LINK TO GITHUB](Array/1588_SumOfAllOddLengthSubarrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/)
