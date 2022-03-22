@@ -2,12 +2,22 @@
 
 ## References
 
-1. [Basic Data Types](#Basic-Data-Types)
-2. [Conditional Statements](#Conditional-Statements)
-3. [Function](#Function)
-4. [Loop](#Loop)
-5. [Operator](#Operator)
-6. [Two Pointers problems](#Two-Pointers-problems)
+1. [Array](#Array)
+2. [Basic Data Types](#Basic-Data-Types)
+3. [Conditional Statements](#Conditional-Statements)
+4. [Function](#Function)
+5. [Loop](#Loop)
+6. [Operator](#Operator)
+7. [Two Pointers problems](#Two-Pointers-problems)
+
+## Array
+
+- 1588\. Sum Of All Odd Length Subarrays
+    - [LINK TO GITHUB](Array/1588_SumOfAllOddLengthSubarrays.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/)
+
+----
+[:arrow_up:References](#References)
 
 ## Basic Data Types
 
