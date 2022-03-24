@@ -109,6 +109,9 @@
 - 709\. To Lower case
     - [LINK TO GITHUB](Strings/709_ToLowerCase.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/to-lower-case/) 
+- 1309\. Decrypt String From Alphabet to Integer Mapping
+    - [LINK TO GITHUB](Strings/1309_DecryptStringsFromAlhabetToIntegerMapping.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) 
 - 1678\. Goal Parser Interpretation
     - [LINK TO GITHUB](Strings/1678_GoalParserInterpretation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/goal-parser-interpretation/)
