@@ -6,10 +6,11 @@
 2. [Basic Data Types](#Basic-Data-Types)
 3. [Conditional Statements](#Conditional-Statements)
 4. [Function](#Function)
-5. [Loop](#Loop)
-6. [Operator](#Operator)
-7. [Strings](#Strings)
-8. [Two Pointers problems](#Two-Pointers-problems)
+5. [Linked List & Tree](#Linked-List-and-Tree)
+6. [Loop](#Loop)
+7. [Operator](#Operator)
+8. [Strings](#Strings)
+9. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Array
 
@@ -67,6 +68,15 @@
 - 1232\. Check if It is a straight Line
     - [LINK TO GITHUB](Function\1232_CheckIfItIsAStraightLine.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-it-is-a-straight-line/) 
+
+----
+[:arrow_up:References](#References)
+
+## Linked List and Tree
+
+- 1290\. Convert Binary Number in a Linked List of Integer
+    - [LINK TO GITHUB](LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 
 ----
 [:arrow_up:References](#References)
