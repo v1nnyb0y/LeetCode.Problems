@@ -74,6 +74,9 @@
 
 ## Linked List and Tree
 
+- 104\. Maximum Depth of Binary Tree
+    - [LINK TO GITHUB](LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    
 - 876\. Middle of the Linked List
     - [LINK TO GITHUB](LinkedListAndTree/876_MiddleOfTheLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
