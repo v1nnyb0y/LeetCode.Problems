@@ -109,6 +109,9 @@
 - 709\. To Lower case
     - [LINK TO GITHUB](Strings/709_ToLowerCase.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/to-lower-case/) 
+- 953\. Verifying an Alien Dictionary
+    - [LINK TO GITHUB](Strings/953_VerifyingAnAlienDictionary.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 - 1309\. Decrypt String From Alphabet to Integer Mapping
     - [LINK TO GITHUB](Strings/1309_DecryptStringsFromAlhabetToIntegerMapping.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) 
