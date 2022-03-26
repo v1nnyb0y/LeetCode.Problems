@@ -63,6 +63,9 @@
 - 232\. Implement Queue using Stacks
     - [LINK TO GITHUB](ContainersAndLibs/232_ImplementQueueUsingStacks.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/implement-queue-using-stacks/)
+- 242\. Valid Anagram
+    - [LINK TO GITHUB](ContainersAndLibs/242_ValidAnagram.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/valid-anagram/)
 - 1356\. Sort Integers by The Number of 1 Bits
     - [LINK TO GITHUB](ContainersAndLibs/1356_SortIntegersByTheNumberOf1Bits.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
