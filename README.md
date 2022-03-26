@@ -4,14 +4,15 @@
 
 1. [Array](#Array)
 2. [Basic Data Types](#Basic-Data-Types)
-3. [Conditional Statements](#Conditional-Statements)
-4. [Containers & Libraries](#Containers-and-Libraries)
-5. [Function](#Function)
-6. [Linked List & Tree](#Linked-List-and-Tree)
-7. [Loop](#Loop)
-8. [Operator](#Operator)
-9. [Strings](#Strings)
-10. [Two Pointers problems](#Two-Pointers-problems)
+3. [Class & Objects](#Class-and-Objects)
+4. [Conditional Statements](#Conditional-Statements)
+5. [Containers & Libraries](#Containers-and-Libraries)
+6. [Function](#Function)
+7. [Linked List & Tree](#Linked-List-and-Tree)
+8. [Loop](#Loop)
+9. [Operator](#Operator)
+10. [Strings](#Strings)
+11. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Array
 
@@ -42,6 +43,18 @@
 - 1523\. Count Odd Numbers in an Interval Range
     - [LINK TO GITHUB](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+
+----
+[:arrow_up:References](#References)
+
+## Class and Objects
+
+- 303\. Range Sum Query
+    - [LINK TO GITHUB](ClassAndObjects/303_RangeSumQuery.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-immutable/)
+- 1603\. Design Parking System
+    - [LINK TO GITHUB](ClassAndObjects/1603_DesignParkingSystem.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/design-parking-system/) 
 
 ----
 [:arrow_up:References](#References)
