@@ -5,12 +5,13 @@
 1. [Array](#Array)
 2. [Basic Data Types](#Basic-Data-Types)
 3. [Conditional Statements](#Conditional-Statements)
-4. [Function](#Function)
-5. [Linked List & Tree](#Linked-List-and-Tree)
-6. [Loop](#Loop)
-7. [Operator](#Operator)
-8. [Strings](#Strings)
-9. [Two Pointers problems](#Two-Pointers-problems)
+4. [Containers & Libraries](#Containers-and-Libraries)
+5. [Function](#Function)
+6. [Linked List & Tree](#Linked-List-and-Tree)
+7. [Loop](#Loop)
+8. [Operator](#Operator)
+9. [Strings](#Strings)
+10. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Array
 
@@ -53,6 +54,15 @@
 - 1779\. Find Nearest Point That Has the Same X or Y Coordinate
     - [LINK TO GITHUB](ConditionalStatements/1779_FindNearestPointThatHasTheSameXorYCoordinate.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) 
+
+----
+[:arrow_up:References](#References)
+
+## Containers and Libraries
+
+- 1356\. Sort Integers by The Number of 1 Bits
+    - [LINK TO GITHUB](ContainersAndLibs/1356_SortIntegersByTheNumberOf1Bits.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 
 ----
 [:arrow_up:References](#References)
