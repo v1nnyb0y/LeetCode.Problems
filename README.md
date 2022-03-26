@@ -60,6 +60,9 @@
 
 ## Containers and Libraries
 
+- 217\. Contains Duplicate
+    - [LINK TO GITHUB](ContainersAndLibs/217_ContainsDuplicate.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate/)
 - 232\. Implement Queue using Stacks
     - [LINK TO GITHUB](ContainersAndLibs/232_ImplementQueueUsingStacks.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/implement-queue-using-stacks/)
