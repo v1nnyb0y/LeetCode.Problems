@@ -157,6 +157,9 @@
 
 ## Strings
 
+- 28\. Implement strStr()
+    - [LINK TO GITHUB](Strings/28_ImplementStrStr.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/implement-strstr/) 
 - 389\. Find the Difference
     - [LINK TO GITHUB](Strings/389_FindTheDifference.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-difference/) 
