@@ -111,7 +111,10 @@
 
 - 104\. Maximum Depth of Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
+- 110\. Balanced Binary Tree
+    - [LINK TO GITHUB](LinkedListAndTree/110_BalancedBinaryTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/balanced-binary-tree/)  
 - 404\. Sum of Left Leaves
     - [LINK TO GITHUB](LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-left-leaves/) 
