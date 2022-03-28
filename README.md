@@ -166,6 +166,9 @@
 - 389\. Find the Difference
     - [LINK TO GITHUB](Strings/389_FindTheDifference.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-difference/) 
+- 459\. Repeated Substring Pattern
+    - [LINK TO GITHUB](Strings/459_RepeatedSubstringPattern.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/repeated-substring-pattern/)
 - 709\. To Lower case
     - [LINK TO GITHUB](Strings/709_ToLowerCase.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/to-lower-case/) 
