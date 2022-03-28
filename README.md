@@ -22,6 +22,9 @@
 - 566\. Reshape the Matrix
     - [LINK TO GITHUB](Array/566_ReshapeTheMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/) 
+- 896\. Monotonic Array
+    - [LINK TO GITHUB](Array/896_MonotonicArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/monotonic-array/) 
 - 1572\. Matrix Diagonal Sum
     - [LINK TO GITHUB](Array/1572_MatrixDiagonalSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
