@@ -172,6 +172,9 @@
 - 28\. Implement strStr()
     - [LINK TO GITHUB](Strings/28_ImplementStrStr.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/implement-strstr/) 
+- 43\. Multiply Strings
+    - [LINK TO GITHUB](Strings/43_MultiplyStrings.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/multiply-strings/)
 - 389\. Find the Difference
     - [LINK TO GITHUB](Strings/389_FindTheDifference.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-difference/) 
