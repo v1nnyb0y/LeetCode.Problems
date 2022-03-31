@@ -31,6 +31,9 @@
 - 896\. Monotonic Array
     - [LINK TO GITHUB](Array/896_MonotonicArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/monotonic-array/) 
+- 989\. Add to Array-Form of Integer
+    - [LINK TO GITHUB](Array/989_AddToArrayFormOfInteger.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - 1572\. Matrix Diagonal Sum
     - [LINK TO GITHUB](Array/1572_MatrixDiagonalSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
