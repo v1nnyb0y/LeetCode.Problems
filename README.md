@@ -130,6 +130,9 @@
 - 1290\. Convert Binary Number in a Linked List of Integer
     - [LINK TO GITHUB](LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+- 1367\. Linked List in Binary Tree
+    - [LINK TO GITHUB](LinkedListAndTree/1367_LinkedListInBinaryTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-in-binary-tree/) 
 
 ----
 [:arrow_up:References](#References)
