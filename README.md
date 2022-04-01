@@ -65,6 +65,9 @@
 
 ## Binary Search
 
+- 35\. Search Insert Position
+    - [LINK TO GITHUB](BinarySearch/35_InsertPosition.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/search-insert-position/) 
 - 278\. First Bad Version
     - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/) 
