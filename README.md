@@ -181,6 +181,9 @@
 - 43\. Multiply Strings
     - [LINK TO GITHUB](Strings/43_MultiplyStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/multiply-strings/)
+- 56\. Length of Last Word
+    - [LINK TO GITHUB](Strings/58_LenghtOfLastWord.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/length-of-last-word/) 
 - 67\. Add Binary
     - [LINK TO GITHUB](Strings/67_AddBinary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-binary/)
