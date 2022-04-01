@@ -131,7 +131,10 @@
 
 - 509\. Fibonacci Number
     - [LINK TO GITHUB](DynamicProgramming/509_FibonacciNumber.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/) 
+    - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
+- 1137\. N-th Tribonacci Number
+    - [LINK TO GITHUB](DynamicProgramming/1137_NthTribonacciNumber.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/n-th-tribonacci-number/) 
 
 ----
 [:arrow_up:References](#References)
