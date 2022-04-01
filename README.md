@@ -23,6 +23,9 @@
 - 150\. Evaluate Reverse Polish Notation
     - [LINK TO GITHUB](Array/150_EvaluateReversePolishNotation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/evaluate-reverse-polish-notation/) 
+- 217\. Contains Duplicate
+    - [LINK TO GITHUB](Array/217_ContainsDuplicate.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate/)
 - 283\. Move Zeroes
     - [LINK TO GITHUB](Array/283_MoveZeroes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/move-zeroes/)
