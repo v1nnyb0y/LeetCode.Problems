@@ -28,6 +28,9 @@
 - 566\. Reshape the Matrix
     - [LINK TO GITHUB](Array/566_ReshapeTheMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/) 
+- 739\. Daily Temperatures
+    - [LINK TO GITHUB](Array/739_DailyTemperature.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/daily-temperatures/) 
 - 896\. Monotonic Array
     - [LINK TO GITHUB](Array/896_MonotonicArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/monotonic-array/) 
