@@ -4,15 +4,16 @@
 
 1. [Array](#Array)
 2. [Basic Data Types](#Basic-Data-Types)
-3. [Class & Objects](#Class-and-Objects)
-4. [Conditional Statements](#Conditional-Statements)
-5. [Containers & Libraries](#Containers-and-Libraries)
-6. [Function](#Function)
-7. [Linked List & Tree](#Linked-List-and-Tree)
-8. [Loop](#Loop)
-9. [Operator](#Operator)
-10. [Strings](#Strings)
-11. [Two Pointers problems](#Two-Pointers-problems)
+3. [Binary Search](#Binary-Search)
+4. [Class & Objects](#Class-and-Objects)
+5. [Conditional Statements](#Conditional-Statements)
+6. [Containers & Libraries](#Containers-and-Libraries)
+7. [Function](#Function)
+8. [Linked List & Tree](#Linked-List-and-Tree)
+9. [Loop](#Loop)
+10. [Operator](#Operator)
+11. [Strings](#Strings)
+12. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Array
 
@@ -28,9 +29,6 @@
 - 566\. Reshape the Matrix
     - [LINK TO GITHUB](Array/566_ReshapeTheMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/)
-- 704\. Binary Search
-    - [LINK TO GITHUB](Array/704_BinarySearch.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search/)
 - 739\. Daily Temperatures
     - [LINK TO GITHUB](Array/739_DailyTemperature.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/daily-temperatures/) 
@@ -61,6 +59,18 @@
 - 1523\. Count Odd Numbers in an Interval Range
     - [LINK TO GITHUB](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+
+----
+[:arrow_up:References](#References)
+
+## Binary Search
+
+- 278\. First Bad Version
+    - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/) 
+- 704\. Binary Search
+    - [LINK TO GITHUB](BinarySearch/704_BinarySearch.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search/)
 
 ----
 [:arrow_up:References](#References)
