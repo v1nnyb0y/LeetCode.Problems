@@ -78,6 +78,9 @@
 - 278\. First Bad Version
     - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/) 
+- 374\. Guess Number Higher or Lower
+    - [LINK TO GITHUB](BinarySearch/374_GuessNumberHigherOrLower.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - 704\. Binary Search
     - [LINK TO GITHUB](BinarySearch/704_BinarySearch.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search/)
