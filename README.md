@@ -145,6 +145,9 @@
 
 ## Graph Theory
 
+- 200\. Number of Islands
+    - [LINK TO GITHUB](GraphTheory/200_NumberOfIslands.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-islands/)
 - 733\. Flood Fill
     - [LINK TO GITHUB](GraphTheory/733_FloodFill.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flood-fill/)
