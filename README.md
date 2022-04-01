@@ -17,6 +17,9 @@
 
 ## Array
 
+- 53\. Maximum Subarray
+    - [LINK TO GITHUB](Array/53_MaximumSubarray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-subarray/) 
 - 66\. Plus One
     - [LINK TO GITHUB](Array/66_PlusOne.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/plus-one/)
