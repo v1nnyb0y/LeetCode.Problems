@@ -27,7 +27,10 @@
     - [LINK TO LEETCODE](https://leetcode.com/problems/move-zeroes/)
 - 566\. Reshape the Matrix
     - [LINK TO GITHUB](Array/566_ReshapeTheMatrix.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/) 
+    - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/)
+- 704\. Binary Search
+    - [LINK TO GITHUB](Array/704_BinarySearch.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search/)
 - 739\. Daily Temperatures
     - [LINK TO GITHUB](Array/739_DailyTemperature.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/daily-temperatures/) 
