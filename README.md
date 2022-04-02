@@ -28,6 +28,9 @@
 - 66\. Plus One
     - [LINK TO GITHUB](Array/66_PlusOne.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/plus-one/)
+- 88\. Merge Sorted Array
+    - [LINK TO GITHUB](Array/88_MergeSortedArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/merge-sorted-array/)
 - 150\. Evaluate Reverse Polish Notation
     - [LINK TO GITHUB](Array/150_EvaluateReversePolishNotation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/evaluate-reverse-polish-notation/) 
