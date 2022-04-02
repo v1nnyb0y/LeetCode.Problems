@@ -268,6 +268,9 @@
 - 19\. Remove Nth Node Fromt End of List
     - [LINK TO GITHUB](TwoPointers/19_RemoveNthNodeFromTheList)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/)
+- 189\. Rotate Array
+    - [LINK TO GITHUB](TwoPointers/189_RotateArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-array/)
 - 344\. Reverse String
     - [LINK TO GITHUB](TwoPointers/344_ReverseString.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-string/)
