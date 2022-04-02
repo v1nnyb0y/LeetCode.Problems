@@ -175,6 +175,9 @@
 - 1254\. Number of Closed Islands
     - [LINK TO GITHUB](GraphTheory/1254_NumberOfClosedIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-closed-islands/)
+- 1886\. Determine Whether Matrix Can Be Obtained By Rotation
+    - [LINK TO GITHUB](GraphTheory/1886_DetermineWhetherMatrixCanBeObtainedByRotation.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 
 ----
 [:arrow_up:References](#References)
