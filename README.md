@@ -163,6 +163,9 @@
 - 200\. Number of Islands
     - [LINK TO GITHUB](GraphTheory/200_NumberOfIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-islands/)
+- 695\. Max Area of Island
+    - [LINK TO GITHUB](GraphTheory/695_MaxAreaOfIsland.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/max-area-of-island/)
 - 733\. Flood Fill
     - [LINK TO GITHUB](GraphTheory/733_FloodFill.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flood-fill/)
