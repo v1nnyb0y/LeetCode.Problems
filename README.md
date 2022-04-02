@@ -169,6 +169,9 @@
 - 733\. Flood Fill
     - [LINK TO GITHUB](GraphTheory/733_FloodFill.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flood-fill/)
+- 1254\. Number of Closed Islands
+    - [LINK TO GITHUB](GraphTheory/1254_NumberOfClosedIslands.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-closed-islands/)
 
 ----
 [:arrow_up:References](#References)
