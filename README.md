@@ -139,6 +139,9 @@
 
 ## Dynamic Programming
 
+- 70\. Climbing Stairs
+    - [LINK TO GITHUB](DynamicProgramming/70_ClimbingStairs.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/climbing-stairs/)
 - 509\. Fibonacci Number
     - [LINK TO GITHUB](DynamicProgramming/509_FibonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
