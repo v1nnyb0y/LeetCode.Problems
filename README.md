@@ -145,6 +145,9 @@
 - 509\. Fibonacci Number
     - [LINK TO GITHUB](DynamicProgramming/509_FibonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
+- 746\. Min Cost Climbing Stairs
+    - [LINK TO GITHUB](DynamicProgramming/746_MinCostClimbingStairs.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - 1137\. N-th Tribonacci Number
     - [LINK TO GITHUB](DynamicProgramming/1137_NthTribonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-th-tribonacci-number/) 
