@@ -19,6 +19,9 @@
 
 ## Array
 
+- 1\. Two Sum
+    - [LINK TO GITHUB](Array/1_TwoSum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum/)
 - 53\. Maximum Subarray
     - [LINK TO GITHUB](Array/53_MaximumSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-subarray/) 
