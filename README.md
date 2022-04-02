@@ -160,6 +160,9 @@
 
 ## Graph Theory
 
+- 48\. Rotate Image
+    - [LINK TO GITHUB](GraphTheory/48_RotateImage.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-image/)
 - 200\. Number of Islands
     - [LINK TO GITHUB](GraphTheory/200_NumberOfIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-islands/)
