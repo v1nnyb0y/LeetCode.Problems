@@ -311,6 +311,9 @@
 - 19\. Remove Nth Node Fromt End of List
     - [LINK TO GITHUB](TwoPointers/19_RemoveNthNodeFromTheList)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/)
+- 167\. Two Sum II
+    - [LINK TO GITHUB](TwoPointers/167_TwoSumII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - 189\. Rotate Array
     - [LINK TO GITHUB](TwoPointers/189_RotateArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-array/)
