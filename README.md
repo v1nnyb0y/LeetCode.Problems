@@ -164,6 +164,9 @@
 - 509\. Fibonacci Number
     - [LINK TO GITHUB](DynamicProgramming/509_FibonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
+- 740\. Delete and Earn
+    - [LINK TO GITHUB](DynamicProgramming/740_DeleteAndEarn.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/delete-and-earn/)
 - 746\. Min Cost Climbing Stairs
     - [LINK TO GITHUB](DynamicProgramming/746_MinCostClimbingStairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/min-cost-climbing-stairs/)
