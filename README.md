@@ -158,6 +158,9 @@
 - 198\. House Robber
     - [LINK TO GITHUB](DynamicProgramming/198_HouseRobber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/house-robber/) 
+- 213\. House Robber II
+    - [LINK TO GITHUB](DynamicProgramming/213_HouseRobberII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/house-robber-ii/)   
 - 509\. Fibonacci Number
     - [LINK TO GITHUB](DynamicProgramming/509_FibonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
