@@ -44,6 +44,9 @@
 - 283\. Move Zeroes
     - [LINK TO GITHUB](Array/283_MoveZeroes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/move-zeroes/)
+- 350\. Intersection of Two Arrays II
+    - [LINK TO GITHUB](Array/350_IntersectionOfTwoArraysII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - 566\. Reshape the Matrix
     - [LINK TO GITHUB](Array/566_ReshapeTheMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/)
