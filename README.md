@@ -155,6 +155,9 @@
 - 121\. Best Time to Buy and Sell Stock
     - [LINK TO GITHUB](DynamicProgramming/121_BestTimeToButAndSellStock.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- 198\. House Robber
+    - [LINK TO GITHUB](DynamicProgramming/198_HouseRobber.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/house-robber/) 
 - 509\. Fibonacci Number
     - [LINK TO GITHUB](DynamicProgramming/509_FibonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
