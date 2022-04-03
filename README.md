@@ -10,12 +10,13 @@
 6. [Containers & Libraries](#Containers-and-Libraries)
 7. [Dynamic Programming](#Dynamic-Programming)
 8. [Graph Theory](#Graph-Theory)
-9. [Function](#Function)
-10. [Linked List & Tree](#Linked-List-and-Tree)
-11. [Loop](#Loop)
-12. [Operator](#Operator)
-13. [Strings](#Strings)
-14. [Two Pointers problems](#Two-Pointers-problems)
+9. [Math](#Math)
+10. [Function](#Function)
+11. [Linked List & Tree](#Linked-List-and-Tree)
+12. [Loop](#Loop)
+13. [Operator](#Operator)
+14. [Strings](#Strings)
+15. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Array
 
@@ -184,6 +185,15 @@
 - 1886\. Determine Whether Matrix Can Be Obtained By Rotation
     - [LINK TO GITHUB](GraphTheory/1886_DetermineWhetherMatrixCanBeObtainedByRotation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
+
+----
+[:arrow_up:References](#References)
+
+## Math
+
+- 973\. K Closest Pointrs to Origin
+    - [LINK TO GITHUB](Math/973_KClosestPointsToOrigin.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/k-closest-points-to-origin/)
 
 ----
 [:arrow_up:References](#References)
