@@ -104,6 +104,9 @@
 - 852\. Peak Index in a Mountain Array
     - [LINK TO GITHUB](BinarySearch/852_PeakIndexInAMountainArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- 1385\. Find the Distance Value Between Two Arrays
+    - [LINK TO GITHUB](BinarySearch/1385_FindTheDistanceValueBetweenTwoArrays.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
 
 ----
 [:arrow_up:References](#References)
