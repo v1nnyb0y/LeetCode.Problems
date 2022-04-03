@@ -209,6 +209,9 @@
 - 1886\. Determine Whether Matrix Can Be Obtained By Rotation
     - [LINK TO GITHUB](GraphTheory/1886_DetermineWhetherMatrixCanBeObtainedByRotation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
+- 1905\. Count Sub Islands
+    - [LINK TO GITHUB](GraphTheory/1905_CountSubIslands.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/count-sub-islands/)
 
 ----
 [:arrow_up:References](#References)
