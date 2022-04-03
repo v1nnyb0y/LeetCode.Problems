@@ -92,6 +92,9 @@
 - 278\. First Bad Version
     - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/) 
+- 367\. Valid Perfect Square
+    - [LINK TO GITHUB](BinarySearch/367_ValidPerfectSquare.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/valid-perfect-square/)
 - 374\. Guess Number Higher or Lower
     - [LINK TO GITHUB](BinarySearch/374_GuessNumberHigherOrLower.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/guess-number-higher-or-lower/)
