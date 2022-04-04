@@ -260,6 +260,9 @@
 - 1367\. Linked List in Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/1367_LinkedListInBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-in-binary-tree/) 
+- 1731\. Swapping Nodes in a Linked List
+    - [LINK TO GITHUB](LinkedListAndTree/1731_SwappingNodesInALinkedList.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
 ----
 [:arrow_up:References](#References)
