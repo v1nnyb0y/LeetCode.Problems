@@ -65,6 +65,9 @@
 - 1588\. Sum Of All Odd Length Subarrays
     - [LINK TO GITHUB](Array/1588_SumOfAllOddLengthSubarrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/)
+- 1630\. Arithmetic Subarrays
+    - [LINK TO GITHUB](Array/1630_ArithmeticSubarrays.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-subarrays/)
 - 1672\. Richest Customer Wealth
     - [LINK TO GITHUB](Array/1672_RichestCustomerWealth.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
