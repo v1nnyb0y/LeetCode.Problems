@@ -107,6 +107,9 @@
 - 704\. Binary Search
     - [LINK TO GITHUB](BinarySearch/704_BinarySearch.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search/)
+- 744\. Find Smallest Letter Greater Than Target
+    - [LINK TO GITHUB](BinarySearch/744_FindSmallestLetterGreaterThanTarget.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - 852\. Peak Index in a Mountain Array
     - [LINK TO GITHUB](BinarySearch/852_PeakIndexInAMountainArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
