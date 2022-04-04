@@ -221,6 +221,9 @@
 - 1020\. Number of Enclaves
     - [LINK TO GITHUB](GraphTheory/1020_NumberOfEnclaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-enclaves/) 
+- 1162\. As Far from Land as Possible
+    - [LINK TO GITHUB](GraphTheory/1162_AsFarFromLandAsPossible.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/as-far-from-land-as-possible/)
 - 1254\. Number of Closed Islands
     - [LINK TO GITHUB](GraphTheory/1254_NumberOfClosedIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-closed-islands/)
