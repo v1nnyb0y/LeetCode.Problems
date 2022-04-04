@@ -158,6 +158,9 @@
 
 ## Dynamic Programming
 
+- 45\. Jump Game II
+    - [LINK TO GITHUB](DynamicProgramming/45_JumpGameII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game-ii/)
 - 55\. Jump Game
     - [LINK TO GITHUB](DynamicProgramming/55_JumpGame.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game/) 
