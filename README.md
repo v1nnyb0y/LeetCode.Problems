@@ -161,6 +161,9 @@
 - 70\. Climbing Stairs
     - [LINK TO GITHUB](DynamicProgramming/70_ClimbingStairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/climbing-stairs/)
+- 118\. Pasacal's Triangle
+    - [LINK TO GITHUB](DynamicProgramming/118_PascalsTriangle.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/pascals-triangle/)   
 - 121\. Best Time to Buy and Sell Stock
     - [LINK TO GITHUB](DynamicProgramming/121_BestTimeToButAndSellStock.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
