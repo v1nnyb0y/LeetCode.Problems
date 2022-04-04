@@ -158,6 +158,9 @@
 
 ## Dynamic Programming
 
+- 55\. Jump Game
+    - [LINK TO GITHUB](DynamicProgramming/55_JumpGame.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game/) 
 - 70\. Climbing Stairs
     - [LINK TO GITHUB](DynamicProgramming/70_ClimbingStairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/climbing-stairs/)
