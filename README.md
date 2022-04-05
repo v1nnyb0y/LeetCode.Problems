@@ -26,6 +26,9 @@
 - 31\. Next Permutation
     - [LINK TO GITHUB](Array/31_NextPermutation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-permutation/)
+- 36\. Valid Sudoku
+    - [LINK TO GITHUB](Array/36_ValidSudoku.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/valid-sudoku/)
 - 53\. Maximum Subarray
     - [LINK TO GITHUB](Array/53_MaximumSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-subarray/) 
