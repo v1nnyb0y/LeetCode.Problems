@@ -95,6 +95,9 @@
 
 ## Binary Search
 
+- 34\. Find First and Last Position of Element in Sorted Array
+    - [LINK TO GITHUB](BinarySearch/34_FindFirstAndLastPositionOfElementInSortedArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - 35\. Search Insert Position
     - [LINK TO GITHUB](BinarySearch/35_InsertPosition.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-insert-position/) 
