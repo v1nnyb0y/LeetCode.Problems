@@ -230,6 +230,9 @@
 - 417\. Pacific Atlantic Water Flow
     - [LINK TO GITHUB](GraphTheory/417_PacificAtlanticWaterFlow.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- 542\. 01 Matrix
+    - [LINK TO GITHUB](GraphTheory/542_01Matrix.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/01-matrix/)
 - 695\. Max Area of Island
     - [LINK TO GITHUB](GraphTheory/695_MaxAreaOfIsland.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-area-of-island/)
