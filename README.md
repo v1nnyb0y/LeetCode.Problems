@@ -47,6 +47,9 @@
 - 350\. Intersection of Two Arrays II
     - [LINK TO GITHUB](Array/350_IntersectionOfTwoArraysII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- 503\. Next Greater Element II
+    - [LINK TO GITHUB](Array/503_NextGreaterElementII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-ii/)
 - 566\. Reshape the Matrix
     - [LINK TO GITHUB](Array/566_ReshapeTheMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/)
