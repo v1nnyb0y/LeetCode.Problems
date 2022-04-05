@@ -239,6 +239,9 @@
 - 1020\. Number of Enclaves
     - [LINK TO GITHUB](GraphTheory/1020_NumberOfEnclaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-enclaves/) 
+- 1091\. Shortest Path in Binary Matrix
+    - [LINK TO GITHUB](GraphTheory/1091_ShortestPathInBinaryMatrix.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 - 1162\. As Far from Land as Possible
     - [LINK TO GITHUB](GraphTheory/1162_AsFarFromLandAsPossible.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/as-far-from-land-as-possible/)
