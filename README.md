@@ -383,6 +383,9 @@
 - 344\. Reverse String
     - [LINK TO GITHUB](TwoPointers/344_ReverseString.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-string/)
+- 556\. Next Greater Element III
+    - [LINK TO GITHUB](TwoPointers/553_NextGreaterElementIII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-iii/)
 - 557\. Reverse Words in a String III
     - [LINK TO GITHUB](TwoPointers/557_ReverseWordsInAStringIII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
