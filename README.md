@@ -101,6 +101,9 @@
 - 69\. Sqrt(x)
     - [LINK TO GITHUB](BinarySearch/69_SqrtX.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sqrtx/)
+- 74\. Search a 2D Matrix
+    - [LINK TO GITHUB](BinarySearch/74_SearchA2DMatrix.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/search-a-2d-matrix/)
 - 278\. First Bad Version
     - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/) 
