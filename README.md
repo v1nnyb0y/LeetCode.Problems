@@ -275,6 +275,9 @@
 - 1905\. Count Sub Islands
     - [LINK TO GITHUB](GraphTheory/1905_CountSubIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-sub-islands/)
+- 1926\. Nearest Exit from Entrance in Maze
+    - [LINK TO GITHUB](GraphTheory/1926_NearestExitFromEntranceInMaze.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 
 ----
 [:arrow_up:References](#References)
