@@ -356,6 +356,9 @@
 - 43\. Multiply Strings
     - [LINK TO GITHUB](Strings/43_MultiplyStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/multiply-strings/)
+- 49\. Group Anagrams
+    - [LINK TO GITHUB](Strings/49_GroupAnagrams.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/group-anagrams/)   
 - 56\. Length of Last Word
     - [LINK TO GITHUB](Strings/58_LenghtOfLastWord.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/length-of-last-word/) 
