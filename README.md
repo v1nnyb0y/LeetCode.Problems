@@ -413,6 +413,9 @@
 - 876\. Middle of the Linked List
     - [LINK TO GITHUB](TwoPointers/876_MiddleOfTheLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
+- 923\. 3Sum With Multiplicity
+    - [LINK TO GITHUB](TwoPointers/923_3SumWithMultiplicity.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/3sum-with-multiplicity/)
 - 977\. Squares of a Sorted Array
     - [LINK TO GITHUB](TwoPointers/977_SquaresOfASortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/squares-of-a-sorted-array/)
