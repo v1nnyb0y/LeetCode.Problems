@@ -368,6 +368,9 @@
 - 67\. Add Binary
     - [LINK TO GITHUB](Strings/67_AddBinary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-binary/)
+- 387\. First Unique Character in a String
+    - [LINK TO GITHUB](Strings/387_FirstUniqueCharacterInAString.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - 389\. Find the Difference
     - [LINK TO GITHUB](Strings/389_FindTheDifference.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-difference/) 
