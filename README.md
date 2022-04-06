@@ -191,6 +191,9 @@
 - 121\. Best Time to Buy and Sell Stock
     - [LINK TO GITHUB](DynamicProgramming/121_BestTimeToButAndSellStock.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- 152\. Maximum Product Subarray
+    - [LINK TO GITHUB](DynamicProgramming/152_MaximumProductSubarray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-product-subarray/)
 - 198\. House Robber
     - [LINK TO GITHUB](DynamicProgramming/198_HouseRobber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/house-robber/) 
