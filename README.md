@@ -374,6 +374,9 @@
 - 459\. Repeated Substring Pattern
     - [LINK TO GITHUB](Strings/459_RepeatedSubstringPattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/repeated-substring-pattern/)
+- 567\. Permutation in String
+    - [LINK TO GITHUB](Strings/567_PermutationInString.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/permutation-in-string/solution/)
 - 709\. To Lower case
     - [LINK TO GITHUB](Strings/709_ToLowerCase.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/to-lower-case/) 
