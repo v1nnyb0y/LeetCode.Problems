@@ -131,6 +131,9 @@
 - 1385\. Find the Distance Value Between Two Arrays
     - [LINK TO GITHUB](BinarySearch/1385_FindTheDistanceValueBetweenTwoArrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+- 1539\. Kth Missing Positive Number
+    - [LINK TO GITHUB](BinarySearch/1539_KthMissingPositiveNumber.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/kth-missing-positive-number/)
 
 ----
 [:arrow_up:References](#References)
