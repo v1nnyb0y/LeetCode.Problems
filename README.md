@@ -350,6 +350,9 @@
 
 ## Strings
 
+- 3\. Longest Substring Without Repeating Characters
+    - [LINK TO GITHUB](Strings/3_LongestSubstringWithoutRepeatingCharacters.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - 28\. Implement strStr()
     - [LINK TO GITHUB](Strings/28_ImplementStrStr.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/implement-strstr/) 
