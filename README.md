@@ -251,6 +251,9 @@
 - 733\. Flood Fill
     - [LINK TO GITHUB](GraphTheory/733_FloodFill.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flood-fill/)
+- 934\. Shortest Bridge
+    - [LINK TO GITHUB](GraphTheory/934_ShortestBridge.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-bridge/)
 - 1020\. Number of Enclaves
     - [LINK TO GITHUB](GraphTheory/1020_NumberOfEnclaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-enclaves/) 
