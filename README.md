@@ -140,6 +140,9 @@
 - 1539\. Kth Missing Positive Number
     - [LINK TO GITHUB](BinarySearch/1539_KthMissingPositiveNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-missing-positive-number/)
+- 1608\. Special Array With X Elements Greated Than or Equal X
+    - [LINK TO GITHUB](BinarySearch/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 
 ----
 [:arrow_up:References](#References)
