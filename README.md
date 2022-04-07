@@ -326,6 +326,9 @@
 - 141\. Linked List Cycle
     - [LINK TO GITHUB](LinkedListAndTree/141_LinkedListCycle.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-cycle/) 
+- 203\. Remove Linked List Elements
+    - [LINK TO GITHUB](LinkedListAndTree/203_RemoveLinkedListElements.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/remove-linked-list-elements/) 
 - 404\. Sum of Left Leaves
     - [LINK TO GITHUB](LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-left-leaves/) 
