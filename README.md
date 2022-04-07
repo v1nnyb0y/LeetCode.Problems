@@ -314,6 +314,9 @@
 
 ## Linked List and Tree
 
+- 21\. Merge Two Sorted Lists
+    - [LINK TO GITHUB](LinkedListAndTree/21_MergeTwoSortedLists.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-sorted-lists/)
 - 104\. Maximum Depth of Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
