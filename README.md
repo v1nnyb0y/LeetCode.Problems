@@ -224,6 +224,9 @@
 - 918\. Maximum Sum Circular Subarray
     - [LINK TO GITHUB](DynamicProgramming/918_MaximumSumCircularSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+- 1014\. Best Sightseeing Pair
+    - [LINK TO GITHUB](DynamicProgramming/1014_BestSighseeingPair.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/best-sightseeing-pair/)
 - 1137\. N-th Tribonacci Number
     - [LINK TO GITHUB](DynamicProgramming/1137_NthTribonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-th-tribonacci-number/) 
