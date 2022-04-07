@@ -398,6 +398,9 @@
 - 389\. Find the Difference
     - [LINK TO GITHUB](Strings/389_FindTheDifference.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-difference/) 
+- 438\. Find All Anagrams in a String
+    - [LINK TO GITHUB](Strings/438_FindAllAnagramsInAString.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - 459\. Repeated Substring Pattern
     - [LINK TO GITHUB](Strings/459_RepeatedSubstringPattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/repeated-substring-pattern/)
