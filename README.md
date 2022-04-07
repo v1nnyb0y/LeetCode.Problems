@@ -65,6 +65,9 @@
 - 989\. Add to Array-Form of Integer
     - [LINK TO GITHUB](Array/989_AddToArrayFormOfInteger.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-to-array-form-of-integer/)
+- 1046\. Last Stone Weight
+    - [LINK TO GITHUB](Array/1046_LastStoneWeight.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/last-stone-weight/)
 - 1572\. Matrix Diagonal Sum
     - [LINK TO GITHUB](Array/1572_MatrixDiagonalSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
