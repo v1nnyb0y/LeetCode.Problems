@@ -359,6 +359,9 @@
 - 429\. N-ary Tree Level Order Traversal
     - [LINK TO GITHUB](LinkedListAndTree/429_NaryTreeLevelOrderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) 
+- 617\. Merge Two Binary Trees
+    - [LINK TO GITHUB](LinkedListAndTree/617_MergeTwoBinaryTrees.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-binary-trees/)
 - 876\. Middle of the Linked List
     - [LINK TO GITHUB](LinkedListAndTree/876_MiddleOfTheLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
