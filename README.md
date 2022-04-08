@@ -275,6 +275,9 @@
 - 542\. 01 Matrix
     - [LINK TO GITHUB](GraphTheory/542_01Matrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/01-matrix/)
+- 547\. Number of Province
+    - [LINK TO GITHUB](GraphTheory/547_NumberOfProvinces.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-provinces/)
 - 695\. Max Area of Island
     - [LINK TO GITHUB](GraphTheory/695_MaxAreaOfIsland.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-area-of-island/)
