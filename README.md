@@ -347,6 +347,9 @@
 - 110\. Balanced Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/110_BalancedBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/balanced-binary-tree/) 
+- 116\. Populating Next Right Pointers in Each Node
+    - [LINK TO GITHUB](LinkedListAndTree/116_PopulatingNextRightPointersInEachNode.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 - 141\. Linked List Cycle
     - [LINK TO GITHUB](LinkedListAndTree/141_LinkedListCycle.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-cycle/) 
