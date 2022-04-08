@@ -305,6 +305,9 @@
 - 1254\. Number of Closed Islands
     - [LINK TO GITHUB](GraphTheory/1254_NumberOfClosedIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-closed-islands/)
+- 1359\. Number of Operations to Make Network Connected
+    - [LINK TO GITHUB](GraphTheory/1319_NumberOfOperationsToMakeNetworkConnected.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 - 1376\. Time Needed to Inform All Employees
     - [LINK TO GITHUB](GraphTheory/1376_TimeNeededToInformAllEmployees.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/time-needed-to-inform-all-employees/) 
