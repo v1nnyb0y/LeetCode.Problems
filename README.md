@@ -356,6 +356,9 @@
 - 203\. Remove Linked List Elements
     - [LINK TO GITHUB](LinkedListAndTree/203_RemoveLinkedListElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-linked-list-elements/) 
+- 206\. Reverse Linked List
+    - [LINK TO GITHUB](LinkedListAndTree/206_ReverseLinkedList.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-linked-list/)
 - 404\. Sum of Left Leaves
     - [LINK TO GITHUB](LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-left-leaves/) 
