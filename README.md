@@ -89,6 +89,9 @@
 
 ## Basic Data Types and Design
 
+- 304\. Range Sum Query 2D - Immutable
+    - [LINK TO GITHUB](BasicDataTypes/304_RangeSumQuery2D_Immutable.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 - 703\. Kth Largest Element in a Stream
     - [LINK TO GITHUB](BasicDataTypes/703_KthLargestElementInAStream.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
