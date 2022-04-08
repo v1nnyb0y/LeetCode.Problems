@@ -341,6 +341,9 @@
 - 21\. Merge Two Sorted Lists
     - [LINK TO GITHUB](LinkedListAndTree/21_MergeTwoSortedLists.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-sorted-lists/)
+- 83\. Remove Duplicates from Sorted List
+    - [LINK TO GITHUB](LinkedListAndTree/83_RemoveDuplicatedFromSortedList.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - 104\. Maximum Depth of Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
