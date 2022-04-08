@@ -3,7 +3,7 @@
 ## References
 
 1. [Array](#Array)
-2. [Basic Data Types](#Basic-Data-Types)
+2. [Basic Data Types and Design](#Basic-Data-Types-and-Design)
 3. [Binary Search](#Binary-Search)
 4. [Class & Objects](#Class-and-Objects)
 5. [Conditional Statements](#Conditional-Statements)
@@ -87,8 +87,11 @@
 ----
 [:arrow_up:References](#References)
 
-## Basic Data Types
+## Basic Data Types and Design
 
+- 703\. Kth Largest Element in a Stream
+    - [LINK TO GITHUB](BasicDataTypes/703_KthLargestElementInAStream.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 - 1493\. Average Salary Excluding the Minimum and Maximum Salary
     - [LINK TO GITHUB](BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
