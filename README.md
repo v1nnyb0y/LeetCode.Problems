@@ -311,6 +311,9 @@
 
 ## Math
 
+- 910\. Smallest Range II
+    - [LINK TO GITHUB](Math/910_SmallestRangeII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-range-ii/)
 - 973\. K Closest Pointrs to Origin
     - [LINK TO GITHUB](Math/973_KClosestPointsToOrigin.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/k-closest-points-to-origin/)
