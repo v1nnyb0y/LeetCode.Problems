@@ -374,6 +374,9 @@
 - 141\. Linked List Cycle
     - [LINK TO GITHUB](LinkedListAndTree/141_LinkedListCycle.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-cycle/) 
+- 143\. Reorder List
+    - [LINK TO GITHUB](LinkedListAndTree/143_ReorderList.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-list/)
 - 203\. Remove Linked List Elements
     - [LINK TO GITHUB](LinkedListAndTree/203_RemoveLinkedListElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-linked-list-elements/) 
