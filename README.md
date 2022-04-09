@@ -371,6 +371,9 @@
 - 116\. Populating Next Right Pointers in Each Node
     - [LINK TO GITHUB](LinkedListAndTree/116_PopulatingNextRightPointersInEachNode.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- 138\. Copy List with Random Pointer
+    - [LINK TO GITHUB](LinkedListAndTree/138_CopyListWithRandomPointer.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/copy-list-with-random-pointer/)
 - 141\. Linked List Cycle
     - [LINK TO GITHUB](LinkedListAndTree/141_LinkedListCycle.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-cycle/) 
