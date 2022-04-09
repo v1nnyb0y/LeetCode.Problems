@@ -146,6 +146,9 @@
 - 852\. Peak Index in a Mountain Array
     - [LINK TO GITHUB](BinarySearch/852_PeakIndexInAMountainArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- 1337\. The K Weakest Rows in a Matrix
+    - [LINK TO GITHUB](BinarySearch/1337_TheKWeakestRowsInAMatrix.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - 1351\. Count Negative Numbers in a Sorted Matrix
     - [LINK TO GITHUB](BinarySearch/1351_CountNegativeNumbersInASortedMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
