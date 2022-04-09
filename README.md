@@ -149,6 +149,9 @@
 - 1337\. The K Weakest Rows in a Matrix
     - [LINK TO GITHUB](BinarySearch/1337_TheKWeakestRowsInAMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+- 1346\. Check If N and Its Double Exist
+    - [LINK TO GITHUB](BinarySearch/1346_CheckIfNAndItsDoubleExist.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - 1351\. Count Negative Numbers in a Sorted Matrix
     - [LINK TO GITHUB](BinarySearch/1351_CountNegativeNumbersInASortedMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
