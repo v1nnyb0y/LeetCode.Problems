@@ -296,6 +296,9 @@
 - 934\. Shortest Bridge
     - [LINK TO GITHUB](GraphTheory/934_ShortestBridge.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-bridge/)
+- 994\. Rotting Oranges
+    - [LINK TO GITHUB](GraphTheory/994_RottingOranges.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/rotting-oranges/)
 - 1020\. Number of Enclaves
     - [LINK TO GITHUB](GraphTheory/1020_NumberOfEnclaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-enclaves/) 
