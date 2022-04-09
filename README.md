@@ -47,6 +47,9 @@
 - 283\. Move Zeroes
     - [LINK TO GITHUB](Array/283_MoveZeroes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/move-zeroes/)
+- 347\. Top K Frequest Elements
+    - [LINK TO GITHUB](Array/347_TopKFrequentElements.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/top-k-frequent-elements/)
 - 350\. Intersection of Two Arrays II
     - [LINK TO GITHUB](Array/350_IntersectionOfTwoArraysII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
