@@ -23,6 +23,9 @@
 - 1\. Two Sum
     - [LINK TO GITHUB](Array/1_TwoSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum/)
+- 20\. Valid Parentheses
+    - [LINK TO GITHUB](Array/20_ValidParentheses.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/valid-parentheses/)
 - 31\. Next Permutation
     - [LINK TO GITHUB](Array/31_NextPermutation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-permutation/)
