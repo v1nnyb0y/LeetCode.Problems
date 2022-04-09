@@ -224,6 +224,9 @@
 - 122\. Best Time to Buy and Sell Stock
     - [LINK TO GITHUB](DynamicProgramming/122_BestTimeToBuyAndSellStockII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- 139\. Work Break
+    - [LINK TO GITHUB](DynamicProgramming/139_WordBreak.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/word-break/)
 - 152\. Maximum Product Subarray
     - [LINK TO GITHUB](DynamicProgramming/152_MaximumProductSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-product-subarray/)
