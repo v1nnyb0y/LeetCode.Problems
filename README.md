@@ -206,6 +206,9 @@
 
 ## Dynamic Programming
 
+- 42\. Trapping Rain Water
+    - [LINK TO GITHUB](DynamicProgramming/42_TrappingRainWater.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/trapping-rain-water/)
 - 45\. Jump Game II
     - [LINK TO GITHUB](DynamicProgramming/45_JumpGameII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game-ii/)
