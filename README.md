@@ -62,6 +62,9 @@
 - 566\. Reshape the Matrix
     - [LINK TO GITHUB](Array/566_ReshapeTheMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/)
+- 682\. Baseball Game
+    - [LINK TO GITHUB](Array/682_BaseballGame.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/baseball-game/)
 - 713\. Subarray Product Less Than K
     - [LINK TO GITHUB](Array/713_SubarrayProductLessThanK.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subarray-product-less-than-k/)
