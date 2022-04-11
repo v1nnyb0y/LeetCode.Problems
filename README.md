@@ -80,6 +80,9 @@
 - 1046\. Last Stone Weight
     - [LINK TO GITHUB](Array/1046_LastStoneWeight.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/last-stone-weight/)
+- 1260\. Shift 2D Grid
+    - [LINK TO GITHUB](Array/1260_Shift2DGrid.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/shift-2d-grid/)
 - 1572\. Matrix Diagonal Sum
     - [LINK TO GITHUB](Array/1572_MatrixDiagonalSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
@@ -116,6 +119,9 @@
 
 ## Binary Search
 
+- 33\. Search in Rotated Sorted Array
+    - [LINK TO GITHUB](BinarySearch/33_SearchInRotatedSortedArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - 34\. Find First and Last Position of Element in Sorted Array
     - [LINK TO GITHUB](BinarySearch/34_FindFirstAndLastPositionOfElementInSortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
@@ -173,6 +179,9 @@
 
 ## Class and Objects
 
+- 173\. Binary Search Tree Iterator
+    - [LINK TO GITHUB](ClassAndObjects/173_BinarySearchTreeIterator.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search-tree-iterator/)
 - 303\. Range Sum Query
     - [LINK TO GITHUB](ClassAndObjects/303_RangeSumQuery.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-immutable/)
@@ -227,6 +236,12 @@
 - 70\. Climbing Stairs
     - [LINK TO GITHUB](DynamicProgramming/70_ClimbingStairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/climbing-stairs/)
+- 91\. Decode Ways
+    - [LINK TO GITHUB](DynamicProgramming/91_DecodeWays.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/decode-ways/) 
+- 96\. Unique Binary Search Trees
+    - [LINK TO GITHUB](DynamicProgramming/96_UniqueBinarySearchTrees.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/unique-binary-search-trees/)
 - 118\. Pasacal's Triangle
     - [LINK TO GITHUB](DynamicProgramming/118_PascalsTriangle.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pascals-triangle/)   
@@ -248,9 +263,15 @@
 - 213\. House Robber II
     - [LINK TO GITHUB](DynamicProgramming/213_HouseRobberII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/house-robber-ii/) 
+- 264\. Ugly Number II
+    - [LINK TO GITHUB](DynamicProgramming/264_UglyNumberII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number-ii/)
 - 309\. Best Time to Buy and Sell Stock with Cooldown
     - [LINK TO GITHUB](DynamicProgramming/309_BestTimeToBuyAndSellStockWithCooldown.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  
+- 413\. Arithmetic Slices
+    - [LINK TO GITHUB](DynamicProgramming/413_ArithmeticSlices.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-slices/)
 - 509\. Fibonacci Number
     - [LINK TO GITHUB](DynamicProgramming/509_FibonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
@@ -290,6 +311,9 @@
 - 200\. Number of Islands
     - [LINK TO GITHUB](GraphTheory/200_NumberOfIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-islands/)
+- 365\. Water and Jug Problem
+    - [LINK TO GITHUB](GraphTheory/365_WaterAndJugProblem.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/water-and-jug-problem/)
 - 417\. Pacific Atlantic Water Flow
     - [LINK TO GITHUB](GraphTheory/417_PacificAtlanticWaterFlow.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pacific-atlantic-water-flow/)
@@ -314,6 +338,9 @@
 - 841\. Keys and Rooms
     - [LINK TO GITHUB](GraphTheory/841_KeysAndRooms.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/keys-and-rooms/)
+- 847\. Shortest Path Visiting All Nodes
+    - [LINK TO GITHUB](GraphTheory/847_ShortestPathVisitingAllNodes.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-visiting-all-nodes/solution/)
 - 934\. Shortest Bridge
     - [LINK TO GITHUB](GraphTheory/934_ShortestBridge.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-bridge/)
@@ -326,18 +353,30 @@
 - 1091\. Shortest Path in Binary Matrix
     - [LINK TO GITHUB](GraphTheory/1091_ShortestPathInBinaryMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+- 1129\. Shortest Path with Alternating Colors
+    - [LINK TO GITHUB](GraphTheory/1129_ShortestPathWithAlternatingColors.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
 - 1162\. As Far from Land as Possible
     - [LINK TO GITHUB](GraphTheory/1162_AsFarFromLandAsPossible.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/as-far-from-land-as-possible/)
 - 1254\. Number of Closed Islands
     - [LINK TO GITHUB](GraphTheory/1254_NumberOfClosedIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-closed-islands/)
+- 1306\. Jump Game III
+    - [LINK TO GITHUB](GraphTheory/1306_JumpGameIII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game-iii/)
 - 1359\. Number of Operations to Make Network Connected
     - [LINK TO GITHUB](GraphTheory/1319_NumberOfOperationsToMakeNetworkConnected.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 - 1376\. Time Needed to Inform All Employees
     - [LINK TO GITHUB](GraphTheory/1376_TimeNeededToInformAllEmployees.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/time-needed-to-inform-all-employees/) 
+- 1466\. Reorder Routes to Make All Paths Lead to the City Zero
+    - [LINK TO GITHUB](GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
+- 1654\. Minimum Jump to Reach Home
+    - [LINK TO GITHUB](GraphTheory/1654_MinimumJumpsToReachHome.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-jumps-to-reach-home/)
 - 1886\. Determine Whether Matrix Can Be Obtained By Rotation
     - [LINK TO GITHUB](GraphTheory/1886_DetermineWhetherMatrixCanBeObtainedByRotation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
@@ -353,6 +392,9 @@
 
 ## Math
 
+- 633\. Sum of Square Numbers
+    - [LINK TO GITHUB](Math/633_SumOfSquareNumbers.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-square-numbers/)
 - 910\. Smallest Range II
     - [LINK TO GITHUB](Math/910_SmallestRangeII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-range-ii/)
@@ -365,12 +407,21 @@
 
 ## Function
 
+- 46\. Permutations
+    - [LINK TO GITHUB](Function/46_Permutations.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/permutations/)
+- 77\. Combinations
+    - [LINK TO GITHUB](Function/77_Combinations.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/combinations/)
 - 496\. Next Greater Element I
     - [LINK TO GITHUB](Function/496_NextGreaterElementFirst.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-i/submissions/)
 - 589\. N-ary Tree Preorder Traversal
     - [LINK TO GITHUB](Function/589_N-aryTreePreorderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-ary-tree-preorder-traversal/submissions/)
+- 784\. Letter Case Permutation
+    - [LINK TO GITHUB](Function/784_LetterCasePermutation.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/letter-case-permutation/)
 - 1232\. Check if It is a straight Line
     - [LINK TO GITHUB](Function\1232_CheckIfItIsAStraightLine.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-it-is-a-straight-line/) 
@@ -380,12 +431,21 @@
 
 ## Linked List and Tree
 
+- 2\. Add Two Numbers
+    - [LINK TO GITHUB](LinkedListAndTree/2_AddTwoNumebers.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/add-two-numbers/)
 - 21\. Merge Two Sorted Lists
     - [LINK TO GITHUB](LinkedListAndTree/21_MergeTwoSortedLists.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-sorted-lists/)
+- 61\. Rotate List
+    - [LINK TO GITHUB](LinkedListAndTree/61_RotateList.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-list/)
 - 83\. Remove Duplicates from Sorted List
     - [LINK TO GITHUB](LinkedListAndTree/83_RemoveDuplicatedFromSortedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- 101\. Symmetric Tree
+    - [LINK TO GITHUB](LinkedListAndTree/101_SymmetricTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/symmetric-tree/)
 - 104\. Maximum Depth of Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
@@ -404,6 +464,9 @@
 - 143\. Reorder List
     - [LINK TO GITHUB](LinkedListAndTree/143_ReorderList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-list/)
+- 144\. Binary Tree Preorder Traversal
+    - [LINK TO GITHUB](LinkedListAndTree/144_BinaryTreePreorderTraversal.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - 203\. Remove Linked List Elements
     - [LINK TO GITHUB](LinkedListAndTree/203_RemoveLinkedListElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-linked-list-elements/) 
@@ -416,6 +479,9 @@
 - 429\. N-ary Tree Level Order Traversal
     - [LINK TO GITHUB](LinkedListAndTree/429_NaryTreeLevelOrderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) 
+- 445\. Add Two Numbers II
+    - [LINK TO GITHUB](LinkedListAndTree/445_AddTwoNumbersII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/add-two-numbers-ii/)
 - 617\. Merge Two Binary Trees
     - [LINK TO GITHUB](LinkedListAndTree/617_MergeTwoBinaryTrees.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-binary-trees/)
@@ -557,6 +623,9 @@
 - 977\. Squares of a Sorted Array
     - [LINK TO GITHUB](TwoPointers/977_SquaresOfASortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- 1855\. Maximum Distance Between a Pair of Values
+    - [LINK TO GITHUB](TwoPointers/1855_MaximumDistanceBetweenAPairOfValues.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)
 
 ----
 [:arrow_up:References](#References)
