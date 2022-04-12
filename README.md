@@ -50,6 +50,9 @@
 - 283\. Move Zeroes
     - [LINK TO GITHUB](Array/283_MoveZeroes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/move-zeroes/)
+- 289\. Game of Life
+    - [LINK TO GITHUB](Array/289_GameOfLife.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/game-of-life/)
 - 347\. Top K Frequest Elements
     - [LINK TO GITHUB](Array/347_TopKFrequentElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/top-k-frequent-elements/)
@@ -71,6 +74,9 @@
 - 739\. Daily Temperatures
     - [LINK TO GITHUB](Array/739_DailyTemperature.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/daily-temperatures/) 
+- 860\. Lemonade Change
+    - [LINK TO GITHUB](Array/860_LemonadeChange.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/lemonade-change/)
 - 896\. Monotonic Array
     - [LINK TO GITHUB](Array/896_MonotonicArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/monotonic-array/) 
@@ -112,7 +118,10 @@
     - [LINK TO LEET CODE](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - 1523\. Count Odd Numbers in an Interval Range
     - [LINK TO GITHUB](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
-    - [LINK TO LEET CODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+- 1845\. Seat Reservation Manager
+    - [LINK TO GITHUB](BasicDataTypes/1845_SeatReservationManager.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/seat-reservation-manager/)
 
 ----
 [:arrow_up:References](#References)
@@ -134,6 +143,9 @@
 - 74\. Search a 2D Matrix
     - [LINK TO GITHUB](BinarySearch/74_SearchA2DMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-a-2d-matrix/)
+- 153\. Find Minimum in Rotated Sorted Array
+    - [LINK TO GITHUB](BinarySearch/153_FindMinimumInRotatedSortedArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - 278\. First Bad Version
     - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/) 
@@ -245,6 +257,12 @@
 - 118\. Pasacal's Triangle
     - [LINK TO GITHUB](DynamicProgramming/118_PascalsTriangle.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pascals-triangle/)   
+- 119\. Pascal's Triangle II
+    - [LINK TO GITHUB](DynamicProgramming/119_PasacalsTriangleII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/pascals-triangle-ii/)
+- 120\. Triangle
+    - [LINK TO GITHUB](DynamicProgramming/120_Triangle.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/triangle/)
 - 121\. Best Time to Buy and Sell Stock
     - [LINK TO GITHUB](DynamicProgramming/121_BestTimeToButAndSellStock.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -308,6 +326,9 @@
 - 54\. Spiral Matrix
     - [LINK TO GITHUB](GraphTheory/54_SpiralMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/spiral-matrix/)
+- 127\. Word Ladder
+    - [LINK TO GITHUB](GraphTheory/127_WordLadder.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/word-ladder/)
 - 200\. Number of Islands
     - [LINK TO GITHUB](GraphTheory/200_NumberOfIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-islands/)
@@ -317,6 +338,9 @@
 - 417\. Pacific Atlantic Water Flow
     - [LINK TO GITHUB](GraphTheory/417_PacificAtlanticWaterFlow.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- 433\. Minimum Generic Mutation
+    - [LINK TO GITHUB](GraphTheory/433_MinimumGeneticMutation.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-genetic-mutation/)
 - 542\. 01 Matrix
     - [LINK TO GITHUB](GraphTheory/542_01Matrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/01-matrix/)
@@ -329,6 +353,9 @@
 - 733\. Flood Fill
     - [LINK TO GITHUB](GraphTheory/733_FloodFill.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flood-fill/)
+- 752\. Open the Lock
+    - [LINK TO GITHUB](GraphTheory/752_OpenTheLock.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/open-the-lock/)
 - 797\. All Paths From Source To Target
     - [LINK TO GITHUB](GraphTheory/797_AllPathsFromSourceToTarget.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/all-paths-from-source-to-target/)
@@ -443,15 +470,24 @@
 - 83\. Remove Duplicates from Sorted List
     - [LINK TO GITHUB](LinkedListAndTree/83_RemoveDuplicatedFromSortedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- 94\. Binary Tree Inorder Traversal
+    - [LINK TO GITHUB](LinkedListAndTree/94_BinaryTreeInorderTraversal.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - 101\. Symmetric Tree
     - [LINK TO GITHUB](LinkedListAndTree/101_SymmetricTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/symmetric-tree/)
+- 102\. Binary Tree Level Order Traversal
+    - [LINK TO GITHUB](LinkedListAndTree/102_BinaryTreeLevelOrderTraversal.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - 104\. Maximum Depth of Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
 - 110\. Balanced Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/110_BalancedBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/balanced-binary-tree/) 
+- 112\. Path Sum
+    - [LINK TO GITHUB](LinkedListAndTree/112_PathSum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/path-sum/)
 - 116\. Populating Next Right Pointers in Each Node
     - [LINK TO GITHUB](LinkedListAndTree/116_PopulatingNextRightPointersInEachNode.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
@@ -467,12 +503,18 @@
 - 144\. Binary Tree Preorder Traversal
     - [LINK TO GITHUB](LinkedListAndTree/144_BinaryTreePreorderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- 145\. Binary Tree Postorder Traversal
+    - [LINK TO GITHUB](LinkedListAndTree/145_BinaryTreePostorderTraversal.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - 203\. Remove Linked List Elements
     - [LINK TO GITHUB](LinkedListAndTree/203_RemoveLinkedListElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-linked-list-elements/) 
 - 206\. Reverse Linked List
     - [LINK TO GITHUB](LinkedListAndTree/206_ReverseLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-linked-list/)
+- 226\. Invert Binary Tree
+    - [LINK TO GITHUB](LinkedListAndTree/226_InvertBinaryTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/invert-binary-tree/)
 - 404\. Sum of Left Leaves
     - [LINK TO GITHUB](LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-left-leaves/) 
