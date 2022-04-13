@@ -11,12 +11,13 @@
 7. [Dynamic Programming](#Dynamic-Programming)
 8. [Graph Theory](#Graph-Theory)
 9. [Math](#Math)
-10. [Function](#Function)
-11. [Linked List & Tree](#Linked-List-and-Tree)
-12. [Loop](#Loop)
-13. [Operator](#Operator)
-14. [Strings](#Strings)
-15. [Two Pointers problems](#Two-Pointers-problems)
+10. [SQL](#SQL)
+11. [Function](#Function)
+12. [Linked List & Tree](#Linked-List-and-Tree)
+13. [Loop](#Loop)
+14. [Operator](#Operator)
+15. [Strings](#Strings)
+16. [Two Pointers problems](#Two-Pointers-problems)
 
 ## Array
 
@@ -431,6 +432,15 @@
 - 973\. K Closest Pointrs to Origin
     - [LINK TO GITHUB](Math/973_KClosestPointsToOrigin.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+----
+[:arrow_up:References](#References)
+
+## SQL
+
+- 595\. Big Countries
+    - [LINK TO GITHUB](SQL/595_BigCountries.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/big-countries/)
 
 ----
 [:arrow_up:References](#References)
