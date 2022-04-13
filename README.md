@@ -35,6 +35,9 @@
 - 53\. Maximum Subarray
     - [LINK TO GITHUB](Array/53_MaximumSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-subarray/) 
+- 59\. Spiral Matrix II
+    - [LINK TO GITHUB](Array/59_SpiralMatrixII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/spiral-matrix-ii/)
 - 66\. Plus One
     - [LINK TO GITHUB](Array/66_PlusOne.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/plus-one/)
