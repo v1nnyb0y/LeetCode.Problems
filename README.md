@@ -438,6 +438,9 @@
 
 ## SQL
 
+- 584\. Find Customer Referee
+    - [LINK TO GITHUB](SQL/584_FindCustomerReferee.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-customer-referee/submissions/)
 - 595\. Big Countries
     - [LINK TO GITHUB](SQL/595_BigCountries.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/big-countries/)
