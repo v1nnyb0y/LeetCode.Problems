@@ -441,6 +441,9 @@
 - 595\. Big Countries
     - [LINK TO GITHUB](SQL/595_BigCountries.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/big-countries/)
+- 1757\. Recyclable and Low Fat Products
+    - [LINK TO GITHUB](SQL/1757_RecyclableAndLowFatProducts.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/)
 
 ----
 [:arrow_up:References](#References)
