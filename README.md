@@ -150,6 +150,9 @@
 - 153\. Find Minimum in Rotated Sorted Array
     - [LINK TO GITHUB](BinarySearch/153_FindMinimumInRotatedSortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- 209\. Minimum Size Subarray Sum
+    - [LINK TO GITHUB](BinarySearch/209_MinimumSizeSubarraySum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - 278\. First Bad Version
     - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/) 
@@ -162,6 +165,9 @@
 - 441\. Arranging Coins
     - [LINK TO GITHUB](BinarySearch/441_ArrangingCoins.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arranging-coins/)
+- 611\. Valid Triangle Number
+    - [LINK TO GITHUB](BinarySearch/611_ValidTriangleNumber.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/valid-triangle-number/)
 - 704\. Binary Search
     - [LINK TO GITHUB](BinarySearch/704_BinarySearch.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search/)
@@ -195,12 +201,18 @@
 
 ## Class and Objects
 
+- 155\. Min Stack
+    - [LINK TO GITHUB](ClassAndObjects/155_MinStack.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/min-stack/)   
 - 173\. Binary Search Tree Iterator
     - [LINK TO GITHUB](ClassAndObjects/173_BinarySearchTreeIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search-tree-iterator/)
 - 303\. Range Sum Query
     - [LINK TO GITHUB](ClassAndObjects/303_RangeSumQuery.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-immutable/)
+- 341\. Flatten Nested List Iterator
+    - [LINK TO GITHUB](ClassAndObjects/341_FlattenNestedListIterator.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/flatten-nested-list-iterator/)
 - 1603\. Design Parking System
     - [LINK TO GITHUB](ClassAndObjects/1603_DesignParkingSystem.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-parking-system/) 
@@ -309,6 +321,9 @@
 - 918\. Maximum Sum Circular Subarray
     - [LINK TO GITHUB](DynamicProgramming/918_MaximumSumCircularSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+- 931\. Minimum Faliing Path Sum
+    - [LINK TO GITHUB](DynamicProgramming/931_MinimumFallingPathSum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-falling-path-sum/)
 - 1014\. Best Sightseeing Pair
     - [LINK TO GITHUB](DynamicProgramming/1014_BestSighseeingPair.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-sightseeing-pair/)
@@ -378,6 +393,9 @@
 - 994\. Rotting Oranges
     - [LINK TO GITHUB](GraphTheory/994_RottingOranges.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotting-oranges/)
+- 997\. Find the Town Judge
+    - [LINK TO GITHUB](GraphTheory/997_FindTheTownJudge.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-town-judge/)
 - 1020\. Number of Enclaves
     - [LINK TO GITHUB](GraphTheory/1020_NumberOfEnclaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-enclaves/) 
@@ -405,6 +423,9 @@
 - 1466\. Reorder Routes to Make All Paths Lead to the City Zero
     - [LINK TO GITHUB](GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
+- 1557\. Minimum Number of Vertices to Reach All Nodes
+    - [LINK TO GITHUB](GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 - 1654\. Minimum Jump to Reach Home
     - [LINK TO GITHUB](GraphTheory/1654_MinimumJumpsToReachHome.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-jumps-to-reach-home/)
@@ -423,6 +444,9 @@
 
 ## Math
 
+- 231\. Power of Two
+    - [LINK TO GITHUB](Math/231_PowerOfTwo.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-two/)
 - 633\. Sum of Square Numbers
     - [LINK TO GITHUB](Math/633_SumOfSquareNumbers.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-square-numbers/)
@@ -549,6 +573,12 @@
 - 617\. Merge Two Binary Trees
     - [LINK TO GITHUB](LinkedListAndTree/617_MergeTwoBinaryTrees.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-binary-trees/)
+- 700\. Search in a Binary Search Tree
+    - [LINK TO GITHUB](LinkedListAndTree/700_SearchInABinarySearchTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- 701\. Insert Into a Binary Search Tree
+    - [LINK TO GITHUB](LinkedListAndTree/701_InsertIntoABinarySearchTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 - 876\. Middle of the Linked List
     - [LINK TO GITHUB](LinkedListAndTree/876_MiddleOfTheLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
