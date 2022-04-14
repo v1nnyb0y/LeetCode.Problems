@@ -45,6 +45,9 @@
 - 88\. Merge Sorted Array
     - [LINK TO GITHUB](Array/88_MergeSortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-sorted-array/)
+- 136\. Single Number
+    - [LINK TO GITHUB]()
+    - [LINK TO LEETCODE](https://leetcode.com/problems/single-number/)
 - 150\. Evaluate Reverse Polish Notation
     - [LINK TO GITHUB](Array/150_EvaluateReversePolishNotation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/evaluate-reverse-polish-notation/) 
@@ -168,6 +171,9 @@
 - 611\. Valid Triangle Number
     - [LINK TO GITHUB](BinarySearch/611_ValidTriangleNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-triangle-number/)
+- 658\. Find K Closest Elements
+    - [LINK TO GITHUB](BinarySearch/658_FindKClosestElements.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-k-closest-elements/)
 - 704\. Binary Search
     - [LINK TO GITHUB](BinarySearch/704_BinarySearch.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search/)
@@ -195,6 +201,9 @@
 - 1608\. Special Array With X Elements Greated Than or Equal X
     - [LINK TO GITHUB](BinarySearch/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+- 1854\. Find the Student that Will Replace the Chalk
+    - [LINK TO GITHUB](BinarySearch/1854_FindTheStudentThatWillReplaceTheChalk.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)
 
 ----
 [:arrow_up:References](#References)
@@ -213,9 +222,15 @@
 - 341\. Flatten Nested List Iterator
     - [LINK TO GITHUB](ClassAndObjects/341_FlattenNestedListIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flatten-nested-list-iterator/)
+- 707\. Design Linked List
+    - [LINK TO GITHUB](ClassAndObjects/707_DesignLinkedList.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/design-linked-list/)
 - 1603\. Design Parking System
     - [LINK TO GITHUB](ClassAndObjects/1603_DesignParkingSystem.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-parking-system/) 
+- 1797\. Design Authentication Manager  
+    - [LINK TO GITHUB](ClassAndObjects/1797_DesignAuthenticationManager.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/design-authentication-manager/)
 
 ----
 [:arrow_up:References](#References)
@@ -330,6 +345,9 @@
 - 1137\. N-th Tribonacci Number
     - [LINK TO GITHUB](DynamicProgramming/1137_NthTribonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-th-tribonacci-number/) 
+- 1314\. Matrix Block Sum
+    - [LINK TO GITHUB](DynamicProgramming/1314_MatrixBlockSum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/matrix-block-sum/)
 - 1567\. Maximum Length of Subarray With Positive Product
     - [LINK TO GITHUB](DynamicProgramming/1567_MaximumLengthOfSubarrayWithPositiveProduct.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)
@@ -375,6 +393,9 @@
 - 752\. Open the Lock
     - [LINK TO GITHUB](GraphTheory/752_OpenTheLock.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/open-the-lock/)
+- 785\. Is Graph Bipartite?
+    - [LINK TO GITHUB](GraphTheory/785_IsGraphBipartite.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/is-graph-bipartite/)
 - 797\. All Paths From Source To Target
     - [LINK TO GITHUB](GraphTheory/797_AllPathsFromSourceToTarget.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/all-paths-from-source-to-target/)
@@ -387,6 +408,9 @@
 - 847\. Shortest Path Visiting All Nodes
     - [LINK TO GITHUB](GraphTheory/847_ShortestPathVisitingAllNodes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-visiting-all-nodes/solution/)
+- 886\. Possible Bipartion
+    - [LINK TO GITHUB](GraphTheory/886_PossibleBipartion.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/possible-bipartition/)
 - 934\. Shortest Bridge
     - [LINK TO GITHUB](GraphTheory/934_ShortestBridge.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-bridge/)
@@ -426,6 +450,9 @@
 - 1557\. Minimum Number of Vertices to Reach All Nodes
     - [LINK TO GITHUB](GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+- 1615\. Maximal Network Rank
+    - [LINK TO GITHUB](GraphTheory/1615_MaximalNetworkRank.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximal-network-rank/)
 - 1654\. Minimum Jump to Reach Home
     - [LINK TO GITHUB](GraphTheory/1654_MinimumJumpsToReachHome.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-jumps-to-reach-home/)
@@ -465,15 +492,24 @@
 - 183\. Customers Who Never Order
     - [LINK TO GITHUB](SQL/183_CustomersWhoNeverOrder.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/customers-who-never-order/)
+- 196\. Delete Duplicate Emails
+    - [LINK TO GITHUB](SQL/196_DeleteDuplicateEmails.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/delete-duplicate-emails/)
 - 584\. Find Customer Referee
     - [LINK TO GITHUB](SQL/584_FindCustomerReferee.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-customer-referee/submissions/)
 - 595\. Big Countries
     - [LINK TO GITHUB](SQL/595_BigCountries.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/big-countries/)
+- 627\. Swap Salary
+    - [LINK TO GITHUB](SQL/627_SwapSalary.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/swap-salary/)
 - 1757\. Recyclable and Low Fat Products
     - [LINK TO GITHUB](SQL/1757_RecyclableAndLowFatProducts.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/)
+- 1873\. Calculate Special Bonus
+    - [LINK TO GITHUB](SQL/1873_CalculateSpecialBonus.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/calculate-special-bonus/)
 
 ----
 [:arrow_up:References](#References)
@@ -519,6 +555,9 @@
 - 94\. Binary Tree Inorder Traversal
     - [LINK TO GITHUB](LinkedListAndTree/94_BinaryTreeInorderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- 98\. Validate Binary Search Tree
+    - [LINK TO GITHUB](LinkedListAndTree/98_ValidateBinarySearchTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/validate-binary-search-tree/)
 - 101\. Symmetric Tree
     - [LINK TO GITHUB](LinkedListAndTree/101_SymmetricTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/symmetric-tree/)
@@ -561,6 +600,9 @@
 - 226\. Invert Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/226_InvertBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/invert-binary-tree/)
+- 235\. Lowest Common Ancestor of a Binary Search Tree
+    - [LINK TO GITHUB](LinkedListAndTree/235_LowestCommonAncestorOfABinarySearchTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - 404\. Sum of Left Leaves
     - [LINK TO GITHUB](LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-left-leaves/) 
@@ -573,6 +615,9 @@
 - 617\. Merge Two Binary Trees
     - [LINK TO GITHUB](LinkedListAndTree/617_MergeTwoBinaryTrees.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-binary-trees/)
+- 653\. Two Sum IV - Input is a BST 
+    - [LINK TO GITHUB](LinkedListAndTree/653_TwoSumIV_InputIsABST.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 - 700\. Search in a Binary Search Tree
     - [LINK TO GITHUB](LinkedListAndTree/700_SearchInABinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-a-binary-search-tree/)
@@ -615,6 +660,9 @@
 
 ## Operator
 
+- 190\. Reverse Bits
+    - [LINK TO GITHUB](Operator/190_ReverseBits.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-bits/)
 - 191\. Number of 1 Bits
     - [LINK TO GITHUB](Operator/191_NumberOf1Bit.ipynb)
     - [LINK TO LEET CODE](https://leetcode.com/problems/number-of-1-bits/)
