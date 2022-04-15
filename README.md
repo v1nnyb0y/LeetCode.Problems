@@ -24,6 +24,9 @@
 - 1\. Two Sum
     - [LINK TO GITHUB](Array/1_TwoSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum/)
+- 15\. 3Sum
+    - [LINK TO GITHUB](Array/15_3Sum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/3sum/)  
 - 20\. Valid Parentheses
     - [LINK TO GITHUB](Array/20_ValidParentheses.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-parentheses/)
@@ -46,11 +49,14 @@
     - [LINK TO GITHUB](Array/88_MergeSortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-sorted-array/)
 - 136\. Single Number
-    - [LINK TO GITHUB]()
+    - [LINK TO GITHUB](Array/136_SingleNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/single-number/)
 - 150\. Evaluate Reverse Polish Notation
     - [LINK TO GITHUB](Array/150_EvaluateReversePolishNotation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/evaluate-reverse-polish-notation/) 
+- 169\. Majority Element
+    - [LINK TO GITHUB](Array/169_MajorityElement.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/majority-element/)
 - 217\. Contains Duplicate
     - [LINK TO GITHUB](Array/217_ContainsDuplicate.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate/)
@@ -159,6 +165,9 @@
 - 278\. First Bad Version
     - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/) 
+- 300\. Longest Increasing Subsequence
+    - [LINK TO GITHUB](BinarySearch/300_LongestIncreasingSubsequence.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-increasing-subsequence/)
 - 367\. Valid Perfect Square
     - [LINK TO GITHUB](BinarySearch/367_ValidPerfectSquare.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-perfect-square/)
@@ -201,6 +210,9 @@
 - 1608\. Special Array With X Elements Greated Than or Equal X
     - [LINK TO GITHUB](BinarySearch/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+- 1760\. Minimum Limit of Balls in a Bag
+    - [LINK TO GITHUB](BinarySearch/1760_MinimumLimitOfBallsInABag.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
 - 1854\. Find the Student that Will Replace the Chalk
     - [LINK TO GITHUB](BinarySearch/1854_FindTheStudentThatWillReplaceTheChalk.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)
@@ -222,9 +234,15 @@
 - 341\. Flatten Nested List Iterator
     - [LINK TO GITHUB](ClassAndObjects/341_FlattenNestedListIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flatten-nested-list-iterator/)
+- 380\. Insert Delete GetRandom O(1)
+    - [LINK TO GITHUB](ClassAndObjects/380_InsertDeleteGetRandomO1.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 - 707\. Design Linked List
     - [LINK TO GITHUB](ClassAndObjects/707_DesignLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-linked-list/)
+- 729\. My Calendar I
+    - [LINK TO GITHUB](ClassAndObjects/729_MyCalendarI.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/my-calendar-i/)
 - 1603\. Design Parking System
     - [LINK TO GITHUB](ClassAndObjects/1603_DesignParkingSystem.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-parking-system/) 
@@ -276,6 +294,12 @@
 - 55\. Jump Game
     - [LINK TO GITHUB](DynamicProgramming/55_JumpGame.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game/) 
+- 62\. Unique Paths
+    - [LINK TO GITHUB](DynamicProgramming/62_UniquePaths.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/unique-paths/)
+- 63\. Unique Paths II
+    - [LINK TO GITHUB](DynamicProgramming/63_UniquePathsII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/unique-paths-ii/solution/)
 - 70\. Climbing Stairs
     - [LINK TO GITHUB](DynamicProgramming/70_ClimbingStairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/climbing-stairs/)
@@ -504,6 +528,15 @@
 - 627\. Swap Salary
     - [LINK TO GITHUB](SQL/627_SwapSalary.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swap-salary/)
+- 1484\. Group Sold Products By The Date
+    - [LINK TO GITHUB](SQL/1484_GroupSoldProductsByTheDate.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/group-sold-products-by-the-date/)
+- 1527\. Patients With a Condition
+    - [LINK TO GITHUB](SQL/1527_PatientsWithACondition.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/patients-with-a-condition/)
+- 1667\. Fix Names in a Table
+    - [LINK TO GITHUB](SQL/1667_FixNamesInATable.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/fix-names-in-a-table/)
 - 1757\. Recyclable and Low Fat Products
     - [LINK TO GITHUB](SQL/1757_RecyclableAndLowFatProducts.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/)
@@ -618,6 +651,9 @@
 - 653\. Two Sum IV - Input is a BST 
     - [LINK TO GITHUB](LinkedListAndTree/653_TwoSumIV_InputIsABST.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+- 669\. Trim a Binary Search Tree
+    - [LINK TO GITHUB](LinkedListAndTree/669_TrimABinarySearchTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/trim-a-binary-search-tree/)
 - 700\. Search in a Binary Search Tree
     - [LINK TO GITHUB](LinkedListAndTree/700_SearchInABinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-a-binary-search-tree/)
