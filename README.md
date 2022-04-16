@@ -39,6 +39,9 @@
 - 53\. Maximum Subarray
     - [LINK TO GITHUB](Array/53_MaximumSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-subarray/) 
+- 56\. Merge Intervals
+    - [LINK TO GITHUB](Array/56_MergeIntervals.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/merge-intervals/)
 - 59\. Spiral Matrix II
     - [LINK TO GITHUB](Array/59_SpiralMatrixII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/spiral-matrix-ii/)
@@ -159,6 +162,9 @@
 - 153\. Find Minimum in Rotated Sorted Array
     - [LINK TO GITHUB](BinarySearch/153_FindMinimumInRotatedSortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- 162\. Find Peak Element
+    - [LINK TO GITHUB](BinarySearch/162_FindPeakElement.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-peak-element/)
 - 209\. Minimum Size Subarray Sum
     - [LINK TO GITHUB](BinarySearch/209_MinimumSizeSubarraySum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-size-subarray-sum/)
@@ -192,6 +198,9 @@
 - 852\. Peak Index in a Mountain Array
     - [LINK TO GITHUB](BinarySearch/852_PeakIndexInAMountainArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- 875\. Koko Eating Bananas
+    - [LINK TO GITHUB](BinarySearch/875_KokoEatingBananas.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/koko-eating-bananas/)
 - 1337\. The K Weakest Rows in a Matrix
     - [LINK TO GITHUB](BinarySearch/1337_TheKWeakestRowsInAMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
@@ -207,6 +216,9 @@
 - 1539\. Kth Missing Positive Number
     - [LINK TO GITHUB](BinarySearch/1539_KthMissingPositiveNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-missing-positive-number/)
+- 1552\. Magnetic Force Between Two Balls
+    - [LINK TO GITHUB](BinarySearch/1552_MagneticForceBetweenTwoBalls.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/magnetic-force-between-two-balls/)
 - 1608\. Special Array With X Elements Greated Than or Equal X
     - [LINK TO GITHUB](BinarySearch/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
@@ -237,6 +249,9 @@
 - 380\. Insert Delete GetRandom O(1)
     - [LINK TO GITHUB](ClassAndObjects/380_InsertDeleteGetRandomO1.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- 706\. Design HashMap
+    - [LINK TO GITHUB](ClassAndObjects/706_DesignHashMap.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/design-hashmap/)
 - 707\. Design Linked List
     - [LINK TO GITHUB](ClassAndObjects/707_DesignLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-linked-list/)
@@ -300,6 +315,9 @@
 - 63\. Unique Paths II
     - [LINK TO GITHUB](DynamicProgramming/63_UniquePathsII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/unique-paths-ii/solution/)
+- 64\. Minimum Path Sum
+    - [LINK TO GITHUB](DynamicProgramming/64_MinimumPathSum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-path-sum/)
 - 70\. Climbing Stairs
     - [LINK TO GITHUB](DynamicProgramming/70_ClimbingStairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/climbing-stairs/)
@@ -336,6 +354,9 @@
 - 213\. House Robber II
     - [LINK TO GITHUB](DynamicProgramming/213_HouseRobberII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/house-robber-ii/) 
+- 221\. Maximal Square
+    - [LINK TO GITHUB](DynamicProgramming/221_MaximalSquare.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximal-square/)
 - 264\. Ugly Number II
     - [LINK TO GITHUB](DynamicProgramming/264_UglyNumberII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number-ii/)
@@ -513,6 +534,9 @@
 
 ## SQL
 
+- 176\. Second Highest Salary
+    - [LINK TO GITHUB](SQL/176_SecondHighestSalary.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/second-highest-salary/)
 - 183\. Customers Who Never Order
     - [LINK TO GITHUB](SQL/183_CustomersWhoNeverOrder.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/customers-who-never-order/)
@@ -525,6 +549,9 @@
 - 595\. Big Countries
     - [LINK TO GITHUB](SQL/595_BigCountries.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/big-countries/)
+- 608\. Tree Node
+    - [LINK TO GITHUB](SQL/608_TreeNode.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/tree-node/)
 - 627\. Swap Salary
     - [LINK TO GITHUB](SQL/627_SwapSalary.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swap-salary/)
@@ -540,9 +567,15 @@
 - 1757\. Recyclable and Low Fat Products
     - [LINK TO GITHUB](SQL/1757_RecyclableAndLowFatProducts.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/)
+- 1795\. Rearrange Products Table
+    - [LINK TO GITHUB](SQL/1795_RearrangeProductsTable.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/rearrange-products-table/)
 - 1873\. Calculate Special Bonus
     - [LINK TO GITHUB](SQL/1873_CalculateSpecialBonus.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/calculate-special-bonus/)
+- 1965\. Employees With Missing Information
+    - [LINK TO GITHUB](SQL/1965_EmployeesWithMissingInformation.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/employees-with-missing-information/)
 
 ----
 [:arrow_up:References](#References)
@@ -645,6 +678,9 @@
 - 445\. Add Two Numbers II
     - [LINK TO GITHUB](LinkedListAndTree/445_AddTwoNumbersII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-two-numbers-ii/)
+- 538\. Convert BST to Greater Tree
+    - [LINK TO GITHUB](LinkedListAndTree/538_ConvertBSTToGreaterTreea.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 - 617\. Merge Two Binary Trees
     - [LINK TO GITHUB](LinkedListAndTree/617_MergeTwoBinaryTrees.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-binary-trees/)
@@ -774,6 +810,9 @@
 - 19\. Remove Nth Node Fromt End of List
     - [LINK TO GITHUB](TwoPointers/19_RemoveNthNodeFromTheList)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/)
+- 75\. Sort Colors
+    - [LINK TO GITHUB](TwoPointers/75_SortColors.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sort-colors/)
 - 167\. Two Sum II
     - [LINK TO GITHUB](TwoPointers/167_TwoSumII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
