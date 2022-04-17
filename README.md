@@ -699,6 +699,9 @@
 - 876\. Middle of the Linked List
     - [LINK TO GITHUB](LinkedListAndTree/876_MiddleOfTheLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
+- 897\. Increasing Order Search Tree    
+    - [LINK TO GITHUB](LinkedListAndTree/897_IncreasingOrderSearchTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/increasing-order-search-tree/)   
 - 1290\. Convert Binary Number in a Linked List of Integer
     - [LINK TO GITHUB](LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
