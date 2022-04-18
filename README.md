@@ -168,9 +168,15 @@
 - 209\. Minimum Size Subarray Sum
     - [LINK TO GITHUB](BinarySearch/209_MinimumSizeSubarraySum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- 240\. Search a 2D Matrix II
+    - [LINK TO GITHUB](BinarySearch/240_SearchA2DMatrixII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - 278\. First Bad Version
     - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/) 
+    - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/)
+- 287\. Find the Duplicate Number
+    - [LINK TO GITHUB](BinarySearch/287_FindTheDuplicateNumber.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-duplicate-number/)
 - 300\. Longest Increasing Subsequence
     - [LINK TO GITHUB](BinarySearch/300_LongestIncreasingSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-increasing-subsequence/)
@@ -201,6 +207,9 @@
 - 875\. Koko Eating Bananas
     - [LINK TO GITHUB](BinarySearch/875_KokoEatingBananas.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/koko-eating-bananas/)
+- 1283\. Find the Smallest Divisor Given a Threshold
+    - [LINK TO GITHUB](BinarySearch/1283_FindTheSmallestDivisorGivenAThreshold.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 - 1337\. The K Weakest Rows in a Matrix
     - [LINK TO GITHUB](BinarySearch/1337_TheKWeakestRowsInAMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
@@ -228,6 +237,12 @@
 - 1854\. Find the Student that Will Replace the Chalk
     - [LINK TO GITHUB](BinarySearch/1854_FindTheStudentThatWillReplaceTheChalk.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)
+- 1870\. Minimum Speed to Arrive on Time
+    - [LINK TO GITHUB](BinarySearch/1870_MinimumSpeedToArriveOnTime.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
+- 1898\. Maximum Number of Removable Characters
+    - [LINK TO GITHUB](BinarySearch/1898_MaximumNumberOfRemovableCharacters.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-number-of-removable-characters/)
 
 ----
 [:arrow_up:References](#References)
@@ -300,6 +315,9 @@
 
 ## Dynamic Programming
 
+- 5\. Longest Palindromic Substring
+    - [LINK TO GITHUB](DynamicProgramming/5_LongestPalindromicSubstring.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-palindromic-substring/)
 - 42\. Trapping Rain Water
     - [LINK TO GITHUB](DynamicProgramming/42_TrappingRainWater.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/trapping-rain-water/)
@@ -359,16 +377,25 @@
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximal-square/)
 - 264\. Ugly Number II
     - [LINK TO GITHUB](DynamicProgramming/264_UglyNumberII.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number-ii/)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number-ii/)  
 - 309\. Best Time to Buy and Sell Stock with Cooldown
     - [LINK TO GITHUB](DynamicProgramming/309_BestTimeToBuyAndSellStockWithCooldown.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  
+- 376\. Wiggle Subsequence
+    - [LINK TO GITHUB](DynamicProgramming/376_WiggleSubsequence.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/wiggle-subsequence/)    
 - 413\. Arithmetic Slices
     - [LINK TO GITHUB](DynamicProgramming/413_ArithmeticSlices.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-slices/)
+- 435\. Non-overlapping Intervals
+    - [LINK TO GITHUB](DynamicProgramming/435_Non-overlappingIntervals.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/non-overlapping-intervals/)
 - 509\. Fibonacci Number
     - [LINK TO GITHUB](DynamicProgramming/509_FibonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
+- 516\. Longest Palindromic Subsequence
+    - [LINK TO GITHUB](DynamicProgramming/516_LongestPalindromicSubsequence.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-palindromic-subsequence/)
 - 714\. Best Time to Buy and Sell Stock with Transaction Fee
     - [LINK TO GITHUB](DynamicProgramming/714_BestTimeToBuyAndSellStockWithTransactionFee.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
@@ -534,6 +561,9 @@
 
 ## SQL
 
+- 175\. Combine Two Tables
+    - [LINK TO GITHUB](SQL/175_CombineTwoTables.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/combine-two-tables/)
 - 176\. Second Highest Salary
     - [LINK TO GITHUB](SQL/176_SecondHighestSalary.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/second-highest-salary/)
@@ -543,24 +573,36 @@
 - 196\. Delete Duplicate Emails
     - [LINK TO GITHUB](SQL/196_DeleteDuplicateEmails.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-duplicate-emails/)
+- 197\. Rising Temperature
+    - [LINK TO GITHUB](SQL/197_RisingTemperature.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/rising-temperature/) 
 - 584\. Find Customer Referee
     - [LINK TO GITHUB](SQL/584_FindCustomerReferee.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-customer-referee/submissions/)
 - 595\. Big Countries
     - [LINK TO GITHUB](SQL/595_BigCountries.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/big-countries/)
+- 607\. Sales Person
+    - [LINK TO GITHUB](SQL/607_SalesPerson.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sales-person/)
 - 608\. Tree Node
     - [LINK TO GITHUB](SQL/608_TreeNode.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/tree-node/)
 - 627\. Swap Salary
     - [LINK TO GITHUB](SQL/627_SwapSalary.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swap-salary/)
+- 1148\. Article Views I
+    - [LINK TO GITHUB](SQL/1148_ArticleViewI.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/article-views-i/)
 - 1484\. Group Sold Products By The Date
     - [LINK TO GITHUB](SQL/1484_GroupSoldProductsByTheDate.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/group-sold-products-by-the-date/)
 - 1527\. Patients With a Condition
     - [LINK TO GITHUB](SQL/1527_PatientsWithACondition.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/patients-with-a-condition/)
+- 1581\. Customer Who Visited but Did Not Make Any Transactions
+    - [LINK TO GITHUB](SQL/1581_CustomerWhoVisitedButDidNotMakeAnyTransactions.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)
 - 1667\. Fix Names in a Table
     - [LINK TO GITHUB](SQL/1667_FixNamesInATable.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fix-names-in-a-table/)
@@ -666,6 +708,9 @@
 - 226\. Invert Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/226_InvertBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/invert-binary-tree/)
+- 230\. Kth Smallest Element in a BST
+    - [LINK TO GITHUB](LinkedListAndTree/230_KthSmallestElementInABST.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - 235\. Lowest Common Ancestor of a Binary Search Tree
     - [LINK TO GITHUB](LinkedListAndTree/235_LowestCommonAncestorOfABinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
@@ -816,6 +861,9 @@
 - 75\. Sort Colors
     - [LINK TO GITHUB](TwoPointers/75_SortColors.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-colors/)
+- 82\. Remove Duplicates from Sorted List II
+    - [LINK TO GITHUB](TwoPointers/82_RemoveDuplicatesFromSortedListII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - 167\. Two Sum II
     - [LINK TO GITHUB](TwoPointers/167_TwoSumII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -834,6 +882,9 @@
 - 680\. Valid Palindrome II
     - [LINK TO GITHUB](TwoPointers/680_ValidPalindromII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-palindrome-ii/)   
+- 844\. Backspace String Compare
+    - [LINK TO GITHUB](TwoPointers/844_BackspaceStringCompare.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/backspace-string-compare/)
 - 876\. Middle of the Linked List
     - [LINK TO GITHUB](TwoPointers/876_MiddleOfTheLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
@@ -843,6 +894,9 @@
 - 977\. Squares of a Sorted Array
     - [LINK TO GITHUB](TwoPointers/977_SquaresOfASortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- 986\. Interval List Intersection
+    - [LINK TO GITHUB](TwoPointers/986_IntervalListIntersection.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/interval-list-intersections/)
 - 1855\. Maximum Distance Between a Pair of Values
     - [LINK TO GITHUB](TwoPointers/1855_MaximumDistanceBetweenAPairOfValues.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)
