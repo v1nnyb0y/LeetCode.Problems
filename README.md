@@ -63,12 +63,18 @@
 - 217\. Contains Duplicate
     - [LINK TO GITHUB](Array/217_ContainsDuplicate.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate/)
+- 238\. Product of Array Except Self
+    - [LINK TO GITHUB](Array/238_ProductOfArrayExceptSelf.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/product-of-array-except-self/)
 - 283\. Move Zeroes
     - [LINK TO GITHUB](Array/283_MoveZeroes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/move-zeroes/)
 - 289\. Game of Life
     - [LINK TO GITHUB](Array/289_GameOfLife.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/game-of-life/)
+- 334\. Incresing Triplet Subsequence
+    - [LINK TO GITHUB](Array/334_IncreasingTripletSubsequence.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/increasing-triplet-subsequence/)
 - 347\. Top K Frequest Elements
     - [LINK TO GITHUB](Array/347_TopKFrequentElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/top-k-frequent-elements/)
@@ -78,6 +84,9 @@
 - 503\. Next Greater Element II
     - [LINK TO GITHUB](Array/503_NextGreaterElementII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-ii/)
+- 560\. Subarray Sum Equals K
+    - [LINK TO GITHUB](Array/560_SubarraySumEqualsK.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/)
 - 566\. Reshape the Matrix
     - [LINK TO GITHUB](Array/566_ReshapeTheMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/)
@@ -222,6 +231,9 @@
 - 1385\. Find the Distance Value Between Two Arrays
     - [LINK TO GITHUB](BinarySearch/1385_FindTheDistanceValueBetweenTwoArrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+- 1482\. Minimum Number of Days to Make M Bouquets
+    - [LINK TO GITHUB](BinarySearch/1482_MinimumNumberOfDaysToMakeMBouquets.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
 - 1539\. Kth Missing Positive Number
     - [LINK TO GITHUB](BinarySearch/1539_KthMissingPositiveNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-missing-positive-number/)
@@ -234,6 +246,9 @@
 - 1760\. Minimum Limit of Balls in a Bag
     - [LINK TO GITHUB](BinarySearch/1760_MinimumLimitOfBallsInABag.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
+- 1818\. Minimum Absolute Sum Difference
+    - [LINK TO GITHUB](BinarySearch/1818_MinimumAbsoluteSumDifference.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-absolute-sum-difference/)
 - 1854\. Find the Student that Will Replace the Chalk
     - [LINK TO GITHUB](BinarySearch/1854_FindTheStudentThatWillReplaceTheChalk.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)
@@ -339,6 +354,9 @@
 - 70\. Climbing Stairs
     - [LINK TO GITHUB](DynamicProgramming/70_ClimbingStairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/climbing-stairs/)
+- 72\. Edit Distance
+    - [LINK TO GITHUB](DynamicProgramming/72_EditDistance.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/edit-distance/)
 - 91\. Decode Ways
     - [LINK TO GITHUB](DynamicProgramming/91_DecodeWays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decode-ways/) 
@@ -384,6 +402,9 @@
 - 376\. Wiggle Subsequence
     - [LINK TO GITHUB](DynamicProgramming/376_WiggleSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/wiggle-subsequence/)    
+- 392\. Is Subsequence
+    - [LINK TO GITHUB](DynamicProgramming/392_IsSubsequence.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/is-subsequence/)
 - 413\. Arithmetic Slices
     - [LINK TO GITHUB](DynamicProgramming/413_ArithmeticSlices.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-slices/)
@@ -417,6 +438,9 @@
 - 1137\. N-th Tribonacci Number
     - [LINK TO GITHUB](DynamicProgramming/1137_NthTribonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-th-tribonacci-number/) 
+- 1143\. Longest Common Subsequence
+    - [LINK TO GITHUB](DynamicProgramming/1143_LongestCommonSubsequence.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-common-subsequence/)
 - 1314\. Matrix Block Sum
     - [LINK TO GITHUB](DynamicProgramming/1314_MatrixBlockSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/matrix-block-sum/)
@@ -591,6 +615,9 @@
 - 627\. Swap Salary
     - [LINK TO GITHUB](SQL/627_SwapSalary.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swap-salary/)
+- 1141\. User Activity for the Past 30 Days I
+    - [LINK TO GITHUB](SQL/1141_UserActivityForThePast30DaysI.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)
 - 1148\. Article Views I
     - [LINK TO GITHUB](SQL/1148_ArticleViewI.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/article-views-i/)
@@ -606,6 +633,12 @@
 - 1667\. Fix Names in a Table
     - [LINK TO GITHUB](SQL/1667_FixNamesInATable.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fix-names-in-a-table/)
+- 1693\. Daily Leads and Partners
+    - [LINK TO GITHUB](SQL/1693_DailyLeadsAndPartners.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/daily-leads-and-partners/)
+- 1729\. Find Followers Count
+    - [LINK TO GITHUB](SQL/1729_FindFollowersCount.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-followers-count/)
 - 1757\. Recyclable and Low Fat Products
     - [LINK TO GITHUB](SQL/1757_RecyclableAndLowFatProducts.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/)
@@ -666,6 +699,9 @@
 - 98\. Validate Binary Search Tree
     - [LINK TO GITHUB](LinkedListAndTree/98_ValidateBinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/validate-binary-search-tree/)
+- 99\. Recover Binary Search Tree
+    - [LINK TO GITHUB](LinkedListAndTree/99_RecoverBinarySearchTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/recover-binary-search-tree/)
 - 101\. Symmetric Tree
     - [LINK TO GITHUB](LinkedListAndTree/101_SymmetricTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/symmetric-tree/)
