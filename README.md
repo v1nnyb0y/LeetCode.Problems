@@ -180,6 +180,9 @@
 - 240\. Search a 2D Matrix II
     - [LINK TO GITHUB](BinarySearch/240_SearchA2DMatrixII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- 275\. H-index II
+    - [LINK TO GITHUB](BinarySearch/275_HIndexII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/h-index-ii/)
 - 278\. First Bad Version
     - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/)
@@ -333,6 +336,9 @@
 - 5\. Longest Palindromic Substring
     - [LINK TO GITHUB](DynamicProgramming/5_LongestPalindromicSubstring.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-palindromic-substring/)
+- 24\. Coin Change
+    - [LINK TO GITHUB](DynamicProgramming/24_CoinChange.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/coin-change/)
 - 42\. Trapping Rain Water
     - [LINK TO GITHUB](DynamicProgramming/42_TrappingRainWater.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/trapping-rain-water/)
@@ -417,6 +423,9 @@
 - 516\. Longest Palindromic Subsequence
     - [LINK TO GITHUB](DynamicProgramming/516_LongestPalindromicSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-palindromic-subsequence/)
+- 518\. Coin Change II
+    - [LINK TO GITHUB](DynamicProgramming/518_CoinChangeII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/coin-change-2/)
 - 714\. Best Time to Buy and Sell Stock with Transaction Fee
     - [LINK TO GITHUB](DynamicProgramming/714_BestTimeToBuyAndSellStockWithTransactionFee.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
@@ -570,6 +579,12 @@
 - 231\. Power of Two
     - [LINK TO GITHUB](Math/231_PowerOfTwo.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-two/)
+- 409\. Longest Palindrome
+    - [LINK TO GITHUB](Math/409_LongestPalindrome.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-palindrome/)
+- 415\. Add Strings
+    - [LINK TO GITHUB](Math/415_AddStrings.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/add-strings/)
 - 633\. Sum of Square Numbers
     - [LINK TO GITHUB](Math/633_SumOfSquareNumbers.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-square-numbers/)
@@ -600,9 +615,15 @@
 - 197\. Rising Temperature
     - [LINK TO GITHUB](SQL/197_RisingTemperature.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rising-temperature/) 
+- 511\. Game Play Analysis I
+    - [LINK TO GITHUB](SQL/511_GamePlayAnalysisI.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/game-play-analysis-i/)
 - 584\. Find Customer Referee
     - [LINK TO GITHUB](SQL/584_FindCustomerReferee.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-customer-referee/submissions/)
+- 586\. Customer Placing the Largest Number of Orders
+    - [LINK TO GITHUB](SQL/586_CustomerPlacingTheLargestNumberOfOrders.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)
 - 595\. Big Countries
     - [LINK TO GITHUB](SQL/595_BigCountries.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/big-countries/)
@@ -639,6 +660,9 @@
 - 1729\. Find Followers Count
     - [LINK TO GITHUB](SQL/1729_FindFollowersCount.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-followers-count/)
+- 1741\. Find Total Time Spend by Each Employee
+    - [LINK TO GITHUB](SQL/1741_FindTotalTimeSpentByEachEmployee.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
 - 1757\. Recyclable and Low Fat Products
     - [LINK TO GITHUB](SQL/1757_RecyclableAndLowFatProducts.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/)
@@ -648,6 +672,9 @@
 - 1873\. Calculate Special Bonus
     - [LINK TO GITHUB](SQL/1873_CalculateSpecialBonus.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/calculate-special-bonus/)
+- 1890\. The Latest Login in 2020
+    - [LINK TO GITHUB](SQL/1890_TheLatestLoginIn2020.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/the-latest-login-in-2020/)
 - 1965\. Employees With Missing Information
     - [LINK TO GITHUB](SQL/1965_EmployeesWithMissingInformation.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/employees-with-missing-information/)
