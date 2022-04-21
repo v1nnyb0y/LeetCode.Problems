@@ -201,6 +201,9 @@
 - 441\. Arranging Coins
     - [LINK TO GITHUB](BinarySearch/441_ArrangingCoins.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arranging-coins/)
+- 540\. Single Element in a Sorted Array
+    - [LINK TO GITHUB](BinarySearch/540_SingleElementInASortedArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - 611\. Valid Triangle Number
     - [LINK TO GITHUB](BinarySearch/611_ValidTriangleNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-triangle-number/)
@@ -252,6 +255,9 @@
 - 1818\. Minimum Absolute Sum Difference
     - [LINK TO GITHUB](BinarySearch/1818_MinimumAbsoluteSumDifference.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-absolute-sum-difference/)
+- 1838\. Frequency of the Most Frequent Element
+    - [LINK TO GITHUB](BinarySearch/1838_FrequencyOfTheMostFrequentElement.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - 1854\. Find the Student that Will Replace the Chalk
     - [LINK TO GITHUB](BinarySearch/1854_FindTheStudentThatWillReplaceTheChalk.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)
@@ -282,6 +288,9 @@
 - 380\. Insert Delete GetRandom O(1)
     - [LINK TO GITHUB](ClassAndObjects/380_InsertDeleteGetRandomO1.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- 705\. Desing HashSet
+    - [LINK TO GITHUB](ClassAndObjects/705_DesignHashSet.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/design-hashset/)
 - 706\. Design HashMap
     - [LINK TO GITHUB](ClassAndObjects/706_DesignHashMap.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-hashmap/)
@@ -402,12 +411,21 @@
 - 264\. Ugly Number II
     - [LINK TO GITHUB](DynamicProgramming/264_UglyNumberII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number-ii/)  
+- 279\. Perfect Squares
+    - [LINK TO GITHUB](DynamicProgramming/279_PerfectSquares.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/perfect-squares/)
 - 309\. Best Time to Buy and Sell Stock with Cooldown
     - [LINK TO GITHUB](DynamicProgramming/309_BestTimeToBuyAndSellStockWithCooldown.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  
+- 343\. Integer Break
+    - [LINK TO GITHUB](DynamicProgramming/343_IntegerBreak.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/integer-break/)
 - 376\. Wiggle Subsequence
     - [LINK TO GITHUB](DynamicProgramming/376_WiggleSubsequence.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/wiggle-subsequence/)    
+    - [LINK TO LEETCODE](https://leetcode.com/problems/wiggle-subsequence/)  
+- 377\. Combination Sum IV
+    - [LINK TO GITHUB](DynamicProgramming/377_CombinationSumIV.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/combination-sum-iv/)  
 - 392\. Is Subsequence
     - [LINK TO GITHUB](DynamicProgramming/392_IsSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/is-subsequence/)
@@ -642,6 +660,15 @@
 - 1148\. Article Views I
     - [LINK TO GITHUB](SQL/1148_ArticleViewI.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/article-views-i/)
+- 1158\. Market Analysis I
+    - [LINK TO GITHUB](SQL/1158_MarketAnalysisI.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/market-analysis-i/)
+- 1393\. Capital GainLoss
+    - [LINK TO GITHUB](SQL/1393_CapitalGainLoss.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/capital-gainloss/)
+- 1407\. Top Trabellers
+    - [LINK TO GITHUB](SQL/1407_TopTravellers.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/top-travellers/)
 - 1484\. Group Sold Products By The Date
     - [LINK TO GITHUB](SQL/1484_GroupSoldProductsByTheDate.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/group-sold-products-by-the-date/)
@@ -747,6 +774,9 @@
 - 116\. Populating Next Right Pointers in Each Node
     - [LINK TO GITHUB](LinkedListAndTree/116_PopulatingNextRightPointersInEachNode.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- 117\. Populating Next Right Pointers in Each Node II
+    - [LINK TO GITHUB](LinkedListAndTree/117_PopulatingNextRightPointersInEachNodeII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 - 138\. Copy List with Random Pointer
     - [LINK TO GITHUB](LinkedListAndTree/138_CopyListWithRandomPointer.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/copy-list-with-random-pointer/)
@@ -789,6 +819,9 @@
 - 538\. Convert BST to Greater Tree
     - [LINK TO GITHUB](LinkedListAndTree/538_ConvertBSTToGreaterTreea.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+- 572\. Subtree of Another Tree
+    - [LINK TO GITHUB](LinkedListAndTree/572_SubtreeOfAnotherTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/subtree-of-another-tree/)
 - 617\. Merge Two Binary Trees
     - [LINK TO GITHUB](LinkedListAndTree/617_MergeTwoBinaryTrees.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-binary-trees/)
@@ -876,6 +909,9 @@
 - 67\. Add Binary
     - [LINK TO GITHUB](Strings/67_AddBinary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-binary/)
+- 290\. Word Pattern
+    - [LINK TO GITHUB](Strings/290_WordPattern.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/word-pattern/)
 - 383\. Ransom Note
     - [LINK TO GITHUB](Strings/383_RansomNote.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ransom-note/)
@@ -897,6 +933,9 @@
 - 709\. To Lower case
     - [LINK TO GITHUB](Strings/709_ToLowerCase.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/to-lower-case/) 
+- 763\. Partion Labels
+    - [LINK TO GITHUB](Strings/763_PartitionLabels.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/partition-labels/)
 - 953\. Verifying an Alien Dictionary
     - [LINK TO GITHUB](Strings/953_VerifyingAnAlienDictionary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/verifying-an-alien-dictionary/)
