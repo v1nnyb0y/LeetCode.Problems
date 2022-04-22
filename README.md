@@ -51,6 +51,9 @@
 - 88\. Merge Sorted Array
     - [LINK TO GITHUB](Array/88_MergeSortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-sorted-array/)
+- 130\. Surrounded Regions
+    - [LINK TO GITHUB](Array/130_SurroundedRegions.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/surrounded-regions/)
 - 136\. Single Number
     - [LINK TO GITHUB](Array/136_SingleNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/single-number/)
@@ -624,6 +627,9 @@
 - 176\. Second Highest Salary
     - [LINK TO GITHUB](SQL/176_SecondHighestSalary.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/second-highest-salary/)
+- 182\. Duplicate Emails
+    - [LINK TO GITHUB](SQL/182_DuplicateEmails.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/duplicate-emails/)
 - 183\. Customers Who Never Order
     - [LINK TO GITHUB](SQL/183_CustomersWhoNeverOrder.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/customers-who-never-order/)
@@ -654,6 +660,12 @@
 - 627\. Swap Salary
     - [LINK TO GITHUB](SQL/627_SwapSalary.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swap-salary/)
+- 1050\. Actors and Directors Who Cooperated At Least Three Times
+    - [LINK TO GITHUB](SQL/1050_ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)
+- 1084\. Sales Analysis III
+    - [LINK TO GITHUB](SQL/1084_SalesAnalysisIII.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sales-analysis-iii/)
 - 1141\. User Activity for the Past 30 Days I
     - [LINK TO GITHUB](SQL/1141_UserActivityForThePast30DaysI.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)
@@ -678,6 +690,9 @@
 - 1581\. Customer Who Visited but Did Not Make Any Transactions
     - [LINK TO GITHUB](SQL/1581_CustomerWhoVisitedButDidNotMakeAnyTransactions.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)
+- 1587\. Bank Account Summray II
+    - [LINK TO GITHUB](SQL/1587_BankAccountSummaryII.sql)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/bank-account-summary-ii/)   
 - 1667\. Fix Names in a Table
     - [LINK TO GITHUB](SQL/1667_FixNamesInATable.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fix-names-in-a-table/)
@@ -798,6 +813,9 @@
 - 206\. Reverse Linked List
     - [LINK TO GITHUB](LinkedListAndTree/206_ReverseLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-linked-list/)
+- 222\. Count Complete Tree Nodes
+    - [LINK TO GITHUB](LinkedListAndTree/222_CountCompleteTreeNodes.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/count-complete-tree-nodes/)
 - 226\. Invert Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/226_InvertBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/invert-binary-tree/)
@@ -999,6 +1017,9 @@
 - 986\. Interval List Intersection
     - [LINK TO GITHUB](TwoPointers/986_IntervalListIntersection.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/interval-list-intersections/)
+- 1712\. Ways to Split Array Into Three Subarrays
+    - [LINK TO GITHUB](TwoPointers/1712_WaysToSplitArrayIntoThreeSubarrays.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
 - 1855\. Maximum Distance Between a Pair of Values
     - [LINK TO GITHUB](TwoPointers/1855_MaximumDistanceBetweenAPairOfValues.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)
