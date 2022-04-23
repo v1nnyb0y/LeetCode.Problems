@@ -48,9 +48,15 @@
 - 66\. Plus One
     - [LINK TO GITHUB](Array/66_PlusOne.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/plus-one/)
+- 78\. Subsets
+    - [LINK TO GITHUB](Array/78_Subsets.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/subsets/) 
 - 88\. Merge Sorted Array
     - [LINK TO GITHUB](Array/88_MergeSortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-sorted-array/)
+- 90\. Subsets II
+    - [LINK TO GITHUB](Array/90_SubsetsII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/subsets-ii/) 
 - 130\. Surrounded Regions
     - [LINK TO GITHUB](Array/130_SurroundedRegions.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/surrounded-regions/)
@@ -63,6 +69,9 @@
 - 169\. Majority Element
     - [LINK TO GITHUB](Array/169_MajorityElement.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/majority-element/)
+- 187\. Repeated DNA Sequences
+    - [LINK TO GITHUB](Array/187_RepeatedDNASequence.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/repeated-dna-sequences/)
 - 217\. Contains Duplicate
     - [LINK TO GITHUB](Array/217_ContainsDuplicate.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate/)
@@ -201,6 +210,9 @@
 - 374\. Guess Number Higher or Lower
     - [LINK TO GITHUB](BinarySearch/374_GuessNumberHigherOrLower.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/guess-number-higher-or-lower/)
+- 426\. Find Right Interval
+    - [LINK TO GITHUB](BinarySearch/426_FindRightInterval.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-right-interval/)
 - 441\. Arranging Coins
     - [LINK TO GITHUB](BinarySearch/441_ArrangingCoins.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arranging-coins/)
@@ -219,6 +231,9 @@
 - 744\. Find Smallest Letter Greater Than Target
     - [LINK TO GITHUB](BinarySearch/744_FindSmallestLetterGreaterThanTarget.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+- 826\. Most Profit Assigning Work
+    - [LINK TO GITHUB](BinarySearch/826_MostProfitAssigningWork.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/most-profit-assigning-work/)  
 - 852\. Peak Index in a Mountain Array
     - [LINK TO GITHUB](BinarySearch/852_PeakIndexInAMountainArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
@@ -291,6 +306,9 @@
 - 380\. Insert Delete GetRandom O(1)
     - [LINK TO GITHUB](ClassAndObjects/380_InsertDeleteGetRandomO1.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- 535\. Encode and Decode TinyURL
+    - [LINK TO GITHUB](ClassAndObjects/535_EncodeAndDecodeTinyURL.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 - 705\. Desing HashSet
     - [LINK TO GITHUB](ClassAndObjects/705_DesignHashSet.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-hashset/)
