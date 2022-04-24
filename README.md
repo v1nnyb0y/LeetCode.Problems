@@ -36,6 +36,15 @@
 - 36\. Valid Sudoku
     - [LINK TO GITHUB](Array/36_ValidSudoku.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-sudoku/)
+- 39\. Combination Sum
+    - [LINK TO GITHUB](Array/39_CombinationSum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/combination-sum/)
+- 40\. Combination Sum II
+    - [LINK TO GITHUB](Array/40_CombinationSumII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/combination-sum-ii/)
+- 47\. Permutations II
+    - [LINK TO GITHUB](Array/47_PermutationsII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/permutations-ii/)
 - 53\. Maximum Subarray
     - [LINK TO GITHUB](Array/53_MaximumSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-subarray/) 
@@ -180,6 +189,9 @@
 - 74\. Search a 2D Matrix
     - [LINK TO GITHUB](BinarySearch/74_SearchA2DMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-a-2d-matrix/)
+- 81\. Search in Rotated Sorted II
+    - [LINK TO GITHUB](BinarySearch/81_SearchInRotatedSortedArrayII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - 153\. Find Minimum in Rotated Sorted Array
     - [LINK TO GITHUB](BinarySearch/153_FindMinimumInRotatedSortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
@@ -321,6 +333,9 @@
 - 729\. My Calendar I
     - [LINK TO GITHUB](ClassAndObjects/729_MyCalendarI.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/my-calendar-i/)
+- 1396\. Design Underground System
+    - [LINK TO GITHUB](ClassAndObjects/1396_DesignUndergroundSystem.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/design-underground-system/)   
 - 1603\. Design Parking System
     - [LINK TO GITHUB](ClassAndObjects/1603_DesignParkingSystem.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-parking-system/) 
@@ -816,6 +831,9 @@
 - 141\. Linked List Cycle
     - [LINK TO GITHUB](LinkedListAndTree/141_LinkedListCycle.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-cycle/) 
+- 142\. Linked List Cycle II
+    - [LINK TO GITHUB](LinkedListAndTree/142_LinkedListCycleII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-cycle-ii/)
 - 143\. Reorder List
     - [LINK TO GITHUB](LinkedListAndTree/143_ReorderList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-list/)
