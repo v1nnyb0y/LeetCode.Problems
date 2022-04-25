@@ -195,6 +195,9 @@
 - 153\. Find Minimum in Rotated Sorted Array
     - [LINK TO GITHUB](BinarySearch/153_FindMinimumInRotatedSortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- 154\. Find Minimum in Rotated Sorted Array II
+    - [LINK TO GITHUB](BinarySearch/154_FindMinimumInRotatedSortedArrayII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - 162\. Find Peak Element
     - [LINK TO GITHUB](BinarySearch/162_FindPeakElement.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-peak-element/)
@@ -228,6 +231,9 @@
 - 441\. Arranging Coins
     - [LINK TO GITHUB](BinarySearch/441_ArrangingCoins.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arranging-coins/)
+- 528\. Random Pick with Weight
+    - [LINK TO GITHUB](BinarySearch/528_RandomPickWithWeight.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/random-pick-with-weight/)
 - 540\. Single Element in a Sorted Array
     - [LINK TO GITHUB](BinarySearch/540_SingleElementInASortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/single-element-in-a-sorted-array/)
@@ -309,6 +315,9 @@
 - 173\. Binary Search Tree Iterator
     - [LINK TO GITHUB](ClassAndObjects/173_BinarySearchTreeIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search-tree-iterator/)
+- 284\. Peeking Iterator
+    - [LINK TO GITHUB](ClassAndObjects/284_PeekingIterator.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/peeking-iterator/)
 - 303\. Range Sum Query
     - [LINK TO GITHUB](ClassAndObjects/303_RangeSumQuery.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-immutable/)
@@ -843,6 +852,9 @@
 - 145\. Binary Tree Postorder Traversal
     - [LINK TO GITHUB](LinkedListAndTree/145_BinaryTreePostorderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- 160\. Intersection of Two Linked Lists
+    - [LINK TO GITHUB](LinkedListAndTree/160_IntersectionOfTwoLinkedLists.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - 203\. Remove Linked List Elements
     - [LINK TO GITHUB](LinkedListAndTree/203_RemoveLinkedListElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-linked-list-elements/) 
@@ -948,6 +960,12 @@
 - 3\. Longest Substring Without Repeating Characters
     - [LINK TO GITHUB](Strings/3_LongestSubstringWithoutRepeatingCharacters.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- 17\. Letter Combinations of a Phone Number
+    - [LINK TO GITHUB](Strings/17_LetterCombinationsOfAPhoneNumber.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- 22\. Generate Parentheses
+    - [LINK TO GITHUB](Strings/22_GenerateParentheses.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/generate-parentheses/)
 - 28\. Implement strStr()
     - [LINK TO GITHUB](Strings/28_ImplementStrStr.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/implement-strstr/) 
@@ -963,6 +981,9 @@
 - 67\. Add Binary
     - [LINK TO GITHUB](Strings/67_AddBinary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-binary/)
+- 79\. Word Search
+    - [LINK TO GITHUB](Strings/79_WordSearch.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/word-search/)
 - 290\. Word Pattern
     - [LINK TO GITHUB](Strings/290_WordPattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-pattern/)
