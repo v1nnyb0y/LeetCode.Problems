@@ -276,12 +276,18 @@
 - 1482\. Minimum Number of Days to Make M Bouquets
     - [LINK TO GITHUB](BinarySearch/1482_MinimumNumberOfDaysToMakeMBouquets.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+- 1508\. Range Sum of Sorted Subarray Sums
+    - [LINK TO GITHUB](BinarySearch/1508_RangeSumOfSortedSubarraySums.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)
 - 1539\. Kth Missing Positive Number
     - [LINK TO GITHUB](BinarySearch/1539_KthMissingPositiveNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-missing-positive-number/)
 - 1552\. Magnetic Force Between Two Balls
     - [LINK TO GITHUB](BinarySearch/1552_MagneticForceBetweenTwoBalls.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/magnetic-force-between-two-balls/)
+- 1574\. Shortest Subarray to be Removed to Make Array Sorted
+    - [LINK TO GITHUB](BinarySearch/1574_ShortestSubarrayToBeRemovedToMakeArraySorted.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
 - 1608\. Special Array With X Elements Greated Than or Equal X
     - [LINK TO GITHUB](BinarySearch/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
@@ -657,6 +663,9 @@
 - 973\. K Closest Pointrs to Origin
     - [LINK TO GITHUB](Math/973_KClosestPointsToOrigin.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/k-closest-points-to-origin/)
+- 1584\. Min Cost to Connect All Points
+    - [LINK TO GITHUB](Math/1584_MinCostToConnectAllPoints.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
 ----
 [:arrow_up:References](#References)
@@ -798,6 +807,9 @@
 - 21\. Merge Two Sorted Lists
     - [LINK TO GITHUB](LinkedListAndTree/21_MergeTwoSortedLists.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-sorted-lists/)
+- 24\. Swap Nodes in Pairs
+    - [LINK TO GITHUB](LinkedListAndTree/24_SwapNodesInPairs.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - 61\. Rotate List
     - [LINK TO GITHUB](LinkedListAndTree/61_RotateList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-list/)
