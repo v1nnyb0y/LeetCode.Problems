@@ -261,6 +261,9 @@
 - 1283\. Find the Smallest Divisor Given a Threshold
     - [LINK TO GITHUB](BinarySearch/1283_FindTheSmallestDivisorGivenAThreshold.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+- 1292\. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+    - [LINK TO GITHUB](BinarySearch/1292_MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)   
 - 1337\. The K Weakest Rows in a Matrix
     - [LINK TO GITHUB](BinarySearch/1337_TheKWeakestRowsInAMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
@@ -276,6 +279,9 @@
 - 1482\. Minimum Number of Days to Make M Bouquets
     - [LINK TO GITHUB](BinarySearch/1482_MinimumNumberOfDaysToMakeMBouquets.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+- 1498\. Number of Subsequences That Satisfy the Given Sum Condition
+    - [LINK TO GITHUB](BinarySearch/1498_NumberOfSequenecesThatSatisfyTheGivenSumCondition.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 - 1508\. Range Sum of Sorted Subarray Sums
     - [LINK TO GITHUB](BinarySearch/1508_RangeSumOfSortedSubarraySums.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)
@@ -810,6 +816,9 @@
 - 24\. Swap Nodes in Pairs
     - [LINK TO GITHUB](LinkedListAndTree/24_SwapNodesInPairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- 25\. Reverse Nodes in k-Group
+    - [LINK TO GITHUB](LinkedListAndTree/25_ReverseNodesInKGroup.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - 61\. Rotate List
     - [LINK TO GITHUB](LinkedListAndTree/61_RotateList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-list/)
@@ -1026,6 +1035,9 @@
 - 953\. Verifying an Alien Dictionary
     - [LINK TO GITHUB](Strings/953_VerifyingAnAlienDictionary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+- 1202\. Smallest String With Swaps
+    - [LINK TO GITHUB](Strings/1202_SmallestStringWithSwaps.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-string-with-swaps/)
 - 1309\. Decrypt String From Alphabet to Integer Mapping
     - [LINK TO GITHUB](Strings/1309_DecryptStringsFromAlhabetToIntegerMapping.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) 
