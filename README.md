@@ -258,12 +258,18 @@
 - 875\. Koko Eating Bananas
     - [LINK TO GITHUB](BinarySearch/875_KokoEatingBananas.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/koko-eating-bananas/)
+- 981\. Time Based Key-Value Store
+    - [LINK TO GITHUB](BinarySearch/981_TimeBasedKeyValueStore.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/time-based-key-value-store/)
 - 1283\. Find the Smallest Divisor Given a Threshold
     - [LINK TO GITHUB](BinarySearch/1283_FindTheSmallestDivisorGivenAThreshold.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 - 1292\. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
     - [LINK TO GITHUB](BinarySearch/1292_MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)   
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)  
+- 1300\. Sum of Mutated Array CLosest to Target
+    - [LINK TO GITHUB](BinarySearch/1300_SuOfMutatedArrayClosestToTarget.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/)
 - 1337\. The K Weakest Rows in a Matrix
     - [LINK TO GITHUB](BinarySearch/1337_TheKWeakestRowsInAMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
@@ -651,6 +657,9 @@
 
 ## Math
 
+- 32\. Path With Minimum Effort
+    - [LINK TO GITHUB](Math/32_PathWithMinimumEffort.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/path-with-minimum-effort/)
 - 231\. Power of Two
     - [LINK TO GITHUB](Math/231_PowerOfTwo.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-two/)
@@ -939,6 +948,9 @@
 - 1731\. Swapping Nodes in a Linked List
     - [LINK TO GITHUB](LinkedListAndTree/1731_SwappingNodesInALinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+- 1823\. Find the Winner of the Circular Game
+    - [LINK TO GITHUB](LinkedListAndTree/1823_FindTheWinnerOfTheCicularGame.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 
 ----
 [:arrow_up:References](#References)
@@ -1038,6 +1050,9 @@
 - 1202\. Smallest String With Swaps
     - [LINK TO GITHUB](Strings/1202_SmallestStringWithSwaps.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-string-with-swaps/)
+- 1249\. Minimum Remove to Make Valid Parentheses
+    - [LINK TO GITHUB](Strings/1249_MinimumRemoveToMakeValidParentheses.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 - 1309\. Decrypt String From Alphabet to Integer Mapping
     - [LINK TO GITHUB](Strings/1309_DecryptStringsFromAlhabetToIntegerMapping.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) 
