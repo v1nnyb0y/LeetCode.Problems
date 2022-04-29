@@ -306,6 +306,9 @@
 - 1760\. Minimum Limit of Balls in a Bag
     - [LINK TO GITHUB](BinarySearch/1760_MinimumLimitOfBallsInABag.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
+- 1802\. Maximum Value at a Given Index a Bounded Array
+    - [LINK TO GITHUB](BinarySearch/1802_MaximumValueAtAGivenIndexInABoundedArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
 - 1818\. Minimum Absolute Sum Difference
     - [LINK TO GITHUB](BinarySearch/1818_MinimumAbsoluteSumDifference.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-absolute-sum-difference/)
@@ -321,6 +324,9 @@
 - 1898\. Maximum Number of Removable Characters
     - [LINK TO GITHUB](BinarySearch/1898_MaximumNumberOfRemovableCharacters.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-number-of-removable-characters/)
+- 1901\. Find a Peak Element II
+    - [LINK TO GITHUB](BinarySearch/1901_FindAPeakElementII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-a-peak-element-ii/)
 
 ----
 [:arrow_up:References](#References)
@@ -849,9 +855,18 @@
 - 102\. Binary Tree Level Order Traversal
     - [LINK TO GITHUB](LinkedListAndTree/102_BinaryTreeLevelOrderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- 103\. Binary Tree Zigzag Level Order Traversal
+    - [LINK TO GITHUB](LinkedListAndTree/103_BinaryTreeZigzagLevelOrderTraversal.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - 104\. Maximum Depth of Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
+- 105\. Construct Binary Tree from Preorder and Inorder Travesal
+    - [LINK TO GITHUB](LinkedListAndTree/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- 108\. Convert Sorted Array to Binary Search Tree
+    - [LINK TO GITHUB](LinkedListAndTree/108_ConvertSortedArrayToBinarySearchTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - 110\. Balanced Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/110_BalancedBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/balanced-binary-tree/) 
