@@ -261,6 +261,9 @@
 - 981\. Time Based Key-Value Store
     - [LINK TO GITHUB](BinarySearch/981_TimeBasedKeyValueStore.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/time-based-key-value-store/)
+- 1126\. Snapshot Array
+    - [LINK TO GITHUB](BinarySearch/1146_SnapshotArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/snapshot-array/)
 - 1283\. Find the Smallest Divisor Given a Threshold
     - [LINK TO GITHUB](BinarySearch/1283_FindTheSmallestDivisorGivenAThreshold.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
@@ -285,6 +288,9 @@
 - 1482\. Minimum Number of Days to Make M Bouquets
     - [LINK TO GITHUB](BinarySearch/1482_MinimumNumberOfDaysToMakeMBouquets.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+- 1488\. Avoid Flood in The City
+    - [LINK TO GITHUB](BinarySearch/1488_AvoidFloodInTheCity.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/avoid-flood-in-the-city/)
 - 1498\. Number of Subsequences That Satisfy the Given Sum Condition
     - [LINK TO GITHUB](BinarySearch/1498_NumberOfSequenecesThatSatisfyTheGivenSumCondition.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
@@ -513,6 +519,9 @@
 - 518\. Coin Change II
     - [LINK TO GITHUB](DynamicProgramming/518_CoinChangeII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/coin-change-2/)
+- 673\. Number of Longest Increasing Subsequence
+    - [LINK TO GITHUB](DynamicProgramming/673_NumberOfLongestIncreasingSubsequence.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 - 714\. Best Time to Buy and Sell Stock with Transaction Fee
     - [LINK TO GITHUB](DynamicProgramming/714_BestTimeToBuyAndSellStockWithTransactionFee.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
@@ -564,6 +573,9 @@
 - 365\. Water and Jug Problem
     - [LINK TO GITHUB](GraphTheory/365_WaterAndJugProblem.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/water-and-jug-problem/)
+- 399\. Evaluate Divison    
+    - [LINK TO GITHUB](GraphTheory/399_EvaluateDivison.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/evaluate-division/)
 - 417\. Pacific Atlantic Water Flow
     - [LINK TO GITHUB](GraphTheory/417_PacificAtlanticWaterFlow.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pacific-atlantic-water-flow/)
@@ -873,6 +885,9 @@
 - 112\. Path Sum
     - [LINK TO GITHUB](LinkedListAndTree/112_PathSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/path-sum/)
+- 113\. Path Sum II
+    - [LINK TO GITHUB](LinkedListAndTree/113_PathSumII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/path-sum-ii/)
 - 116\. Populating Next Right Pointers in Each Node
     - [LINK TO GITHUB](LinkedListAndTree/116_PopulatingNextRightPointersInEachNode.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
@@ -900,6 +915,9 @@
 - 160\. Intersection of Two Linked Lists
     - [LINK TO GITHUB](LinkedListAndTree/160_IntersectionOfTwoLinkedLists.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- 199\. Binary Tree Right Side View
+    - [LINK TO GITHUB](LinkedListAndTree/199_BinaryTreeRightSideView.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-right-side-view/)
 - 203\. Remove Linked List Elements
     - [LINK TO GITHUB](LinkedListAndTree/203_RemoveLinkedListElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-linked-list-elements/) 
@@ -927,6 +945,9 @@
 - 445\. Add Two Numbers II
     - [LINK TO GITHUB](LinkedListAndTree/445_AddTwoNumbersII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-two-numbers-ii/)
+- 450\. Delete Node in a BST
+    - [LINK TO GITHUB](LinkedListAndTree/450_DeleteNodeInABST.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/delete-node-in-a-bst/)
 - 538\. Convert BST to Greater Tree
     - [LINK TO GITHUB](LinkedListAndTree/538_ConvertBSTToGreaterTreea.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/convert-bst-to-greater-tree/)
