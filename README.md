@@ -303,12 +303,18 @@
 - 1552\. Magnetic Force Between Two Balls
     - [LINK TO GITHUB](BinarySearch/1552_MagneticForceBetweenTwoBalls.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/magnetic-force-between-two-balls/)
+- 1562\. Find Latest Group of Size M
+    - [LINK TO GITHUB](BinarySearch/1562_FindLatestGroupOfSizeM.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-latest-group-of-size-m/)
 - 1574\. Shortest Subarray to be Removed to Make Array Sorted
     - [LINK TO GITHUB](BinarySearch/1574_ShortestSubarrayToBeRemovedToMakeArraySorted.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) 
 - 1608\. Special Array With X Elements Greated Than or Equal X
     - [LINK TO GITHUB](BinarySearch/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+- 1648\. Sell Diminishing-Valued Colored Balls
+    - [LINK TO GITHUB](BinarySearch/1648_SellDiminishingValuedColoredBalls.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)   
 - 1760\. Minimum Limit of Balls in a Bag
     - [LINK TO GITHUB](BinarySearch/1760_MinimumLimitOfBallsInABag.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
@@ -519,6 +525,9 @@
 - 518\. Coin Change II
     - [LINK TO GITHUB](DynamicProgramming/518_CoinChangeII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/coin-change-2/)
+- 583\. Delete Operating for Two Strings
+    - [LINK TO GITHUB](DynamicProgramming/583_DeleteOperatingForTwoStrings.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/delete-operation-for-two-strings/)
 - 673\. Number of Longest Increasing Subsequence
     - [LINK TO GITHUB](DynamicProgramming/673_NumberOfLongestIncreasingSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
