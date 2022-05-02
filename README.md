@@ -258,12 +258,18 @@
 - 875\. Koko Eating Bananas
     - [LINK TO GITHUB](BinarySearch/875_KokoEatingBananas.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/koko-eating-bananas/)
+- 911\. Online Election
+    - [LINK TO GITHUB](BinarySearch/911_OnlineElection.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/online-election/)
 - 981\. Time Based Key-Value Store
     - [LINK TO GITHUB](BinarySearch/981_TimeBasedKeyValueStore.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/time-based-key-value-store/)
 - 1126\. Snapshot Array
     - [LINK TO GITHUB](BinarySearch/1146_SnapshotArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/snapshot-array/)
+- 1201\. Ugly Number III
+    - [LINK TO GITHUB](BinarySearch/1201_UglyNumberIII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number-iii/)
 - 1283\. Find the Smallest Divisor Given a Threshold
     - [LINK TO GITHUB](BinarySearch/1283_FindTheSmallestDivisorGivenAThreshold.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
@@ -945,6 +951,12 @@
 - 235\. Lowest Common Ancestor of a Binary Search Tree
     - [LINK TO GITHUB](LinkedListAndTree/235_LowestCommonAncestorOfABinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- 236\. Lowest Common Ancestor of a Binary Tree
+    - [LINK TO GITHUB](LinkedListAndTree/236_LowestCommonAncestorOfABinaryTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) 
+- 297\. Serialize and Desirialize Binary Tree
+    - [LINK TO GITHUB](LinkedListAndTree/297_SerializeAndDesirializeBinaryTree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  
 - 404\. Sum of Left Leaves
     - [LINK TO GITHUB](LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-left-leaves/) 
@@ -1149,6 +1161,9 @@
 - 876\. Middle of the Linked List
     - [LINK TO GITHUB](TwoPointers/876_MiddleOfTheLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
+- 905\. Sort Array By Parity
+    - [LINK TO GITHUB](TwoPointers/905_SortArrayByParity.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sort-array-by-parity/)
 - 923\. 3Sum With Multiplicity
     - [LINK TO GITHUB](TwoPointers/923_3SumWithMultiplicity.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/3sum-with-multiplicity/)
