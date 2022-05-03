@@ -111,6 +111,9 @@
 - 566\. Reshape the Matrix
     - [LINK TO GITHUB](Array/566_ReshapeTheMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/)
+- 581\. Short Unsorted Continuous Subarray
+    - [LINK TO GITHUB](Array/581_ShortestUnsortedContiniousSubarray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - 682\. Baseball Game
     - [LINK TO GITHUB](Array/682_BaseballGame.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/baseball-game/)
@@ -1074,6 +1077,9 @@
 - 79\. Word Search
     - [LINK TO GITHUB](Strings/79_WordSearch.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-search/)
+- 201\. Bitwise AND of Numbers Range    
+    - [LINK TO GITHUB](Strings/201_BitwiseAndOfNumbersRange.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 - 290\. Word Pattern
     - [LINK TO GITHUB](Strings/290_WordPattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-pattern/)
