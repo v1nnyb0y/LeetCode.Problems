@@ -81,6 +81,9 @@
 - 187\. Repeated DNA Sequences
     - [LINK TO GITHUB](Array/187_RepeatedDNASequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/repeated-dna-sequences/)
+- 215\. Kth Largest Element in an Array
+    - [LINK TO GITHUB](Array/215_KthLargestElementInAnArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - 217\. Contains Duplicate
     - [LINK TO GITHUB](Array/217_ContainsDuplicate.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate/)
@@ -372,6 +375,9 @@
 - 380\. Insert Delete GetRandom O(1)
     - [LINK TO GITHUB](ClassAndObjects/380_InsertDeleteGetRandomO1.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- 384\. Shuffle an Array
+    - [LINK TO GITHUB](ClassAndObjects/384_ShuffleAnArray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/shuffle-an-array/)
 - 535\. Encode and Decode TinyURL
     - [LINK TO GITHUB](ClassAndObjects/535_EncodeAndDecodeTinyURL.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/encode-and-decode-tinyurl/)
@@ -1179,6 +1185,9 @@
 - 986\. Interval List Intersection
     - [LINK TO GITHUB](TwoPointers/986_IntervalListIntersection.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/interval-list-intersections/)
+- 1679\. Max Number of K-Sum Pairs
+    - [LINK TO GITHUB](TwoPointers/1679_MaxNumberOfKSumPairs.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 - 1712\. Ways to Split Array Into Three Subarrays
     - [LINK TO GITHUB](TwoPointers/1712_WaysToSplitArrayIntoThreeSubarrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
