@@ -363,6 +363,9 @@
 - 173\. Binary Search Tree Iterator
     - [LINK TO GITHUB](ClassAndObjects/173_BinarySearchTreeIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search-tree-iterator/)
+- 225\. Implement Start using Queues
+    - [LINK TO GITHUB](ClassAndObjects/225_ImplementStackUsingQueues.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/implement-stack-using-queues/)   
 - 284\. Peeking Iterator
     - [LINK TO GITHUB](ClassAndObjects/284_PeekingIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/peeking-iterator/)
@@ -381,6 +384,9 @@
 - 535\. Encode and Decode TinyURL
     - [LINK TO GITHUB](ClassAndObjects/535_EncodeAndDecodeTinyURL.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/encode-and-decode-tinyurl/)
+- 622\. Design Circular Queue
+    - [LINK TO GITHUB](ClassAndObjects/622_DesignCircularQueue.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/design-circular-queue/)
 - 705\. Desing HashSet
     - [LINK TO GITHUB](ClassAndObjects/705_DesignHashSet.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-hashset/)
@@ -702,6 +708,9 @@
 - 32\. Path With Minimum Effort
     - [LINK TO GITHUB](Math/32_PathWithMinimumEffort.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/path-with-minimum-effort/)
+- 149\. Max Points on a Line
+    - [LINK TO GITHUB](Math/149_MaxPointsOnALine.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/max-points-on-a-line/)
 - 231\. Power of Two
     - [LINK TO GITHUB](Math/231_PowerOfTwo.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-two/)
@@ -1101,6 +1110,9 @@
 - 438\. Find All Anagrams in a String
     - [LINK TO GITHUB](Strings/438_FindAllAnagramsInAString.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- 451\. Sort Characters By Frequency
+    - [LINK TO GITHUB](Strings/451_SortCharactersByFrequency.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sort-characters-by-frequency/)
 - 459\. Repeated Substring Pattern
     - [LINK TO GITHUB](Strings/459_RepeatedSubstringPattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/repeated-substring-pattern/)
