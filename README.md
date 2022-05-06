@@ -1131,6 +1131,9 @@
 - 1202\. Smallest String With Swaps
     - [LINK TO GITHUB](Strings/1202_SmallestStringWithSwaps.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-string-with-swaps/)
+- 1209\. Remove All Adjacent Duplicates in String II
+    - [LINK TO GITHUB](Strings/1209_RemoveAllAdjacentDuplicatesInStringII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 - 1249\. Minimum Remove to Make Valid Parentheses
     - [LINK TO GITHUB](Strings/1249_MinimumRemoveToMakeValidParentheses.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
