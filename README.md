@@ -237,6 +237,9 @@
 - 441\. Arranging Coins
     - [LINK TO GITHUB](BinarySearch/441_ArrangingCoins.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arranging-coins/)
+- 456\. 132 Pattern
+    - [LINK TO GITHUB](BinarySearch/456_132Pattern.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/132-pattern/)
 - 528\. Random Pick with Weight
     - [LINK TO GITHUB](BinarySearch/528_RandomPickWithWeight.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/random-pick-with-weight/)
