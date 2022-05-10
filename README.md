@@ -84,6 +84,9 @@
 - 215\. Kth Largest Element in an Array
     - [LINK TO GITHUB](Array/215_KthLargestElementInAnArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- 216\. Combination Sum III
+    - [LINK TO GITHUB](Array/216_CombinationSumIII.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/combination-sum-iii/)
 - 217\. Contains Duplicate
     - [LINK TO GITHUB](Array/217_ContainsDuplicate.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate/)
