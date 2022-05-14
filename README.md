@@ -633,6 +633,9 @@
 - 733\. Flood Fill
     - [LINK TO GITHUB](GraphTheory/733_FloodFill.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flood-fill/)
+- 743\. Network Delay Time
+    - [LINK TO GITHUB](GraphTheory/743_NetworkDelayTime.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/network-delay-time/)
 - 752\. Open the Lock
     - [LINK TO GITHUB](GraphTheory/752_OpenTheLock.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/open-the-lock/)
