@@ -681,6 +681,9 @@
 - 1254\. Number of Closed Islands
     - [LINK TO GITHUB](GraphTheory/1254_NumberOfClosedIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-closed-islands/)
+- 1302\. Deepest Leaves Sum
+    - [LINK TO GITHUB](GraphTheory/1302_DeepestLeavesSum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/deepest-leaves-sum/)
 - 1306\. Jump Game III
     - [LINK TO GITHUB](GraphTheory/1306_JumpGameIII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game-iii/)
