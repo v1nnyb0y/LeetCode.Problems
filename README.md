@@ -693,6 +693,9 @@
 - 1376\. Time Needed to Inform All Employees
     - [LINK TO GITHUB](GraphTheory/1376_TimeNeededToInformAllEmployees.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/time-needed-to-inform-all-employees/) 
+- 1379\. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+    - [LINK TO GITHUB](GraphTheory/1379_find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
 - 1466\. Reorder Routes to Make All Paths Lead to the City Zero
     - [LINK TO GITHUB](GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
