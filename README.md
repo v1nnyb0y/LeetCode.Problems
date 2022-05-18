@@ -678,6 +678,9 @@
 - 1162\. As Far from Land as Possible
     - [LINK TO GITHUB](GraphTheory/1162_AsFarFromLandAsPossible.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/as-far-from-land-as-possible/)
+- 1192\. Critical Connections in a Network
+    - [LINK TO GITHUB](GraphTheory/1192_critical-connections-in-a-network.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/critical-connections-in-a-network/)
 - 1254\. Number of Closed Islands
     - [LINK TO GITHUB](GraphTheory/1254_NumberOfClosedIslands.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-closed-islands/)
