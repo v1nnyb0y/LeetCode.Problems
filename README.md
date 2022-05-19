@@ -99,6 +99,9 @@
 - 289\. Game of Life
     - [LINK TO GITHUB](Array/289_GameOfLife.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/game-of-life/)
+- 329\. Longest Incresing Path in a Matrix
+    - [LINK TO GITHUB](Array/329_longest-increasing-path-in-a-matrix.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 - 334\. Incresing Triplet Subsequence
     - [LINK TO GITHUB](Array/334_IncreasingTripletSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/increasing-triplet-subsequence/)
