@@ -558,6 +558,9 @@
 - 583\. Delete Operating for Two Strings
     - [LINK TO GITHUB](DynamicProgramming/583_DeleteOperatingForTwoStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-operation-for-two-strings/)
+- 647\. Palindromic Substrings
+    - [LINK TO GITHUB](DynamicProgramming/647_palindromic-substrings.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/palindromic-substrings/)
 - 673\. Number of Longest Increasing Subsequence
     - [LINK TO GITHUB](DynamicProgramming/673_NumberOfLongestIncreasingSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
