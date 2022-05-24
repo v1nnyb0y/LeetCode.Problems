@@ -462,6 +462,9 @@
 - 24\. Coin Change
     - [LINK TO GITHUB](DynamicProgramming/24_CoinChange.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/coin-change/)
+- 32\. Longest Valid Parentheses
+    - [LINK TO GITHUB](DynamicProgramming/32_longest-valid-parentheses.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-valid-parentheses/)
 - 42\. Trapping Rain Water
     - [LINK TO GITHUB](DynamicProgramming/42_TrappingRainWater.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/trapping-rain-water/)
