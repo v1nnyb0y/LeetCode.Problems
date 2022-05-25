@@ -537,6 +537,9 @@
 - 343\. Integer Break
     - [LINK TO GITHUB](DynamicProgramming/343_IntegerBreak.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/integer-break/)
+- 354\. Russian Doll Envelopes
+    - [LINK TO GITHUB](DynamicProgramming/354_russian-doll-envelopes.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/russian-doll-envelopes/)
 - 376\. Wiggle Subsequence
     - [LINK TO GITHUB](DynamicProgramming/376_WiggleSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/wiggle-subsequence/)  
