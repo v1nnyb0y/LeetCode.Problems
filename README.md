@@ -750,6 +750,9 @@
 - 231\. Power of Two
     - [LINK TO GITHUB](Math/231_PowerOfTwo.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-two/)
+- 268\. Missing Number
+    - [LINK TO GITHUB](Math/268_missing-number.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/missing-number/)
 - 409\. Longest Palindrome
     - [LINK TO GITHUB](Math/409_LongestPalindrome.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-palindrome/)
