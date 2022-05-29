@@ -99,6 +99,9 @@
 - 289\. Game of Life
     - [LINK TO GITHUB](Array/289_GameOfLife.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/game-of-life/)
+- 318\. Maximum Product of Word Lengths
+    - [LINK TO GITHUB](Array/318_maximum-product-of-word-lengths.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 - 329\. Longest Incresing Path in a Matrix
     - [LINK TO GITHUB](Array/329_longest-increasing-path-in-a-matrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
