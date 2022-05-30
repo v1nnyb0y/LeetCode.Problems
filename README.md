@@ -744,6 +744,9 @@
 
 ## Math
 
+- 29\. Divide Two Integers
+    - [LINK TO GITHUB](Math/29_divide-two-integers.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/divide-two-integers/)
 - 32\. Path With Minimum Effort
     - [LINK TO GITHUB](Math/32_PathWithMinimumEffort.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/path-with-minimum-effort/)
