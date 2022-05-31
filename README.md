@@ -1188,6 +1188,9 @@
 - 1309\. Decrypt String From Alphabet to Integer Mapping
     - [LINK TO GITHUB](Strings/1309_DecryptStringsFromAlhabetToIntegerMapping.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) 
+- 1461\. Check If a String Contains All Binary Codes of Size K
+    - [LINK TO GITHUB](Strings/1461_check-if-a-string-contains-all-binary-codes-of-size-k.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 - 1678\. Goal Parser Interpretation
     - [LINK TO GITHUB](Strings/1678_GoalParserInterpretation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/goal-parser-interpretation/)
