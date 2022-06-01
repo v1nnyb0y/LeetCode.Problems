@@ -153,6 +153,9 @@
 - 1260\. Shift 2D Grid
     - [LINK TO GITHUB](Array/1260_Shift2DGrid.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shift-2d-grid/)
+- 1480\. Running Sum of 1d array
+    - [LINK TO GITHUB](Array/1480_running-sum-of-1d-array.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/running-sum-of-1d-array/)
 - 1572\. Matrix Diagonal Sum
     - [LINK TO GITHUB](Array/1572_MatrixDiagonalSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
