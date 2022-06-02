@@ -141,6 +141,9 @@
 - 860\. Lemonade Change
     - [LINK TO GITHUB](Array/860_LemonadeChange.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/lemonade-change/)
+- 867\. Transpose Matrix
+    - [LINK TO GITHUB](Array/867_transpose-matrix.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/transpose-matrix/)
 - 896\. Monotonic Array
     - [LINK TO GITHUB](Array/896_MonotonicArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/monotonic-array/) 
