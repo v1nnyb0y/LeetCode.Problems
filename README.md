@@ -45,6 +45,9 @@
 - 47\. Permutations II
     - [LINK TO GITHUB](Array/47_PermutationsII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/permutations-ii/)
+- 51\. N-Queens
+    - [LINK TO GITHUB](Array/51_n-queens.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/n-queens/)
 - 53\. Maximum Subarray
     - [LINK TO GITHUB](Array/53_MaximumSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-subarray/) 
