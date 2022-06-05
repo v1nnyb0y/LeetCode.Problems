@@ -48,6 +48,9 @@
 - 51\. N-Queens
     - [LINK TO GITHUB](Array/51_n-queens.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-queens/)
+- 52\. N-Queens II
+    - [LINK TO GITHUB](Array/52_n-queens-ii.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/n-queens-ii/)
 - 53\. Maximum Subarray
     - [LINK TO GITHUB](Array/53_MaximumSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-subarray/) 
