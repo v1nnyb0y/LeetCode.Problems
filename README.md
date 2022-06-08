@@ -1263,6 +1263,9 @@
 - 986\. Interval List Intersection
     - [LINK TO GITHUB](TwoPointers/986_IntervalListIntersection.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/interval-list-intersections/)
+- 1332\. Remove Palindromic Subsequences
+    - [LINK TO GITHUB](TwoPointers/1332_remove-palindromic-subsequences.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/remove-palindromic-subsequences/)
 - 1679\. Max Number of K-Sum Pairs
     - [LINK TO GITHUB](TwoPointers/1679_MaxNumberOfKSumPairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
