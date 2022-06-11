@@ -174,6 +174,9 @@
 - 1630\. Arithmetic Subarrays
     - [LINK TO GITHUB](Array/1630_ArithmeticSubarrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-subarrays/)
+- 1658\. Minimum Operations to Reduce X to Zero
+    - [LINK TO GITHUB](Array/1658_minimum-operations-to-reduce-x-to-zero.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - 1672\. Richest Customer Wealth
     - [LINK TO GITHUB](Array/1672_RichestCustomerWealth.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
