@@ -180,6 +180,9 @@
 - 1672\. Richest Customer Wealth
     - [LINK TO GITHUB](Array/1672_RichestCustomerWealth.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
+- 1695\. Maximum Erasure Value
+    - [LINK TO GITHUB](Array/1695_maximum-erasure-value.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-erasure-value/)
 
 ----
 [:arrow_up:References](#References)
