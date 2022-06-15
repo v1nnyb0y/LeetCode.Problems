@@ -159,6 +159,9 @@
 - 1046\. Last Stone Weight
     - [LINK TO GITHUB](Array/1046_LastStoneWeight.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/last-stone-weight/)
+- 1048\. Longest String Chain
+    - [LINK TO GITHUB](Array/1048_longest-string-chain.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-string-chain/) 
 - 1260\. Shift 2D Grid
     - [LINK TO GITHUB](Array/1260_Shift2DGrid.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shift-2d-grid/)
