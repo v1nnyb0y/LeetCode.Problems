@@ -612,6 +612,9 @@
 - 931\. Minimum Faliing Path Sum
     - [LINK TO GITHUB](DynamicProgramming/931_MinimumFallingPathSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-falling-path-sum/)
+- 968\. Binary Tree Cameras
+    - [LINK TO GITHUB](DynamicProgramming/968_binary-tree-cameras.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-cameras/)
 - 1014\. Best Sightseeing Pair
     - [LINK TO GITHUB](DynamicProgramming/1014_BestSighseeingPair.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-sightseeing-pair/)
