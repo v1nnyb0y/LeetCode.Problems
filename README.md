@@ -1194,6 +1194,9 @@
 - 709\. To Lower case
     - [LINK TO GITHUB](Strings/709_ToLowerCase.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/to-lower-case/) 
+- 745\. Prefix and Suffix Search
+    - [LINK TO GITHUB](Strings/745_prefix-and-suffix-search.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/prefix-and-suffix-search/)
 - 763\. Partion Labels
     - [LINK TO GITHUB](Strings/763_PartitionLabels.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/partition-labels/)
