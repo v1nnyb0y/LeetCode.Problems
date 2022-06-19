@@ -165,6 +165,9 @@
 - 1260\. Shift 2D Grid
     - [LINK TO GITHUB](Array/1260_Shift2DGrid.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shift-2d-grid/)
+- 1268\. Search Suggestions System
+    - [LINK TO GITHUB](Array/1268_search-suggestions-system.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/search-suggestions-system/)
 - 1480\. Running Sum of 1d array
     - [LINK TO GITHUB](Array/1480_running-sum-of-1d-array.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/running-sum-of-1d-array/)
