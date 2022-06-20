@@ -144,6 +144,9 @@
 - 739\. Daily Temperatures
     - [LINK TO GITHUB](Array/739_DailyTemperature.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/daily-temperatures/) 
+- 820\. Short Encoding of Words
+    - [LINK TO GITHUB](Array/820_short-encoding-of-words.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/short-encoding-of-words/)
 - 860\. Lemonade Change
     - [LINK TO GITHUB](Array/860_LemonadeChange.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/lemonade-change/)
