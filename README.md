@@ -183,6 +183,9 @@
 - 1630\. Arithmetic Subarrays
     - [LINK TO GITHUB](Array/1630_ArithmeticSubarrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-subarrays/)
+- 1642\. Furthest Building You Can Reach
+    - [LINK TO GITHUB](Array/1642_furthest-building-you-can-reach.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/furthest-building-you-can-reach/)
 - 1658\. Minimum Operations to Reduce X to Zero
     - [LINK TO GITHUB](Array/1658_minimum-operations-to-reduce-x-to-zero.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
