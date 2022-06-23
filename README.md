@@ -135,6 +135,9 @@
 - 581\. Short Unsorted Continuous Subarray
     - [LINK TO GITHUB](Array/581_ShortestUnsortedContiniousSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+- 630\. Course Schedule III
+    - [LINK TO GITHUB](Array/630_course-schedule-iii.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/course-schedule-iii/)
 - 682\. Baseball Game
     - [LINK TO GITHUB](Array/682_BaseballGame.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/baseball-game/)
