@@ -138,6 +138,9 @@
 - 630\. Course Schedule III
     - [LINK TO GITHUB](Array/630_course-schedule-iii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/course-schedule-iii/)
+- 665\. Non-decreasing Array
+    - [LINK TO GITHUB](Array/665_non-decreasing-array.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/non-decreasing-array/)
 - 682\. Baseball Game
     - [LINK TO GITHUB](Array/682_BaseballGame.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/baseball-game/)
