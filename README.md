@@ -180,6 +180,9 @@
 - 1354\. Construct Target Array With Multiple Sums
     - [LINK TO GITHUB](Array/1354_construct-target-array-with-multiple-sums.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
+- 1423\. Maximum Points You Can Obtain from Cards
+    - [LINK TO GITHUB](Array/1423_maximum-points-you-can-obtain-from-cards.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 - 1480\. Running Sum of 1d array
     - [LINK TO GITHUB](Array/1480_running-sum-of-1d-array.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/running-sum-of-1d-array/)
@@ -1239,6 +1242,9 @@
 - 1678\. Goal Parser Interpretation
     - [LINK TO GITHUB](Strings/1678_GoalParserInterpretation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/goal-parser-interpretation/)
+- 1689\. Partitioning Into Minimum Number of Deci-Binary Numbers
+    - [LINK TO GITHUB](Strings/1689_partitioning-into-minimum-number-of-deci-binary-numbers.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
 - 1768\. Merge Strings Alternately
     - [LINK TO GITHUB](Strings/1768_MergeStringsAlternately.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-strings-alternately/) 
