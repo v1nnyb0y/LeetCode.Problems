@@ -1239,6 +1239,9 @@
 - 1461\. Check If a String Contains All Binary Codes of Size K
     - [LINK TO GITHUB](Strings/1461_check-if-a-string-contains-all-binary-codes-of-size-k.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
+- 1647\. Minimum Deletions to Make Character Frequencies Unique
+    - [LINK TO GITHUB](Strings/1647_minimum-deletions-to-make-character-frequencies-unique.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 - 1678\. Goal Parser Interpretation
     - [LINK TO GITHUB](Strings/1678_GoalParserInterpretation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/goal-parser-interpretation/)
