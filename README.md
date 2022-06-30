@@ -123,6 +123,9 @@
 - 406\. Queue Reconstruction by Height
     - [LINK TO GITHUB](Array/406_queue-reconstruction-by-height.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/queue-reconstruction-by-height/)
+- 462\. Minimum Moves to Equal Array Elements II
+    - [LINK TO GITHUB](Array/462_minimum-moves-to-equal-array-elements-ii.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 - 474\. Ones and Zeroes
     - [LINK TO GITHUB](Array/474_ones-and-zeroes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ones-and-zeroes/)
