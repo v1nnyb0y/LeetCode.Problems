@@ -213,6 +213,9 @@
 - 1695\. Maximum Erasure Value
     - [LINK TO GITHUB](Array/1695_maximum-erasure-value.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-erasure-value/)
+- 1710\. Maximum Units on a Truck
+    - [LINK TO GITHUB](Array/1710_maximum-units-on-a-truck.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
 ----
 [:arrow_up:References](#References)
