@@ -189,6 +189,9 @@
 - 1423\. Maximum Points You Can Obtain from Cards
     - [LINK TO GITHUB](Array/1423_maximum-points-you-can-obtain-from-cards.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+- 1465\. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+    - [LINK TO GITHUB](Array/1465_maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)
 - 1480\. Running Sum of 1d array
     - [LINK TO GITHUB](Array/1480_running-sum-of-1d-array.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/running-sum-of-1d-array/)
