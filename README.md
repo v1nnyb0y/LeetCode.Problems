@@ -75,6 +75,9 @@
 - 130\. Surrounded Regions
     - [LINK TO GITHUB](Array/130_SurroundedRegions.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/surrounded-regions/)
+- 135\. Candy
+    - [LINK TO GITHUB](Array/135_candy.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/candy/)
 - 136\. Single Number
     - [LINK TO GITHUB](Array/136_SingleNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/single-number/)
