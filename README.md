@@ -72,6 +72,9 @@
 - 90\. Subsets II
     - [LINK TO GITHUB](Array/90_SubsetsII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subsets-ii/) 
+- 128\. Longest Consecutive Sequence
+    - [LINK TO GITHUB](Array/128_longest-consecutive-sequence.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-consecutive-sequence/)
 - 130\. Surrounded Regions
     - [LINK TO GITHUB](Array/130_SurroundedRegions.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/surrounded-regions/)
