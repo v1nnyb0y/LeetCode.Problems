@@ -666,6 +666,9 @@
 - 1314\. Matrix Block Sum
     - [LINK TO GITHUB](DynamicProgramming/1314_MatrixBlockSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/matrix-block-sum/)
+- 1473\. Paint House III
+    - [LINK TO GITHUB](DynamicProgramming/1473_paint-house-iii.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/paint-house-iii/)
 - 1567\. Maximum Length of Subarray With Positive Product
     - [LINK TO GITHUB](DynamicProgramming/1567_MaximumLengthOfSubarrayWithPositiveProduct.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)
