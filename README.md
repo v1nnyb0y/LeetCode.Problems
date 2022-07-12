@@ -132,6 +132,9 @@
 - 462\. Minimum Moves to Equal Array Elements II
     - [LINK TO GITHUB](Array/462_minimum-moves-to-equal-array-elements-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
+- 473\. Matchsticks to Square
+    - [LINK TO GITHUB](Array/473_matchsticks-to-square.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/matchsticks-to-square/)
 - 474\. Ones and Zeroes
     - [LINK TO GITHUB](Array/474_ones-and-zeroes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ones-and-zeroes/)
