@@ -717,6 +717,9 @@
 - 547\. Number of Province
     - [LINK TO GITHUB](GraphTheory/547_NumberOfProvinces.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-provinces/)
+- 576\. Out of Boundary Paths
+    - [LINK TO GITHUB](GraphTheory/576_out-of-boundary-paths.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/out-of-boundary-paths/submissions/)
 - 695\. Max Area of Island
     - [LINK TO GITHUB](GraphTheory/695_MaxAreaOfIsland.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-area-of-island/)
