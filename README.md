@@ -636,6 +636,9 @@
 - 583\. Delete Operating for Two Strings
     - [LINK TO GITHUB](DynamicProgramming/583_DeleteOperatingForTwoStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-operation-for-two-strings/)
+- 629\. K Inverse Pairs Array
+    - [LINK TO GITHUB](DynamicProgramming/629_k-inverse-pairs-array.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/k-inverse-pairs-array/)
 - 647\. Palindromic Substrings
     - [LINK TO GITHUB](DynamicProgramming/647_palindromic-substrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/palindromic-substrings/)
