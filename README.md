@@ -186,6 +186,9 @@
 - 1048\. Longest String Chain
     - [LINK TO GITHUB](Array/1048_longest-string-chain.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-string-chain/) 
+- 1074\. Number of Submatrices That Sum to Target
+    - [LINK TO GITHUB](Array/1074_number-of-submatrices-that-sum-to-target.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
 - 1260\. Shift 2D Grid
     - [LINK TO GITHUB](Array/1260_Shift2DGrid.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shift-2d-grid/)
