@@ -1260,6 +1260,9 @@
 - 763\. Partion Labels
     - [LINK TO GITHUB](Strings/763_PartitionLabels.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/partition-labels/)
+- 792\. Number of Matching Subsequences
+    - [LINK TO GITHUB](Strings/792_number-of-matching-subsequences.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-matching-subsequences/)
 - 953\. Verifying an Alien Dictionary
     - [LINK TO GITHUB](Strings/953_VerifyingAnAlienDictionary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/verifying-an-alien-dictionary/)
