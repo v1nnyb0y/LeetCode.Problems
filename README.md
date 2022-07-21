@@ -72,6 +72,9 @@
 - 90\. Subsets II
     - [LINK TO GITHUB](Array/90_SubsetsII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subsets-ii/) 
+- 92\. Reverse Linked List II
+    - [LINK TO GITHUB](Array/92_reverse-linked-list-ii.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-linked-list-ii/)
 - 128\. Longest Consecutive Sequence
     - [LINK TO GITHUB](Array/128_longest-consecutive-sequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-consecutive-sequence/)
