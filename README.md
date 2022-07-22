@@ -1314,6 +1314,9 @@
 - 82\. Remove Duplicates from Sorted List II
     - [LINK TO GITHUB](TwoPointers/82_RemoveDuplicatesFromSortedListII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+- 86\. Partition List
+    - [LINK TO GITHUB](TwoPointers/86_partition-list.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/partition-list/)
 - 167\. Two Sum II
     - [LINK TO GITHUB](TwoPointers/167_TwoSumII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
