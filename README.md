@@ -114,6 +114,9 @@
 - 289\. Game of Life
     - [LINK TO GITHUB](Array/289_GameOfLife.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/game-of-life/)
+- 315\. Count of Smaller Numbers After Self
+    - [LINK TO GITHUB](Array/315_count-of-smaller-numbers-after-self.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - 318\. Maximum Product of Word Lengths
     - [LINK TO GITHUB](Array/318_maximum-product-of-word-lengths.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-product-of-word-lengths/)
