@@ -180,6 +180,9 @@
 - 867\. Transpose Matrix
     - [LINK TO GITHUB](Array/867_transpose-matrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/transpose-matrix/)
+- 890\. Find and Replace Pattern
+    - [LINK TO GITHUB](Array/890_find-and-replace-pattern.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-and-replace-pattern/)
 - 896\. Monotonic Array
     - [LINK TO GITHUB](Array/896_MonotonicArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/monotonic-array/) 
