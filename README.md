@@ -186,6 +186,9 @@
 - 896\. Monotonic Array
     - [LINK TO GITHUB](Array/896_MonotonicArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/monotonic-array/) 
+- 916\. Word Subsets
+    - [LINK TO GITHUB](Array/916_word-subsets.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/word-subsets/)
 - 989\. Add to Array-Form of Integer
     - [LINK TO GITHUB](Array/989_AddToArrayFormOfInteger.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-to-array-form-of-integer/)
