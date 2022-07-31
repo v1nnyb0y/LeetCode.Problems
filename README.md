@@ -468,6 +468,9 @@
 - 303\. Range Sum Query
     - [LINK TO GITHUB](ClassAndObjects/303_RangeSumQuery.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-immutable/)
+- 307\. Range Sum Query - Mutable
+    - [LINK TO GITHUB](ClassAndObjects/307_range-sum-query-mutable.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-mutable/)
 - 341\. Flatten Nested List Iterator
     - [LINK TO GITHUB](ClassAndObjects/341_FlattenNestedListIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flatten-nested-list-iterator/)
