@@ -132,6 +132,9 @@
 - 350\. Intersection of Two Arrays II
     - [LINK TO GITHUB](Array/350_IntersectionOfTwoArraysII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- 378\. Kth Smallest Element in a Sorted Matrix
+    - [LINK TO GITHUB](Array/378_kth-smallest-element-in-a-sorted-matrix.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - 406\. Queue Reconstruction by Height
     - [LINK TO GITHUB](Array/406_queue-reconstruction-by-height.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/queue-reconstruction-by-height/)
