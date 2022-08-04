@@ -867,6 +867,9 @@
 - 633\. Sum of Square Numbers
     - [LINK TO GITHUB](Math/633_SumOfSquareNumbers.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-square-numbers/)
+- 858\. Mirror Reflection
+    - [LINK TO GITHUB](Math/858_mirror-reflection.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/mirror-reflection/)
 - 910\. Smallest Range II
     - [LINK TO GITHUB](Math/910_SmallestRangeII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-range-ii/)
