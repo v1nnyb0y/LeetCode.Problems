@@ -645,6 +645,9 @@
 - 435\. Non-overlapping Intervals
     - [LINK TO GITHUB](DynamicProgramming/435_Non-overlappingIntervals.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/non-overlapping-intervals/)
+- 458\. Poor Pigs
+    - [LINK TO GITHUB](DynamicProgramming/458_poor-pigs.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/poor-pigs/)
 - 509\. Fibonacci Number
     - [LINK TO GITHUB](DynamicProgramming/509_FibonacciNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
