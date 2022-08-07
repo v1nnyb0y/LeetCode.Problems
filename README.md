@@ -696,6 +696,9 @@
 - 1143\. Longest Common Subsequence
     - [LINK TO GITHUB](DynamicProgramming/1143_LongestCommonSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-common-subsequence/)
+- 1220\. Count Vowels Permutation
+    - [LINK TO GITHUB](DynamicProgramming/1220_count-vowels-permutation.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/count-vowels-permutation/)
 - 1314\. Matrix Block Sum
     - [LINK TO GITHUB](DynamicProgramming/1314_MatrixBlockSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/matrix-block-sum/)
