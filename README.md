@@ -1230,6 +1230,9 @@
 - 3\. Longest Substring Without Repeating Characters
     - [LINK TO GITHUB](Strings/3_LongestSubstringWithoutRepeatingCharacters.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- 13\. Roman to Integer
+    - [LINK TO GITHUB](Strings/13_roman-to-integer.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/roman-to-integer/)
 - 17\. Letter Combinations of a Phone Number
     - [LINK TO GITHUB](Strings/17_LetterCombinationsOfAPhoneNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
@@ -1239,6 +1242,9 @@
 - 28\. Implement strStr()
     - [LINK TO GITHUB](Strings/28_ImplementStrStr.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/implement-strstr/) 
+- 30\. Substring with Concatenation of All Words
+    - [LINK TO GITHUB](Strings/30_substring-with-concatenation-of-all-words.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - 43\. Multiply Strings
     - [LINK TO GITHUB](Strings/43_MultiplyStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/multiply-strings/)
@@ -1257,6 +1263,9 @@
 - 97\. Interleaving String
     - [LINK TO GITHUB](Strings/97_interleaving-string.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/interleaving-string/)
+- 126\. Word Ladder II
+    - [LINK TO GITHUB](Strings/126_word-ladder-ii.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/word-ladder-ii/)
 - 201\. Bitwise AND of Numbers Range    
     - [LINK TO GITHUB](Strings/201_BitwiseAndOfNumbersRange.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
