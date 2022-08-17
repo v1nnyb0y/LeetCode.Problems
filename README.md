@@ -174,6 +174,9 @@
 - 739\. Daily Temperatures
     - [LINK TO GITHUB](Array/739_DailyTemperature.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/daily-temperatures/) 
+- 804\. Unique Morse Code Words
+    - [LINK TO GITHUB](Array/804_unique-morse-code-words.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/unique-morse-code-words/)
 - 820\. Short Encoding of Words
     - [LINK TO GITHUB](Array/820_short-encoding-of-words.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/short-encoding-of-words/)
