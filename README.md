@@ -216,6 +216,9 @@
 - 1268\. Search Suggestions System
     - [LINK TO GITHUB](Array/1268_search-suggestions-system.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-suggestions-system/)
+- 1338\. Reduce Array Size to The Half
+    - [LINK TO GITHUB](Array/1338_reduce-array-size-to-the-half.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 - 1354\. Construct Target Array With Multiple Sums
     - [LINK TO GITHUB](Array/1354_construct-target-array-with-multiple-sums.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
