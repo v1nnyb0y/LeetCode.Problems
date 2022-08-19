@@ -162,6 +162,9 @@
 - 630\. Course Schedule III
     - [LINK TO GITHUB](Array/630_course-schedule-iii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/course-schedule-iii/)
+- 659\. Split Array into Consecutive Subsequences
+    - [LINK TO GITHUB](Array/659_split-array-into-consecutive-subsequences.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
 - 665\. Non-decreasing Array
     - [LINK TO GITHUB](Array/665_non-decreasing-array.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/non-decreasing-array/)
