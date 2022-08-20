@@ -192,6 +192,9 @@
 - 867\. Transpose Matrix
     - [LINK TO GITHUB](Array/867_transpose-matrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/transpose-matrix/)
+- 871\. Minimum Number of Refueling Stops
+    - [LINK TO GITHUB](Array/871_minimum-number-of-refueling-stops.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 - 890\. Find and Replace Pattern
     - [LINK TO GITHUB](Array/890_find-and-replace-pattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-and-replace-pattern/)
