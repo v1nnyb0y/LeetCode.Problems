@@ -1317,6 +1317,9 @@
 - 792\. Number of Matching Subsequences
     - [LINK TO GITHUB](Strings/792_number-of-matching-subsequences.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-matching-subsequences/)
+- 936\. Stamping The Sequence
+    - [LINK TO GITHUB](Strings/936_stamping-the-sequence.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/stamping-the-sequence/)
 - 953\. Verifying an Alien Dictionary
     - [LINK TO GITHUB](Strings/953_VerifyingAnAlienDictionary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/verifying-an-alien-dictionary/)
