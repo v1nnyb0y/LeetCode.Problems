@@ -879,6 +879,9 @@
 - 268\. Missing Number
     - [LINK TO GITHUB](Math/268_missing-number.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/missing-number/)
+- 342\. Power of Four
+    - [LINK TO GITHUB](Math/342_power-of-four.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-four/)
 - 409\. Longest Palindrome
     - [LINK TO GITHUB](Math/409_LongestPalindrome.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-palindrome/)
