@@ -1380,6 +1380,9 @@
 - 189\. Rotate Array
     - [LINK TO GITHUB](TwoPointers/189_RotateArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-array/)
+- 234\. Palindrome Linked List
+    - [LINK TO GITHUB](TwoPointers/234_palindrome-linked-list.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/palindrome-linked-list/)
 - 344\. Reverse String
     - [LINK TO GITHUB](TwoPointers/344_ReverseString.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-string/)
