@@ -879,6 +879,9 @@
 - 268\. Missing Number
     - [LINK TO GITHUB](Math/268_missing-number.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/missing-number/)
+- 326\. Power of Three
+    - [LINK TO GITHUB](Math/326_power-of-three.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-three/)
 - 342\. Power of Four
     - [LINK TO GITHUB](Math/342_power-of-four.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-four/)
