@@ -897,6 +897,9 @@
 - 858\. Mirror Reflection
     - [LINK TO GITHUB](Math/858_mirror-reflection.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/mirror-reflection/)
+- 869\. Reordered Power of 2
+    - [LINK TO GITHUB](Math/869_reordered-power-of-2.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/reordered-power-of-2/)
 - 910\. Smallest Range II
     - [LINK TO GITHUB](Math/910_SmallestRangeII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-range-ii/)
