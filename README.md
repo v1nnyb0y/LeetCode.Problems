@@ -132,6 +132,9 @@
 - 350\. Intersection of Two Arrays II
     - [LINK TO GITHUB](Array/350_IntersectionOfTwoArraysII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- 363\. Max Sum of Rectangle No Larger Than K
+    - [LINK TO GITHUB](Array/363_max-sum-of-rectangle-no-larger-than-k.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
 - 378\. Kth Smallest Element in a Sorted Matrix
     - [LINK TO GITHUB](Array/378_kth-smallest-element-in-a-sorted-matrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
@@ -222,6 +225,9 @@
 - 1268\. Search Suggestions System
     - [LINK TO GITHUB](Array/1268_search-suggestions-system.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-suggestions-system/)
+- 1329\. Sort the Matrix Diagonally
+    - [LINK TO GITHUB](Array/1329_sort-the-matrix-diagonally.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sort-the-matrix-diagonally/)
 - 1338\. Reduce Array Size to The Half
     - [LINK TO GITHUB](Array/1338_reduce-array-size-to-the-half.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reduce-array-size-to-the-half/)
