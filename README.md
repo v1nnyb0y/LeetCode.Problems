@@ -1045,7 +1045,7 @@
     - [LINK TO GITHUB](Function/784_LetterCasePermutation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/letter-case-permutation/)
 - 1232\. Check if It is a straight Line
-    - [LINK TO GITHUB](Function\1232_CheckIfItIsAStraightLine.ipynb)
+    - [LINK TO GITHUB](Function/1232_CheckIfItIsAStraightLine.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-it-is-a-straight-line/) 
 
 ----
@@ -1209,6 +1209,9 @@
 - 1367\. Linked List in Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/1367_LinkedListInBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-in-binary-tree/) 
+- 1448\. Count Good Nodes in Binary Tree
+    - [LINK TO GITHUB](LinkedListAndTree/1448_count-good-nodes-in-binary-tree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 - 1731\. Swapping Nodes in a Linked List
     - [LINK TO GITHUB](LinkedListAndTree/1731_SwappingNodesInALinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
