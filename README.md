@@ -1185,6 +1185,9 @@
 - 617\. Merge Two Binary Trees
     - [LINK TO GITHUB](LinkedListAndTree/617_MergeTwoBinaryTrees.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-binary-trees/)
+- 637\. Average of Levels in Binary Tree
+    - [LINK TO GITHUB](LinkedListAndTree/637_average-of-levels-in-binary-tree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - 653\. Two Sum IV - Input is a BST 
     - [LINK TO GITHUB](LinkedListAndTree/653_TwoSumIV_InputIsABST.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
