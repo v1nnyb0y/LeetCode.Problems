@@ -207,6 +207,9 @@
 - 916\. Word Subsets
     - [LINK TO GITHUB](Array/916_word-subsets.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-subsets/)
+- 967\. Numbers With Same Consecutive Differences
+    - [LINK TO GITHUB](Array/967_numbers-with-same-consecutive-differences.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
 - 989\. Add to Array-Form of Integer
     - [LINK TO GITHUB](Array/989_AddToArrayFormOfInteger.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-to-array-form-of-integer/)
@@ -1206,6 +1209,9 @@
 - 897\. Increasing Order Search Tree    
     - [LINK TO GITHUB](LinkedListAndTree/897_IncreasingOrderSearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/increasing-order-search-tree/)   
+- 987\. Vertical Order Traversal of a Binary Tree
+    - [LINK TO GITHUB](LinkedListAndTree/987_vertical-order-traversal-of-a-binary-tree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 - 1290\. Convert Binary Number in a Linked List of Integer
     - [LINK TO GITHUB](LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
