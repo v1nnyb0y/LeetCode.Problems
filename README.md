@@ -1203,6 +1203,9 @@
 - 701\. Insert Into a Binary Search Tree
     - [LINK TO GITHUB](LinkedListAndTree/701_InsertIntoABinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+- 814\. Binary Tree Pruning
+    - [LINK TO GITHUB](LinkedListAndTree/814_binary-tree-pruning.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-pruning/)
 - 876\. Middle of the Linked List
     - [LINK TO GITHUB](LinkedListAndTree/876_MiddleOfTheLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
