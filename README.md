@@ -1194,6 +1194,9 @@
 - 653\. Two Sum IV - Input is a BST 
     - [LINK TO GITHUB](LinkedListAndTree/653_TwoSumIV_InputIsABST.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+- 606\. Construct String from Binary Tree
+    - [LINK TO GITHUB](LinkedListAndTree/606_construct-string-from-binary-tree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/construct-string-from-binary-tree/)
 - 669\. Trim a Binary Search Tree
     - [LINK TO GITHUB](LinkedListAndTree/669_TrimABinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/trim-a-binary-search-tree/)
