@@ -273,6 +273,9 @@
 - 1710\. Maximum Units on a Truck
     - [LINK TO GITHUB](Array/1710_maximum-units-on-a-truck.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-units-on-a-truck/)
+- 1996\. The Number of Weak Characters in the Game
+    - [LINK TO GITHUB](Array/1996_the-number-of-weak-characters-in-the-game.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 
 ----
 [:arrow_up:References](#References)
