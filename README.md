@@ -240,6 +240,9 @@
 - 1354\. Construct Target Array With Multiple Sums
     - [LINK TO GITHUB](Array/1354_construct-target-array-with-multiple-sums.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
+- 1383\. Maximum Performance of a Team
+    - [LINK TO GITHUB](Array/1383_maximum-performance-of-a-team.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-performance-of-a-team/)
 - 1423\. Maximum Points You Can Obtain from Cards
     - [LINK TO GITHUB](Array/1423_maximum-points-you-can-obtain-from-cards.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
