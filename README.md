@@ -141,6 +141,9 @@
 - 378\. Kth Smallest Element in a Sorted Matrix
     - [LINK TO GITHUB](Array/378_kth-smallest-element-in-a-sorted-matrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- 393\. UTF-8 Validation
+    - [LINK TO GITHUB](Array/393_utf-8-validation.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/utf-8-validation/)
 - 406\. Queue Reconstruction by Height
     - [LINK TO GITHUB](Array/406_queue-reconstruction-by-height.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/queue-reconstruction-by-height/)
