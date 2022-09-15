@@ -288,6 +288,9 @@
 - 1996\. The Number of Weak Characters in the Game
     - [LINK TO GITHUB](Array/1996_the-number-of-weak-characters-in-the-game.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+- 2007\. Find Original Array From Doubled Array
+    - [LINK TO GITHUB](Array/2007_find-original-array-from-doubled-array.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-original-array-from-doubled-array/)
 
 ----
 [:arrow_up:References](#References)
