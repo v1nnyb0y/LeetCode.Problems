@@ -280,11 +280,14 @@
     - [LINK TO GITHUB](Array/1695_maximum-erasure-value.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-erasure-value/)
 - 1696\. Jump Game VI
-    - [LINK TO GITHUB](Array\1696_jump-game-vi.ipynb)
+    - [LINK TO GITHUB](Array/1696_jump-game-vi.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game-vi/)
 - 1710\. Maximum Units on a Truck
     - [LINK TO GITHUB](Array/1710_maximum-units-on-a-truck.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-units-on-a-truck/)
+- 1770\. Maximum Score from Performing Multiplication Operations
+    - [LINK TO GITHUB](Array/1770_maximum-score-from-performing-multiplication-operations.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
 - 1996\. The Number of Weak Characters in the Game
     - [LINK TO GITHUB](Array/1996_the-number-of-weak-characters-in-the-game.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
