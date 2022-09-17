@@ -129,6 +129,9 @@
 - 334\. Incresing Triplet Subsequence
     - [LINK TO GITHUB](Array/334_IncreasingTripletSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/increasing-triplet-subsequence/)
+- 336\. Palindrome Pairs
+    - [LINK TO GITHUB](Array/336_palindrome-pairs.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/palindrome-pairs/)
 - 347\. Top K Frequest Elements
     - [LINK TO GITHUB](Array/347_TopKFrequentElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/top-k-frequent-elements/)
