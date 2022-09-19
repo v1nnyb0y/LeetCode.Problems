@@ -171,6 +171,9 @@
 - 581\. Short Unsorted Continuous Subarray
     - [LINK TO GITHUB](Array/581_ShortestUnsortedContiniousSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+- 609\. Find Duplicate File in System
+    - [LINK TO GITHUB](Array/609_find-duplicate-file-in-system.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-duplicate-file-in-system/)
 - 630\. Course Schedule III
     - [LINK TO GITHUB](Array/630_course-schedule-iii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/course-schedule-iii/)
