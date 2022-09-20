@@ -189,6 +189,9 @@
 - 713\. Subarray Product Less Than K
     - [LINK TO GITHUB](Array/713_SubarrayProductLessThanK.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subarray-product-less-than-k/)
+- 718\. Maximum Length of Repeated Subarray
+    - [LINK TO GITHUB](Array/718_maximum-length-of-repeated-subarray.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - 739\. Daily Temperatures
     - [LINK TO GITHUB](Array/739_DailyTemperature.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/daily-temperatures/) 
