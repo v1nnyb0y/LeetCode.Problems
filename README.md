@@ -228,6 +228,9 @@
 - 967\. Numbers With Same Consecutive Differences
     - [LINK TO GITHUB](Array/967_numbers-with-same-consecutive-differences.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
+- 985\. Sum of Even Numbers After Queries
+    - [LINK TO GITHUB](Array/985_sum-of-even-numbers-after-queries.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 - 989\. Add to Array-Form of Integer
     - [LINK TO GITHUB](Array/989_AddToArrayFormOfInteger.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-to-array-form-of-integer/)
