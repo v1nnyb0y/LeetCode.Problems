@@ -957,6 +957,9 @@
 - 1584\. Min Cost to Connect All Points
     - [LINK TO GITHUB](Math/1584_MinCostToConnectAllPoints.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+- 1680\. Concatenation of Consecutive Binary Numbers
+    - [LINK TO GITHUB](Math/1680_concatenation-of-consecutive-binary-numbers.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
 
 ----
 [:arrow_up:References](#References)
