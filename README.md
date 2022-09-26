@@ -234,6 +234,9 @@
 - 989\. Add to Array-Form of Integer
     - [LINK TO GITHUB](Array/989_AddToArrayFormOfInteger.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-to-array-form-of-integer/)
+- 990\. Satisfiability of Equality Equations
+    - [LINK TO GITHUB](Array/990_satisfiability-of-equality-equations.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/satisfiability-of-equality-equations/)
 - 1046\. Last Stone Weight
     - [LINK TO GITHUB](Array/1046_LastStoneWeight.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/last-stone-weight/)
@@ -780,6 +783,9 @@
 - 54\. Spiral Matrix
     - [LINK TO GITHUB](GraphTheory/54_SpiralMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/spiral-matrix/)
+- 113\. Path Sum II
+    - [LINK TO GITHUB](GraphTheory/113_path-sum-ii.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/path-sum-ii/)
 - 127\. Word Ladder
     - [LINK TO GITHUB](GraphTheory/127_WordLadder.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-ladder/)
