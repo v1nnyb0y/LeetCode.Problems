@@ -177,6 +177,9 @@
 - 630\. Course Schedule III
     - [LINK TO GITHUB](Array/630_course-schedule-iii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/course-schedule-iii/)
+- 658\. Find K Closest Elements
+    - [LINK TO GITHUB](Array/658_find-k-closest-elements.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-k-closest-elements/)
 - 659\. Split Array into Consecutive Subsequences
     - [LINK TO GITHUB](Array/659_split-array-into-consecutive-subsequences.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
