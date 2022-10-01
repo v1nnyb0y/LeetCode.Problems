@@ -1359,6 +1359,9 @@
 - 79\. Word Search
     - [LINK TO GITHUB](Strings/79_WordSearch.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-search/)
+- 91\. Decode Ways
+    - [LINK TO GITHUB](Strings/91_decode-ways.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/decode-ways/)
 - 97\. Interleaving String
     - [LINK TO GITHUB](Strings/97_interleaving-string.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/interleaving-string/)
