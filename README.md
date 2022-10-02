@@ -762,6 +762,9 @@
 - 1143\. Longest Common Subsequence
     - [LINK TO GITHUB](DynamicProgramming/1143_LongestCommonSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-common-subsequence/)
+- 1155\. Number of Dice Rolls With Target Sum
+    - [LINK TO GITHUB](DynamicProgramming/1155_number-of-dice-rolls-with-target-sum.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
 - 1220\. Count Vowels Permutation
     - [LINK TO GITHUB](DynamicProgramming/1220_count-vowels-permutation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-vowels-permutation/)
