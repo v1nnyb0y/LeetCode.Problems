@@ -282,6 +282,9 @@
 - 1572\. Matrix Diagonal Sum
     - [LINK TO GITHUB](Array/1572_MatrixDiagonalSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
+- 1578\. Minimum Time to Make Rope Colorful
+    - [LINK TO GITHUB](Array/1578_minimum-time-to-make-rope-colorful.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
 - 1588\. Sum Of All Odd Length Subarrays
     - [LINK TO GITHUB](Array/1588_SumOfAllOddLengthSubarrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/)
