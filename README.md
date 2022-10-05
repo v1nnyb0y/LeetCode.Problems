@@ -824,7 +824,10 @@
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-provinces/)
 - 576\. Out of Boundary Paths
     - [LINK TO GITHUB](GraphTheory/576_out-of-boundary-paths.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/out-of-boundary-paths/submissions/)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/out-of-boundary-paths/)
+- 623\. Add One Row to Tree
+    - [LINK TO GITHUB](GraphTheory/623_add-one-row-to-tree.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/add-one-row-to-tree/)
 - 695\. Max Area of Island
     - [LINK TO GITHUB](GraphTheory/695_MaxAreaOfIsland.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-area-of-island/)
