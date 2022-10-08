@@ -27,6 +27,9 @@
 - 15\. 3Sum
     - [LINK TO GITHUB](Array/15_3Sum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/3sum/)  
+- 16\. 3Sum Closest
+    - [LINK TO GITHUB](Array/16_3sum-closest.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/3sum-closest/)
 - 20\. Valid Parentheses
     - [LINK TO GITHUB](Array/20_ValidParentheses.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-parentheses/)
