@@ -1443,6 +1443,9 @@
 - 1309\. Decrypt String From Alphabet to Integer Mapping
     - [LINK TO GITHUB](Strings/1309_DecryptStringsFromAlhabetToIntegerMapping.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) 
+- 1328\. Break a Palindrome 
+    - [LINK TO GITHUB](Strings/1328_break-a-palindrome.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/break-a-palindrome/)   
 - 1461\. Check If a String Contains All Binary Codes of Size K
     - [LINK TO GITHUB](Strings/1461_check-if-a-string-contains-all-binary-codes-of-size-k.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
