@@ -1236,6 +1236,9 @@
 - 236\. Lowest Common Ancestor of a Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/236_LowestCommonAncestorOfABinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) 
+- 237\. Delete Node in a Linked List
+    - [LINK TO GITHUB](LinkedListAndTree/237_delete-node-in-a-linked-list.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 - 297\. Serialize and Desirialize Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/297_SerializeAndDesirializeBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  
