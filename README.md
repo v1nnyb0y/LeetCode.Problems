@@ -1308,6 +1308,9 @@
 - 1823\. Find the Winner of the Circular Game
     - [LINK TO GITHUB](LinkedListAndTree/1823_FindTheWinnerOfTheCicularGame.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+- 2095\. Delete the Middle Node of a Linked List
+    - [LINK TO GITHUB](LinkedListAndTree/2095_delete-the-middle-node-of-a-linked-list.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
 ----
 [:arrow_up:References](#References)
