@@ -264,6 +264,9 @@
 - 1329\. Sort the Matrix Diagonally
     - [LINK TO GITHUB](Array/1329_sort-the-matrix-diagonally.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-the-matrix-diagonally/)
+- 1335\. Minimum Difficulty of a Job Schedule
+    - [LINK TO GITHUB](Array/1335_minimum-difficulty-of-a-job-schedule.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
 - 1338\. Reduce Array Size to The Half
     - [LINK TO GITHUB](Array/1338_reduce-array-size-to-the-half.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reduce-array-size-to-the-half/)
