@@ -1472,7 +1472,10 @@
     - [LINK TO LEETCODE](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
 - 1768\. Merge Strings Alternately
     - [LINK TO GITHUB](Strings/1768_MergeStringsAlternately.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/merge-strings-alternately/) 
+    - [LINK TO LEETCODE](https://leetcode.com/problems/merge-strings-alternately/)
+- 1832\. Check if the Sentence Is Pangram
+    - [LINK TO GITHUB](Strings/1832_check-if-the-sentence-is-pangram.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 
 ----
 [:arrow_up:References](#References)
