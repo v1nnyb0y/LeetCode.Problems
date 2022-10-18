@@ -1371,6 +1371,9 @@
 - 30\. Substring with Concatenation of All Words
     - [LINK TO GITHUB](Strings/30_substring-with-concatenation-of-all-words.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+- 38\. Count and Say    
+    - [LINK TO GITHUB](Strings/38_count-and-say.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/count-and-say/)
 - 43\. Multiply Strings
     - [LINK TO GITHUB](Strings/43_MultiplyStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/multiply-strings/)
