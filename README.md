@@ -1356,6 +1356,9 @@
 - 3\. Longest Substring Without Repeating Characters
     - [LINK TO GITHUB](Strings/3_LongestSubstringWithoutRepeatingCharacters.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- 12\. Integer to Roman
+    - [LINK TO GITHUB](Strings/12_integer-to-roman.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/integer-to-roman/)
 - 13\. Roman to Integer
     - [LINK TO GITHUB](Strings/13_roman-to-integer.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/roman-to-integer/)
