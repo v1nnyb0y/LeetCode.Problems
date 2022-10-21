@@ -114,6 +114,9 @@
 - 218\. The Skyline Problem
     - [LINK TO GITHUB](Array/218_the-skyline-problem.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-skyline-problem/)
+- 219\. Contains Duplicate II
+    - [LINK TO GITHUB](Array/219_contains-duplicate-ii.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate-ii/)
 - 238\. Product of Array Except Self
     - [LINK TO GITHUB](Array/238_ProductOfArrayExceptSelf.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/product-of-array-except-self/)
