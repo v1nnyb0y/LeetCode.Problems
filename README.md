@@ -1392,6 +1392,9 @@
 - 67\. Add Binary
     - [LINK TO GITHUB](Strings/67_AddBinary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-binary/)
+- 76\. Minimum Window Substring
+    - [LINK TO GITHUB](Strings/76_minimum-window-substring.ipynb)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-window-substring/)
 - 79\. Word Search
     - [LINK TO GITHUB](Strings/79_WordSearch.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-search/)
