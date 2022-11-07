@@ -996,7 +996,10 @@
 - 973\. K Closest Pointrs to Origin
     - [LINK TO GITHUB](Math/973_KClosestPointsToOrigin.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/k-closest-points-to-origin/)
-- 1342\. Number of Steps to Reduce a Number to Zero 
+- 1323\. Maximum 69 Number
+    - [LINK TO GITHUB](Math/1323_maximum-69-number.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-69-number/)
+- 1342\. Number of Steps to Reduce a Number to Zero
     - [LINK TO GITHUB](Math/1342_number-of-steps-to-reduce-a-number-to-zero.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - 1584\. Min Cost to Connect All Points
