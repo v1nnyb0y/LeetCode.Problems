@@ -261,6 +261,9 @@
 - 1074\. Number of Submatrices That Sum to Target
     - [LINK TO GITHUB](Array/1074_number-of-submatrices-that-sum-to-target.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+- 1239\. Maximum Length of a Concatenated String with Unique Characters
+    - [LINK TO GITHUB](Array/1239_maximum-length-of-a-concatenated-string-with-unique-characters.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 - 1260\. Shift 2D Grid
     - [LINK TO GITHUB](Array/1260_Shift2DGrid.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shift-2d-grid/)
