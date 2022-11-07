@@ -186,6 +186,9 @@
 - 630\. Course Schedule III
     - [LINK TO GITHUB](Array/630_course-schedule-iii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/course-schedule-iii/)
+- 645\. Set Mismatch
+    - [LINK TO GITHUB](Array/645_set-mismatch.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/set-mismatch/)
 - 658\. Find K Closest Elements
     - [LINK TO GITHUB](Array/658_find-k-closest-elements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-k-closest-elements/)
