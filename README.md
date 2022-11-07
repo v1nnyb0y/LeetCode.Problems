@@ -312,6 +312,9 @@
 - 1658\. Minimum Operations to Reduce X to Zero
     - [LINK TO GITHUB](Array/1658_minimum-operations-to-reduce-x-to-zero.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+- 1662\. Check If Two String Arrays are Equivalent
+    - [LINK TO GITHUB](Array/1662_check-if-two-string-arrays-are-equivalent.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - 1672\. Richest Customer Wealth
     - [LINK TO GITHUB](Array/1672_RichestCustomerWealth.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/) 
