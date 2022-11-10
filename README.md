@@ -1470,6 +1470,9 @@
 - 953\. Verifying an Alien Dictionary
     - [LINK TO GITHUB](Strings/953_VerifyingAnAlienDictionary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+- 1047\. Remove All Adjacent Duplicates In String
+    - [LINK TO GITHUB](Strings/1047_remove-all-adjacent-duplicates-in-string.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - 1202\. Smallest String With Swaps
     - [LINK TO GITHUB](Strings/1202_SmallestStringWithSwaps.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-string-with-swaps/)
