@@ -33,6 +33,9 @@
 - 20\. Valid Parentheses
     - [LINK TO GITHUB](Array/20_ValidParentheses.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-parentheses/)
+- 26\. Remove Duplicates from Sorted Array
+    - [LINK TO GITHUB](Array/26_remove-duplicates-from-sorted-array.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 31\. Next Permutation
     - [LINK TO GITHUB](Array/31_NextPermutation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-permutation/)
