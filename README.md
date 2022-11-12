@@ -558,6 +558,9 @@
 - 284\. Peeking Iterator
     - [LINK TO GITHUB](ClassAndObjects/284_PeekingIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/peeking-iterator/)
+- 295\. Find Median from Data Stream
+    - [LINK TO GITHUB](ClassAndObjects/295_find-median-from-data-stream.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-median-from-data-stream/)
 - 303\. Range Sum Query
     - [LINK TO GITHUB](ClassAndObjects/303_RangeSumQuery.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-immutable/)
