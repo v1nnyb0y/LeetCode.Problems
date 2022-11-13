@@ -58,7 +58,8 @@
     - [LINK TO GITHUB](Array/52_n-queens-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-queens-ii/)
 - 53\. Maximum Subarray
-    - [LINK TO GITHUB](Array/53_MaximumSubarray.ipynb)
+    - [LINK TO GITHUB: IPYNB](Array/53_MaximumSubarray.ipynb)
+    - [LINK TO GITHUB: JAVA](Array/53_MaximumSubarray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-subarray/) 
 - 56\. Merge Intervals
     - [LINK TO GITHUB](Array/56_MergeIntervals.ipynb)
@@ -210,6 +211,9 @@
 - 718\. Maximum Length of Repeated Subarray
     - [LINK TO GITHUB](Array/718_maximum-length-of-repeated-subarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+- 724\. Find Pivot Index
+    - [LINK TO GITHUB](Array/724_find-pivot-index.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-pivot-index/)
 - 739\. Daily Temperatures
     - [LINK TO GITHUB](Array/739_DailyTemperature.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/daily-temperatures/) 
@@ -295,7 +299,8 @@
     - [LINK TO GITHUB](Array/1465_maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)
 - 1480\. Running Sum of 1d array
-    - [LINK TO GITHUB](Array/1480_running-sum-of-1d-array.ipynb)
+    - [LINK TO GITHUB: IPYNB](Array/1480_running-sum-of-1d-array.ipynb)
+    - [LINK TO GITHUB: JAVA](Array/1480_running-sum-of-1d-array.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/running-sum-of-1d-array/)
 - 1572\. Matrix Diagonal Sum
     - [LINK TO GITHUB](Array/1572_MatrixDiagonalSum.ipynb)
@@ -352,10 +357,12 @@
     - [LINK TO GITHUB](BasicDataTypes/703_KthLargestElementInAStream.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 - 1493\. Average Salary Excluding the Minimum and Maximum Salary
-    - [LINK TO GITHUB](BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.ipynb)
+    - [LINK TO GITHUB: IPYNB](BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.ipynb)
+    - [LINK TO GITHUB: JAVA](BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.java)
     - [LINK TO LEET CODE](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - 1523\. Count Odd Numbers in an Interval Range
-    - [LINK TO GITHUB](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
+    - [LINK TO GITHUB: IPYNB](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
+    - [LINK TO GITHUB: JAVA](BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - 1845\. Seat Reservation Manager
     - [LINK TO GITHUB](BasicDataTypes/1845_SeatReservationManager.ipynb)
@@ -373,7 +380,8 @@
     - [LINK TO GITHUB](BinarySearch/34_FindFirstAndLastPositionOfElementInSortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - 35\. Search Insert Position
-    - [LINK TO GITHUB](BinarySearch/35_InsertPosition.ipynb)
+    - [LINK TO GITHUB: IPYNB](BinarySearch/35_InsertPosition.ipynb)
+    - [LINK TO GITHUB: JAVA](BinarySearch/35_InsertPosition.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-insert-position/) 
 - 69\. Sqrt(x)
     - [LINK TO GITHUB](BinarySearch/69_SqrtX.ipynb)
@@ -403,7 +411,8 @@
     - [LINK TO GITHUB](BinarySearch/275_HIndexII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/h-index-ii/)
 - 278\. First Bad Version
-    - [LINK TO GITHUB](BinarySearch/278_FirstBadVersion.ipynb)
+    - [LINK TO GITHUB: IPYNB](BinarySearch/278_FirstBadVersion.ipynb)
+    - [LINK TO GITHUB: JAVA](BinarySearch/278_FirstBadVersion.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/)
 - 287\. Find the Duplicate Number
     - [LINK TO GITHUB](BinarySearch/287_FindTheDuplicateNumber.ipynb)
@@ -415,7 +424,8 @@
     - [LINK TO GITHUB](BinarySearch/367_ValidPerfectSquare.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-perfect-square/)
 - 374\. Guess Number Higher or Lower
-    - [LINK TO GITHUB](BinarySearch/374_GuessNumberHigherOrLower.ipynb)
+    - [LINK TO GITHUB: IPYNB](BinarySearch/374_GuessNumberHigherOrLower.ipynb)
+    - [LINK TO GITHUB: JAVA](BinarySearch/374_GuessNumberHigherOrLower.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - 426\. Find Right Interval
     - [LINK TO GITHUB](BinarySearch/426_FindRightInterval.ipynb)
@@ -439,7 +449,8 @@
     - [LINK TO GITHUB](BinarySearch/658_FindKClosestElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-k-closest-elements/)
 - 704\. Binary Search
-    - [LINK TO GITHUB](BinarySearch/704_BinarySearch.ipynb)
+    - [LINK TO GITHUB: IPYNB](BinarySearch/704_BinarySearch.ipynb)
+    - [LINK TO GITHUB: JAVA](BinarySearch/704_BinarySearch.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search/)
 - 744\. Find Smallest Letter Greater Than Target
     - [LINK TO GITHUB](BinarySearch/744_FindSmallestLetterGreaterThanTarget.ipynb)
@@ -628,7 +639,8 @@
 ## Containers and Libraries
 
 - 217\. Contains Duplicate
-    - [LINK TO GITHUB](ContainersAndLibs/217_ContainsDuplicate.ipynb)
+    - [LINK TO GITHUB: IPYNB](ContainersAndLibs/217_ContainsDuplicate.ipynb)
+    - [LINK TO GITHUB: JAVA](ContainersAndLibs/217_ContainsDuplicate.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate/)
 - 232\. Implement Queue using Stacks
     - [LINK TO GITHUB](ContainersAndLibs/232_ImplementQueueUsingStacks.ipynb)
@@ -751,7 +763,8 @@
     - [LINK TO GITHUB](DynamicProgramming/458_poor-pigs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/poor-pigs/)
 - 509\. Fibonacci Number
-    - [LINK TO GITHUB](DynamicProgramming/509_FibonacciNumber.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/509_FibonacciNumber.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/509_FibonacciNumber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
 - 516\. Longest Palindromic Subsequence
     - [LINK TO GITHUB](DynamicProgramming/516_LongestPalindromicSubsequence.ipynb)
@@ -793,7 +806,8 @@
     - [LINK TO GITHUB](DynamicProgramming/1014_BestSighseeingPair.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-sightseeing-pair/)
 - 1137\. N-th Tribonacci Number
-    - [LINK TO GITHUB](DynamicProgramming/1137_NthTribonacciNumber.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/1137_NthTribonacciNumber.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/1137_NthTribonacciNumber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-th-tribonacci-number/) 
 - 1143\. Longest Common Subsequence
     - [LINK TO GITHUB](DynamicProgramming/1143_LongestCommonSubsequence.ipynb)
@@ -835,7 +849,8 @@
     - [LINK TO GITHUB](GraphTheory/127_WordLadder.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-ladder/)
 - 200\. Number of Islands
-    - [LINK TO GITHUB](GraphTheory/200_NumberOfIslands.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/200_NumberOfIslands.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/200_NumberOfIslands.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-islands/)
 - 365\. Water and Jug Problem
     - [LINK TO GITHUB](GraphTheory/365_WaterAndJugProblem.ipynb)
@@ -865,7 +880,8 @@
     - [LINK TO GITHUB](GraphTheory/695_MaxAreaOfIsland.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-area-of-island/)
 - 733\. Flood Fill
-    - [LINK TO GITHUB](GraphTheory/733_FloodFill.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/733_FloodFill.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/733_FloodFill.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flood-fill/)
 - 743\. Network Delay Time
     - [LINK TO GITHUB](GraphTheory/743_NetworkDelayTime.ipynb)
