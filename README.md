@@ -22,7 +22,8 @@
 ## Array
 
 - 1\. Two Sum
-    - [LINK TO GITHUB](Array/1_TwoSum.ipynb)
+    - [LINK TO GITHUB: IPYNB](Array/1_TwoSum.ipynb)
+    - [LINK TO GITHUB: JAVA](Array/1_TwoSum.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum/)
 - 15\. 3Sum
     - [LINK TO GITHUB](Array/15_3Sum.ipynb)
@@ -74,7 +75,8 @@
     - [LINK TO GITHUB](Array/78_Subsets.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subsets/) 
 - 88\. Merge Sorted Array
-    - [LINK TO GITHUB](Array/88_MergeSortedArray.ipynb)
+    - [LINK TO GITHUB: IPYNB](Array/88_MergeSortedArray.ipynb)
+    - [LINK TO GITHUB: JAVA](Array/88_MergeSortedArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-sorted-array/)
 - 90\. Subsets II
     - [LINK TO GITHUB](Array/90_SubsetsII.ipynb)
@@ -459,7 +461,8 @@
     - [LINK TO GITHUB](BinarySearch/826_MostProfitAssigningWork.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/most-profit-assigning-work/)  
 - 852\. Peak Index in a Mountain Array
-    - [LINK TO GITHUB](BinarySearch/852_PeakIndexInAMountainArray.ipynb)
+    - [LINK TO GITHUB: IPYNB](BinarySearch/852_PeakIndexInAMountainArray.ipynb)
+    - [LINK TO GITHUB: JAVA](BinarySearch/852_PeakIndexInAMountainArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - 875\. Koko Eating Bananas
     - [LINK TO GITHUB](BinarySearch/875_KokoEatingBananas.ipynb)
@@ -688,7 +691,8 @@
     - [LINK TO GITHUB](DynamicProgramming/64_MinimumPathSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-path-sum/)
 - 70\. Climbing Stairs
-    - [LINK TO GITHUB](DynamicProgramming/70_ClimbingStairs.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/70_ClimbingStairs.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/70_ClimbingStairs.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/climbing-stairs/)
 - 72\. Edit Distance
     - [LINK TO GITHUB](DynamicProgramming/72_EditDistance.ipynb)
@@ -751,7 +755,8 @@
     - [LINK TO GITHUB](DynamicProgramming/377_CombinationSumIV.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/combination-sum-iv/)  
 - 392\. Is Subsequence
-    - [LINK TO GITHUB](DynamicProgramming/392_IsSubsequence.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/392_IsSubsequence.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/392_IsSubsequence.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/is-subsequence/)
 - 413\. Arithmetic Slices
     - [LINK TO GITHUB](DynamicProgramming/413_ArithmeticSlices.ipynb)
@@ -791,7 +796,8 @@
     - [LINK TO GITHUB](DynamicProgramming/740_DeleteAndEarn.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-and-earn/)
 - 746\. Min Cost Climbing Stairs
-    - [LINK TO GITHUB](DynamicProgramming/746_MinCostClimbingStairs.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/746_MinCostClimbingStairs.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/746_MinCostClimbingStairs.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - 918\. Maximum Sum Circular Subarray
     - [LINK TO GITHUB](DynamicProgramming/918_MaximumSumCircularSubarray.ipynb)
@@ -877,7 +883,8 @@
     - [LINK TO GITHUB](GraphTheory/623_add-one-row-to-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-one-row-to-tree/)
 - 695\. Max Area of Island
-    - [LINK TO GITHUB](GraphTheory/695_MaxAreaOfIsland.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/695_MaxAreaOfIsland.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/695_MaxAreaOfIsland.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-area-of-island/)
 - 733\. Flood Fill
     - [LINK TO GITHUB: IPYNB](GraphTheory/733_FloodFill.ipynb)
@@ -910,6 +917,9 @@
 - 934\. Shortest Bridge
     - [LINK TO GITHUB](GraphTheory/934_ShortestBridge.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-bridge/)
+- 947\. Most Stones Removed with Same Row or Column
+    - [LINK TO GITHUB](GraphTheory/947_most-stones-removed-with-same-row-or-column.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 - 994\. Rotting Oranges
     - [LINK TO GITHUB](GraphTheory/994_RottingOranges.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotting-oranges/)
@@ -932,7 +942,8 @@
     - [LINK TO GITHUB](GraphTheory/1192_critical-connections-in-a-network.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/critical-connections-in-a-network/)
 - 1254\. Number of Closed Islands
-    - [LINK TO GITHUB](GraphTheory/1254_NumberOfClosedIslands.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/1254_NumberOfClosedIslands.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/1254_NumberOfClosedIslands.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-closed-islands/)
 - 1302\. Deepest Leaves Sum
     - [LINK TO GITHUB](GraphTheory/1302_DeepestLeavesSum.ipynb)
@@ -1382,10 +1393,12 @@
     - [LINK TO GITHUB](Operator/190_ReverseBits.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-bits/)
 - 191\. Number of 1 Bits
-    - [LINK TO GITHUB](Operator/191_NumberOf1Bit.ipynb)
+    - [LINK TO GITHUB: IPYNB](Operator/191_NumberOf1Bit.ipynb)
+    - [LINK TO GITHUB: JAVA](Operator/191_NumberOf1Bit.java)
     - [LINK TO LEET CODE](https://leetcode.com/problems/number-of-1-bits/)
 - 1281\. Subtract the Product and Sum of Digits of an Integer
-    - [LINK TO GITHUB](Operator/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.ipynb)
+    - [LINK TO GITHUB: IPYNB](Operator/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.ipynb)
+    - [LINK TO GITHUB: JAVA](Operator/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.java)
     - [LINK TO LEET CODE](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
 ----
@@ -1450,6 +1463,9 @@
 - 201\. Bitwise AND of Numbers Range    
     - [LINK TO GITHUB](Strings/201_BitwiseAndOfNumbersRange.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+- 205\. Isomorphic Strings
+    - [LINK TO GITHUB](Strings/205_isomorphic-strings.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/isomorphic-strings/)
 - 290\. Word Pattern
     - [LINK TO GITHUB](Strings/290_WordPattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-pattern/)
@@ -1562,7 +1578,8 @@
     - [LINK TO GITHUB](TwoPointers/167_TwoSumII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - 189\. Rotate Array
-    - [LINK TO GITHUB](TwoPointers/189_RotateArray.ipynb)
+    - [LINK TO GITHUB: IPYNB](TwoPointers/189_RotateArray.ipynb)
+    - [LINK TO GITHUB: JAVA](TwoPointers/189_RotateArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-array/)
 - 234\. Palindrome Linked List
     - [LINK TO GITHUB](TwoPointers/234_palindrome-linked-list.ipynb)
@@ -1595,7 +1612,8 @@
     - [LINK TO GITHUB](TwoPointers/923_3SumWithMultiplicity.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/3sum-with-multiplicity/)
 - 977\. Squares of a Sorted Array
-    - [LINK TO GITHUB](TwoPointers/977_SquaresOfASortedArray.ipynb)
+    - [LINK TO GITHUB: IPYNB](TwoPointers/977_SquaresOfASortedArray.ipynb)
+    - [LINK TO GITHUB: JAVA](TwoPointers/977_SquaresOfASortedArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - 986\. Interval List Intersection
     - [LINK TO GITHUB](TwoPointers/986_IntervalListIntersection.ipynb)
