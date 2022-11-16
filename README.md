@@ -183,7 +183,8 @@
     - [LINK TO GITHUB](Array/560_SubarraySumEqualsK.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/)
 - 566\. Reshape the Matrix
-    - [LINK TO GITHUB](Array/566_ReshapeTheMatrix.ipynb)
+    - [LINK TO GITHUB: IPYNB](Array/566_ReshapeTheMatrix.ipynb)
+    - [LINK TO GITHUB: JAVA](Array/566_ReshapeTheMatrix.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/)
 - 581\. Short Unsorted Continuous Subarray
     - [LINK TO GITHUB](Array/581_ShortestUnsortedContiniousSubarray.ipynb)
@@ -388,7 +389,8 @@
     - [LINK TO GITHUB: JAVA](BinarySearch/35_InsertPosition.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-insert-position/) 
 - 69\. Sqrt(x)
-    - [LINK TO GITHUB](BinarySearch/69_SqrtX.ipynb)
+    - [LINK TO GITHUB: IPYNB](BinarySearch/69_SqrtX.ipynb)
+    - [LINK TO GITHUB: JAVA](BinarySearch/69_SqrtX.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sqrtx/)
 - 74\. Search a 2D Matrix
     - [LINK TO GITHUB](BinarySearch/74_SearchA2DMatrix.ipynb)
@@ -458,7 +460,8 @@
     - [LINK TO GITHUB: JAVA](BinarySearch/704_BinarySearch.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search/)
 - 744\. Find Smallest Letter Greater Than Target
-    - [LINK TO GITHUB](BinarySearch/744_FindSmallestLetterGreaterThanTarget.ipynb)
+    - [LINK TO GITHUB: IPYNB](BinarySearch/744_FindSmallestLetterGreaterThanTarget.ipynb)
+    - [LINK TO GITHUB: JAVA](BinarySearch/744_FindSmallestLetterGreaterThanTarget.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - 826\. Most Profit Assigning Work
     - [LINK TO GITHUB](BinarySearch/826_MostProfitAssigningWork.ipynb)
@@ -682,10 +685,12 @@
     - [LINK TO GITHUB](DynamicProgramming/42_TrappingRainWater.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/trapping-rain-water/)
 - 45\. Jump Game II
-    - [LINK TO GITHUB](DynamicProgramming/45_JumpGameII.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/45_JumpGameII.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/45_JumpGameII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game-ii/)
 - 55\. Jump Game
-    - [LINK TO GITHUB](DynamicProgramming/55_JumpGame.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/55_JumpGame.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/55_JumpGame.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game/) 
 - 62\. Unique Paths
     - [LINK TO GITHUB](DynamicProgramming/62_UniquePaths.ipynb)
@@ -710,7 +715,8 @@
     - [LINK TO GITHUB](DynamicProgramming/96_UniqueBinarySearchTrees.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/unique-binary-search-trees/)
 - 118\. Pasacal's Triangle
-    - [LINK TO GITHUB](DynamicProgramming/118_PascalsTriangle.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/118_PascalsTriangle.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/118_PascalsTriangle.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pascals-triangle/)   
 - 119\. Pascal's Triangle II
     - [LINK TO GITHUB](DynamicProgramming/119_PasacalsTriangleII.ipynb)
@@ -875,7 +881,8 @@
     - [LINK TO GITHUB](GraphTheory/399_EvaluateDivison.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/evaluate-division/)
 - 417\. Pacific Atlantic Water Flow
-    - [LINK TO GITHUB](GraphTheory/417_PacificAtlanticWaterFlow.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/417_PacificAtlanticWaterFlow.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/417_PacificAtlanticWaterFlow.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - 433\. Minimum Generic Mutation
     - [LINK TO GITHUB](GraphTheory/433_MinimumGeneticMutation.ipynb)
@@ -947,7 +954,8 @@
     - [LINK TO GITHUB](GraphTheory/1129_ShortestPathWithAlternatingColors.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
 - 1162\. As Far from Land as Possible
-    - [LINK TO GITHUB](GraphTheory/1162_AsFarFromLandAsPossible.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/1162_AsFarFromLandAsPossible.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/1162_AsFarFromLandAsPossible.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/as-far-from-land-as-possible/)
 - 1192\. Critical Connections in a Network
     - [LINK TO GITHUB](GraphTheory/1192_critical-connections-in-a-network.ipynb)
@@ -1265,7 +1273,8 @@
     - [LINK TO GITHUB](LinkedListAndTree/141_LinkedListCycle.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-cycle/) 
 - 142\. Linked List Cycle II
-    - [LINK TO GITHUB](LinkedListAndTree/142_LinkedListCycleII.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/142_LinkedListCycleII.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/142_LinkedListCycleII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-cycle-ii/)
 - 143\. Reorder List
     - [LINK TO GITHUB](LinkedListAndTree/143_ReorderList.ipynb)
@@ -1354,7 +1363,8 @@
     - [LINK TO GITHUB](LinkedListAndTree/814_binary-tree-pruning.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-pruning/)
 - 876\. Middle of the Linked List
-    - [LINK TO GITHUB](LinkedListAndTree/876_MiddleOfTheLinkedList.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/876_MiddleOfTheLinkedList.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/876_MiddleOfTheLinkedList.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
 - 897\. Increasing Order Search Tree    
     - [LINK TO GITHUB](LinkedListAndTree/897_IncreasingOrderSearchTree.ipynb)
@@ -1387,17 +1397,21 @@
 ## Loop
 
 - 202\. Happy Number
-    - [LINK TO GITHUB](Loop/202_HappyNumber.ipynb)
-    - [LINK TO LEET CODE](https://leetcode.com/problems/happy-number/submissions/)
+    - [LINK TO GITHUB: IPYNB](Loop/202_HappyNumber.ipynb)
+    - [LINK TO GITHUB: JAVA](Loop/202_HappyNumber.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/happy-number/submissions/)
 - 1502\. Can Make Arithmetic Progression From Sequence
-    - [LINK TO GITHUB](Loop/1502_CanMakeArithmeticProgressionFromSequence.ipynb)
-    - [LINK TO LEET CODE](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+    - [LINK TO GITHUB: IPYNB](Loop/1502_CanMakeArithmeticProgressionFromSequence.ipynb)
+    - [LINK TO GITHUB: JAVA](Loop/1502_CanMakeArithmeticProgressionFromSequence.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - 1790\. Check if One String Swap Can Make Strings Equal
-    - [LINK TO GITHUB](Loop/1790_CheckIfOneStringSwapCanMakeStringsEqual.ipynb)
-    - [LINK TO LEET CODE](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)
+    - [LINK TO GITHUB: IPYNB](Loop/1790_CheckIfOneStringSwapCanMakeStringsEqual.ipynb)
+    - [LINK TO GITHUB: JAVA](Loop/1790_CheckIfOneStringSwapCanMakeStringsEqual.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)
 - 1822\. Sign of the Product of an Array
-    - [LINK TO GITHUB](Loop/1822_SignOfTheProductOfAnArray.ipynb)
-    - [LINK TO LEET CODE](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/)
+    - [LINK TO GITHUB: IPYNB](Loop/1822_SignOfTheProductOfAnArray.ipynb)
+    - [LINK TO GITHUB: JAVA](Loop/1822_SignOfTheProductOfAnArray.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/)
 
 ----
 [:arrow_up:References](#References)
@@ -1410,11 +1424,11 @@
 - 191\. Number of 1 Bits
     - [LINK TO GITHUB: IPYNB](Operator/191_NumberOf1Bit.ipynb)
     - [LINK TO GITHUB: JAVA](Operator/191_NumberOf1Bit.java)
-    - [LINK TO LEET CODE](https://leetcode.com/problems/number-of-1-bits/)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-1-bits/)
 - 1281\. Subtract the Product and Sum of Digits of an Integer
     - [LINK TO GITHUB: IPYNB](Operator/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.ipynb)
     - [LINK TO GITHUB: JAVA](Operator/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.java)
-    - [LINK TO LEET CODE](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
 ----
 [:arrow_up:References](#References)
@@ -1601,13 +1615,15 @@
     - [LINK TO GITHUB](TwoPointers/234_palindrome-linked-list.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/palindrome-linked-list/)
 - 344\. Reverse String
-    - [LINK TO GITHUB](TwoPointers/344_ReverseString.ipynb)
+    - [LINK TO GITHUB: IPYNB](TwoPointers/344_ReverseString.ipynb)
+    - [LINK TO GITHUB: JAVA](TwoPointers/344_ReverseString.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-string/)
 - 556\. Next Greater Element III
     - [LINK TO GITHUB](TwoPointers/553_NextGreaterElementIII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-iii/)
 - 557\. Reverse Words in a String III
-    - [LINK TO GITHUB](TwoPointers/557_ReverseWordsInAStringIII.ipynb)
+    - [LINK TO GITHUB: IPYNB](TwoPointers/557_ReverseWordsInAStringIII.ipynb)
+    - [LINK TO GITHUB: JAVA](TwoPointers/557_ReverseWordsInAStringIII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - 680\. Valid Palindrome II
     - [LINK TO GITHUB](TwoPointers/680_ValidPalindromII.ipynb)
