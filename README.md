@@ -771,7 +771,8 @@
     - [LINK TO GITHUB](DynamicProgramming/264_UglyNumberII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number-ii/)
 - 279\. Perfect Squares
-    - [LINK TO GITHUB](DynamicProgramming/279_PerfectSquares.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/279_PerfectSquares.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/279_PerfectSquares.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/perfect-squares/)
 - 309\. Best Time to Buy and Sell Stock with Cooldown
     - [LINK TO GITHUB: IPYNB](DynamicProgramming/309_BestTimeToBuyAndSellStockWithCooldown.ipynb)
