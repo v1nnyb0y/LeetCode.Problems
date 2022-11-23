@@ -384,7 +384,8 @@
 ## Binary Search
 
 - 33\. Search in Rotated Sorted Array
-    - [LINK TO GITHUB](BinarySearch/33_SearchInRotatedSortedArray.ipynb)
+    - [LINK TO GITHUB: IPYNB](BinarySearch/33_SearchInRotatedSortedArray.ipynb)
+    - [LINK TO GITHUB: JAVA](BinarySearch/33_SearchInRotatedSortedArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - 34\. Find First and Last Position of Element in Sorted Array
     - [LINK TO GITHUB: IPYNB](BinarySearch/34_FindFirstAndLastPositionOfElementInSortedArray.ipynb)
@@ -679,7 +680,8 @@
     - [LINK TO GITHUB](ContainersAndLibs/981_time-based-key-value-store.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/time-based-key-value-store/)
 - 1356\. Sort Integers by The Number of 1 Bits
-    - [LINK TO GITHUB](ContainersAndLibs/1356_SortIntegersByTheNumberOf1Bits.ipynb)
+    - [LINK TO GITHUB: IPYNB](ContainersAndLibs/1356_SortIntegersByTheNumberOf1Bits.ipynb)
+    - [LINK TO GITHUB: JAVA](ContainersAndLibs/1356_SortIntegersByTheNumberOf1Bits.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 
 ----
@@ -709,7 +711,8 @@
     - [LINK TO GITHUB: JAVA](DynamicProgramming/55_JumpGame.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game/)
 - 62\. Unique Paths
-    - [LINK TO GITHUB](DynamicProgramming/62_UniquePaths.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/62_UniquePaths.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/62_UniquePaths.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/unique-paths/)
 - 63\. Unique Paths II
     - [LINK TO GITHUB](DynamicProgramming/63_UniquePathsII.ipynb)
@@ -728,7 +731,8 @@
     - [LINK TO GITHUB](DynamicProgramming/91_DecodeWays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decode-ways/)
 - 96\. Unique Binary Search Trees
-    - [LINK TO GITHUB](DynamicProgramming/96_UniqueBinarySearchTrees.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/96_UniqueBinarySearchTrees.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/96_UniqueBinarySearchTrees.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/unique-binary-search-trees/)
 - 118\. Pasacal's Triangle
     - [LINK TO GITHUB: IPYNB](DynamicProgramming/118_PascalsTriangle.ipynb)
@@ -768,7 +772,8 @@
     - [LINK TO GITHUB](DynamicProgramming/221_MaximalSquare.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximal-square/)
 - 264\. Ugly Number II
-    - [LINK TO GITHUB](DynamicProgramming/264_UglyNumberII.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/264_UglyNumberII.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/264_UglyNumberII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number-ii/)
 - 279\. Perfect Squares
     - [LINK TO GITHUB: IPYNB](DynamicProgramming/279_PerfectSquares.ipynb)
@@ -795,7 +800,8 @@
     - [LINK TO GITHUB: JAVA](DynamicProgramming/392_IsSubsequence.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/is-subsequence/)
 - 413\. Arithmetic Slices
-    - [LINK TO GITHUB](DynamicProgramming/413_ArithmeticSlices.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/413_ArithmeticSlices.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/413_ArithmeticSlices.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-slices/)
 - 435\. Non-overlapping Intervals
     - [LINK TO GITHUB](DynamicProgramming/435_Non-overlappingIntervals.ipynb)
@@ -826,7 +832,8 @@
     - [LINK TO GITHUB](DynamicProgramming/673_NumberOfLongestIncreasingSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 - 714\. Best Time to Buy and Sell Stock with Transaction Fee
-    - [LINK TO GITHUB](DynamicProgramming/714_BestTimeToBuyAndSellStockWithTransactionFee.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/714_BestTimeToBuyAndSellStockWithTransactionFee.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/714_BestTimeToBuyAndSellStockWithTransactionFee.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 - 740\. Delete and Earn
     - [LINK TO GITHUB: IPYNB](DynamicProgramming/740_DeleteAndEarn.ipynb)
@@ -899,7 +906,8 @@
     - [LINK TO GITHUB: JAVA](GraphTheory/200_NumberOfIslands.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-islands/)
 - 365\. Water and Jug Problem
-    - [LINK TO GITHUB](GraphTheory/365_WaterAndJugProblem.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/365_WaterAndJugProblem.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/365_WaterAndJugProblem.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/water-and-jug-problem/)
 - 399\. Evaluate Divison
     - [LINK TO GITHUB](GraphTheory/399_EvaluateDivison.ipynb)
@@ -955,7 +963,8 @@
     - [LINK TO GITHUB: JAVA](GraphTheory/841_KeysAndRooms.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/keys-and-rooms/)
 - 847\. Shortest Path Visiting All Nodes
-    - [LINK TO GITHUB](GraphTheory/847_ShortestPathVisitingAllNodes.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/847_ShortestPathVisitingAllNodes.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/847_ShortestPathVisitingAllNodes.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-visiting-all-nodes/solution/)
 - 886\. Possible Bipartion
     - [LINK TO GITHUB](GraphTheory/886_PossibleBipartion.ipynb)
@@ -983,7 +992,8 @@
     - [LINK TO GITHUB: JAVA](GraphTheory/1091_ShortestPathInBinaryMatrix.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 - 1129\. Shortest Path with Alternating Colors
-    - [LINK TO GITHUB](GraphTheory/1129_ShortestPathWithAlternatingColors.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/1129_ShortestPathWithAlternatingColors.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/1129_ShortestPathWithAlternatingColors.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
 - 1162\. As Far from Land as Possible
     - [LINK TO GITHUB: IPYNB](GraphTheory/1162_AsFarFromLandAsPossible.ipynb)
@@ -1000,7 +1010,8 @@
     - [LINK TO GITHUB](GraphTheory/1302_DeepestLeavesSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/deepest-leaves-sum/)
 - 1306\. Jump Game III
-    - [LINK TO GITHUB](GraphTheory/1306_JumpGameIII.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/1306_JumpGameIII.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/1306_JumpGameIII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game-iii/)
 - 1359\. Number of Operations to Make Network Connected
     - [LINK TO GITHUB: IPYNB](GraphTheory/1319_NumberOfOperationsToMakeNetworkConnected.ipynb)
@@ -1017,7 +1028,8 @@
     - [LINK TO GITHUB](GraphTheory/1457_pseudo-palindromic-paths-in-a-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 - 1466\. Reorder Routes to Make All Paths Lead to the City Zero
-    - [LINK TO GITHUB](GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
 - 1557\. Minimum Number of Vertices to Reach All Nodes
     - [LINK TO GITHUB](GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.ipynb)
@@ -1026,7 +1038,8 @@
     - [LINK TO GITHUB](GraphTheory/1615_MaximalNetworkRank.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximal-network-rank/)
 - 1654\. Minimum Jump to Reach Home
-    - [LINK TO GITHUB](GraphTheory/1654_MinimumJumpsToReachHome.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/1654_MinimumJumpsToReachHome.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/1654_MinimumJumpsToReachHome.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-jumps-to-reach-home/)
 - 1886\. Determine Whether Matrix Can Be Obtained By Rotation
     - [LINK TO GITHUB](GraphTheory/1886_DetermineWhetherMatrixCanBeObtainedByRotation.ipynb)
@@ -1080,7 +1093,8 @@
     - [LINK TO GITHUB](Math/415_AddStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-strings/)
 - 633\. Sum of Square Numbers
-    - [LINK TO GITHUB](Math/633_SumOfSquareNumbers.ipynb)
+    - [LINK TO GITHUB: IPYNB](Math/633_SumOfSquareNumbers.ipynb)
+    - [LINK TO GITHUB: JAVA](Math/633_SumOfSquareNumbers.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-square-numbers/)
 - 858\. Mirror Reflection
     - [LINK TO GITHUB](Math/858_mirror-reflection.ipynb)
@@ -1218,10 +1232,12 @@
 ## Function
 
 - 46\. Permutations
-    - [LINK TO GITHUB](Function/46_Permutations.ipynb)
+    - [LINK TO GITHUB: IPYNB](Function/46_Permutations.ipynb)
+    - [LINK TO GITHUB: JAVA](Function/46_Permutations.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/permutations/)
 - 77\. Combinations
-    - [LINK TO GITHUB](Function/77_Combinations.ipynb)
+    - [LINK TO GITHUB: IPYNB](Function/77_Combinations.ipynb)
+    - [LINK TO GITHUB: JAVA](Function/77_Combinations.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/combinations/)
 - 496\. Next Greater Element I
     - [LINK TO GITHUB: IPYNB](Function/496_NextGreaterElementFirst.ipynb)
@@ -1232,7 +1248,8 @@
     - [LINK TO GITHUB: JAVA](Function/589_N-aryTreePreorderTraversal.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-ary-tree-preorder-traversal/submissions/)
 - 784\. Letter Case Permutation
-    - [LINK TO GITHUB](Function/784_LetterCasePermutation.ipynb)
+    - [LINK TO GITHUB: IPYNB](Function/784_LetterCasePermutation.ipynb)
+    - [LINK TO GITHUB: JAVA](Function/784_LetterCasePermutation.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/letter-case-permutation/)
 - 1232\. Check if It is a straight Line
     - [LINK TO GITHUB: IPYNB](Function/1232_CheckIfItIsAStraightLine.ipynb)
@@ -1269,7 +1286,8 @@
     - [LINK TO GITHUB: JAVA](LinkedListAndTree/83_RemoveDuplicatedFromSortedList.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - 94\. Binary Tree Inorder Traversal
-    - [LINK TO GITHUB](LinkedListAndTree/94_BinaryTreeInorderTraversal.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/94_BinaryTreeInorderTraversal.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/94_BinaryTreeInorderTraversal.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - 98\. Validate Binary Search Tree
     - [LINK TO GITHUB: IPYNB](LinkedListAndTree/98_ValidateBinarySearchTree.ipynb)
@@ -1279,7 +1297,8 @@
     - [LINK TO GITHUB](LinkedListAndTree/99_RecoverBinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/recover-binary-search-tree/)
 - 101\. Symmetric Tree
-    - [LINK TO GITHUB](LinkedListAndTree/101_SymmetricTree.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/101_SymmetricTree.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/101_SymmetricTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/symmetric-tree/)
 - 102\. Binary Tree Level Order Traversal
     - [LINK TO GITHUB: IPYNB](LinkedListAndTree/102_BinaryTreeLevelOrderTraversal.ipynb)
@@ -1289,7 +1308,8 @@
     - [LINK TO GITHUB](LinkedListAndTree/103_BinaryTreeZigzagLevelOrderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - 104\. Maximum Depth of Binary Tree
-    - [LINK TO GITHUB](LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/104_MaximumDepthOfBinaryTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - 105\. Construct Binary Tree from Preorder and Inorder Travesal
     - [LINK TO GITHUB](LinkedListAndTree/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.ipynb)
@@ -1331,10 +1351,12 @@
     - [LINK TO GITHUB](LinkedListAndTree/143_ReorderList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-list/)
 - 144\. Binary Tree Preorder Traversal
-    - [LINK TO GITHUB](LinkedListAndTree/144_BinaryTreePreorderTraversal.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/144_BinaryTreePreorderTraversal.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/144_BinaryTreePreorderTraversal.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - 145\. Binary Tree Postorder Traversal
-    - [LINK TO GITHUB](LinkedListAndTree/145_BinaryTreePostorderTraversal.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/145_BinaryTreePostorderTraversal.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/145_BinaryTreePostorderTraversal.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - 160\. Intersection of Two Linked Lists
     - [LINK TO GITHUB](LinkedListAndTree/160_IntersectionOfTwoLinkedLists.ipynb)
@@ -1374,7 +1396,8 @@
     - [LINK TO GITHUB](LinkedListAndTree/297_SerializeAndDesirializeBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - 404\. Sum of Left Leaves
-    - [LINK TO GITHUB](LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/404_SumOfLeftLeaves.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-left-leaves/)
 - 429\. N-ary Tree Level Order Traversal
     - [LINK TO GITHUB](LinkedListAndTree/429_NaryTreeLevelOrderTraversal.ipynb)
@@ -1427,7 +1450,8 @@
     - [LINK TO GITHUB](LinkedListAndTree/987_vertical-order-traversal-of-a-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 - 1290\. Convert Binary Number in a Linked List of Integer
-    - [LINK TO GITHUB](LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 - 1367\. Linked List in Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/1367_LinkedListInBinaryTree.ipynb)
@@ -1533,7 +1557,8 @@
     - [LINK TO GITHUB](Strings/79_WordSearch.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-search/)
 - 91\. Decode Ways
-    - [LINK TO GITHUB](Strings/91_decode-ways.ipynb)
+    - [LINK TO GITHUB: IPYNB](Strings/91_decode-ways.ipynb)
+    - [LINK TO GITHUB: JAVA](Strings/91_decode-ways.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decode-ways/)
 - 97\. Interleaving String
     - [LINK TO GITHUB](Strings/97_interleaving-string.ipynb)
@@ -1699,7 +1724,8 @@
     - [LINK TO GITHUB](TwoPointers/844_BackspaceStringCompare.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/backspace-string-compare/)
 - 876\. Middle of the Linked List
-    - [LINK TO GITHUB](TwoPointers/876_MiddleOfTheLinkedList.ipynb)
+    - [LINK TO GITHUB: IPYNB](TwoPointers/876_MiddleOfTheLinkedList.ipynb)
+    - [LINK TO GITHUB: JAVA](TwoPointers/876_MiddleOfTheLinkedList.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
 - 905\. Sort Array By Parity
     - [LINK TO GITHUB](TwoPointers/905_SortArrayByParity.ipynb)
@@ -1724,7 +1750,8 @@
     - [LINK TO GITHUB](TwoPointers/1712_WaysToSplitArrayIntoThreeSubarrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
 - 1855\. Maximum Distance Between a Pair of Values
-    - [LINK TO GITHUB](TwoPointers/1855_MaximumDistanceBetweenAPairOfValues.ipynb)
+    - [LINK TO GITHUB: IPYNB](TwoPointers/1855_MaximumDistanceBetweenAPairOfValues.ipynb)
+    - [LINK TO GITHUB: JAVA](TwoPointers/1855_MaximumDistanceBetweenAPairOfValues.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)
 
 ----
