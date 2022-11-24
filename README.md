@@ -407,7 +407,8 @@
     - [LINK TO GITHUB](BinarySearch/81_SearchInRotatedSortedArrayII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - 153\. Find Minimum in Rotated Sorted Array
-    - [LINK TO GITHUB](BinarySearch/153_FindMinimumInRotatedSortedArray.ipynb)
+    - [LINK TO GITHUB: IPYNB](BinarySearch/153_FindMinimumInRotatedSortedArray.ipynb)
+    - [LINK TO GITHUB: JAVA](BinarySearch/153_FindMinimumInRotatedSortedArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - 154\. Find Minimum in Rotated Sorted Array II
     - [LINK TO GITHUB](BinarySearch/154_FindMinimumInRotatedSortedArrayII.ipynb)
@@ -597,7 +598,8 @@
     - [LINK TO GITHUB](ClassAndObjects/295_find-median-from-data-stream.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-median-from-data-stream/)
 - 303\. Range Sum Query
-    - [LINK TO GITHUB](ClassAndObjects/303_RangeSumQuery.ipynb)
+    - [LINK TO GITHUB: IPYNB](ClassAndObjects/303_RangeSumQuery.ipynb)
+    - [LINK TO GITHUB: JAVA](ClassAndObjects/303_RangeSumQuery.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-immutable/)
 - 307\. Range Sum Query - Mutable
     - [LINK TO GITHUB](ClassAndObjects/307_range-sum-query-mutable.ipynb)
@@ -639,7 +641,8 @@
     - [LINK TO GITHUB](ClassAndObjects/1396_DesignUndergroundSystem.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-underground-system/)
 - 1603\. Design Parking System
-    - [LINK TO GITHUB](ClassAndObjects/1603_DesignParkingSystem.ipynb)
+    - [LINK TO GITHUB: IPYNB](ClassAndObjects/1603_DesignParkingSystem.ipynb)
+    - [LINK TO GITHUB: JAVA](ClassAndObjects/1603_DesignParkingSystem.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-parking-system/)
 - 1797\. Design Authentication Manager
     - [LINK TO GITHUB](ClassAndObjects/1797_DesignAuthenticationManager.ipynb)
@@ -739,10 +742,12 @@
     - [LINK TO GITHUB: JAVA](DynamicProgramming/118_PascalsTriangle.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pascals-triangle/)
 - 119\. Pascal's Triangle II
-    - [LINK TO GITHUB](DynamicProgramming/119_PasacalsTriangleII.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/119_PasacalsTriangleII.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/119_PasacalsTriangleII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pascals-triangle-ii/)
 - 120\. Triangle
-    - [LINK TO GITHUB](DynamicProgramming/120_Triangle.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/120_Triangle.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/120_Triangle.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/triangle/)
 - 121\. Best Time to Buy and Sell Stock
     - [LINK TO GITHUB: IPYNB](DynamicProgramming/121_BestTimeToButAndSellStock.ipynb)
@@ -899,7 +904,8 @@
     - [LINK TO GITHUB](GraphTheory/113_path-sum-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/path-sum-ii/)
 - 127\. Word Ladder
-    - [LINK TO GITHUB](GraphTheory/127_WordLadder.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/127_WordLadder.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/127_WordLadder.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-ladder/)
 - 200\. Number of Islands
     - [LINK TO GITHUB: IPYNB](GraphTheory/200_NumberOfIslands.ipynb)
@@ -917,7 +923,8 @@
     - [LINK TO GITHUB: JAVA](GraphTheory/417_PacificAtlanticWaterFlow.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - 433\. Minimum Generic Mutation
-    - [LINK TO GITHUB](GraphTheory/433_MinimumGeneticMutation.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/433_MinimumGeneticMutation.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/433_MinimumGeneticMutation.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-genetic-mutation/)
 - 542\. 01 Matrix
     - [LINK TO GITHUB: IPYNB](GraphTheory/542_01Matrix.ipynb)
@@ -945,7 +952,8 @@
     - [LINK TO GITHUB](GraphTheory/743_NetworkDelayTime.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/network-delay-time/)
 - 752\. Open the Lock
-    - [LINK TO GITHUB](GraphTheory/752_OpenTheLock.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/752_OpenTheLock.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/752_OpenTheLock.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/open-the-lock/)
 - 785\. Is Graph Bipartite?
     - [LINK TO GITHUB](GraphTheory/785_IsGraphBipartite.ipynb)
@@ -1321,7 +1329,8 @@
     - [LINK TO GITHUB](LinkedListAndTree/110_BalancedBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/balanced-binary-tree/)
 - 112\. Path Sum
-    - [LINK TO GITHUB](LinkedListAndTree/112_PathSum.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/112_PathSum.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/112_PathSum.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/path-sum/)
 - 113\. Path Sum II
     - [LINK TO GITHUB](LinkedListAndTree/113_PathSumII.ipynb)
@@ -1377,7 +1386,8 @@
     - [LINK TO GITHUB: JAVA](LinkedListAndTree/222_CountCompleteTreeNodes.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-complete-tree-nodes/)
 - 226\. Invert Binary Tree
-    - [LINK TO GITHUB](LinkedListAndTree/226_InvertBinaryTree.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/226_InvertBinaryTree.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/226_InvertBinaryTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/invert-binary-tree/)
 - 230\. Kth Smallest Element in a BST
     - [LINK TO GITHUB](LinkedListAndTree/230_KthSmallestElementInABST.ipynb)
@@ -1554,7 +1564,8 @@
     - [LINK TO GITHUB](Strings/76_minimum-window-substring.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-window-substring/)
 - 79\. Word Search
-    - [LINK TO GITHUB](Strings/79_WordSearch.ipynb)
+    - [LINK TO GITHUB: IPYNB](Strings/79_WordSearch.ipynb)
+    - [LINK TO GITHUB: JAVA](Strings/79_WordSearch.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-search/)
 - 91\. Decode Ways
     - [LINK TO GITHUB: IPYNB](Strings/91_decode-ways.ipynb)
@@ -1590,8 +1601,12 @@
     - [LINK TO GITHUB: IPYNB](Strings/389_FindTheDifference.ipynb)
     - [LINK TO GITHUB: JAVA](Strings/389_FindTheDifference.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-difference/)
+- 424\. Longest Repeating Character Replacement
+    - [LINK TO GITHUB](Strings/424_longest-repeating-character-replacement.java) 
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - 438\. Find All Anagrams in a String
-    - [LINK TO GITHUB](Strings/438_FindAllAnagramsInAString.ipynb)
+    - [LINK TO GITHUB: IPYNB](Strings/438_FindAllAnagramsInAString.ipynb)
+    - [LINK TO GITHUB: JAVA](Strings/438_FindAllAnagramsInAString.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - 451\. Sort Characters By Frequency
     - [LINK TO GITHUB](Strings/451_SortCharactersByFrequency.ipynb)
