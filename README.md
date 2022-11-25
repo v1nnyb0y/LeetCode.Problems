@@ -248,6 +248,9 @@
 - 896\. Monotonic Array
     - [LINK TO GITHUB](Array/896_MonotonicArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/monotonic-array/)
+- 907\. Sum of Subarray Minimums
+    - [LINK TO GITHUB](Array/907_sum-of-subarray-minimums.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-subarray-minimums/)
 - 916\. Word Subsets
     - [LINK TO GITHUB](Array/916_word-subsets.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-subsets/)
@@ -853,7 +856,8 @@
     - [LINK TO GITHUB: JAVA](DynamicProgramming/918_MaximumSumCircularSubarray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - 931\. Minimum Faliing Path Sum
-    - [LINK TO GITHUB](DynamicProgramming/931_MinimumFallingPathSum.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/931_MinimumFallingPathSum.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/931_MinimumFallingPathSum.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-falling-path-sum/)
 - 968\. Binary Tree Cameras
     - [LINK TO GITHUB](DynamicProgramming/968_binary-tree-cameras.ipynb)
@@ -989,7 +993,8 @@
     - [LINK TO GITHUB: JAVA](GraphTheory/994_RottingOranges.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotting-oranges/)
 - 997\. Find the Town Judge
-    - [LINK TO GITHUB](GraphTheory/997_FindTheTownJudge.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/997_FindTheTownJudge.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/997_FindTheTownJudge.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-town-judge/)
 - 1020\. Number of Enclaves
     - [LINK TO GITHUB: IPYNB](GraphTheory/1020_NumberOfEnclaves.ipynb)
@@ -1040,7 +1045,8 @@
     - [LINK TO GITHUB: JAVA](GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
 - 1557\. Minimum Number of Vertices to Reach All Nodes
-    - [LINK TO GITHUB](GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 - 1615\. Maximal Network Rank
     - [LINK TO GITHUB](GraphTheory/1615_MaximalNetworkRank.ipynb)
@@ -1079,7 +1085,8 @@
     - [LINK TO GITHUB](Math/223_rectangle-area.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rectangle-area/)
 - 231\. Power of Two
-    - [LINK TO GITHUB](Math/231_PowerOfTwo.ipynb)
+    - [LINK TO GITHUB: IPYNB](Math/231_PowerOfTwo.ipynb)
+    - [LINK TO GITHUB: JAVA](Math/231_PowerOfTwo.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-two/)
 - 263\. Ugly Number
     - [LINK TO GITHUB](Math/263_ugly-number.java)
@@ -1441,10 +1448,12 @@
     - [LINK TO GITHUB](LinkedListAndTree/669_TrimABinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/trim-a-binary-search-tree/)
 - 700\. Search in a Binary Search Tree
-    - [LINK TO GITHUB](LinkedListAndTree/700_SearchInABinarySearchTree.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/700_SearchInABinarySearchTree.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/700_SearchInABinarySearchTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - 701\. Insert Into a Binary Search Tree
-    - [LINK TO GITHUB](LinkedListAndTree/701_InsertIntoABinarySearchTree.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/701_InsertIntoABinarySearchTree.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/701_InsertIntoABinarySearchTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 - 814\. Binary Tree Pruning
     - [LINK TO GITHUB](LinkedListAndTree/814_binary-tree-pruning.ipynb)
@@ -1589,6 +1598,9 @@
 - 290\. Word Pattern
     - [LINK TO GITHUB](Strings/290_WordPattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-pattern/)
+- 299\. Bulls and Cows
+    - [LINK TO GITHUB](Strings/299_bulls-and-cows.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/bulls-and-cows/)
 - 383\. Ransom Note
     - [LINK TO GITHUB: IPYNB](Strings/383_RansomNote.ipynb)
     - [LINK TO GITHUB: JAVA](Strings/383_RansomNote.java)
@@ -1602,7 +1614,7 @@
     - [LINK TO GITHUB: JAVA](Strings/389_FindTheDifference.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-difference/)
 - 424\. Longest Repeating Character Replacement
-    - [LINK TO GITHUB](Strings/424_longest-repeating-character-replacement.java) 
+    - [LINK TO GITHUB](Strings/424_longest-repeating-character-replacement.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - 438\. Find All Anagrams in a String
     - [LINK TO GITHUB: IPYNB](Strings/438_FindAllAnagramsInAString.ipynb)
