@@ -96,7 +96,8 @@
     - [LINK TO GITHUB](Array/135_candy.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/candy/)
 - 136\. Single Number
-    - [LINK TO GITHUB](Array/136_SingleNumber.ipynb)
+    - [LINK TO GITHUB: IPYNB](Array/136_SingleNumber.ipynb)
+    - [LINK TO GITHUB: JAVA](Array/136_SingleNumber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/single-number/)
 - 150\. Evaluate Reverse Polish Notation
     - [LINK TO GITHUB](Array/150_EvaluateReversePolishNotation.ipynb)
@@ -278,6 +279,9 @@
 - 1074\. Number of Submatrices That Sum to Target
     - [LINK TO GITHUB](Array/1074_number-of-submatrices-that-sum-to-target.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+- 1235\. Maximum Profit in Job Scheduling
+    - [LINK TO GITHUB](Array/1235_maximum-profit-in-job-scheduling.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 - 1239\. Maximum Length of a Concatenated String with Unique Characters
     - [LINK TO GITHUB](Array/1239_maximum-length-of-a-concatenated-string-with-unique-characters.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
@@ -364,7 +368,8 @@
 ## Basic Data Types and Design
 
 - 304\. Range Sum Query 2D - Immutable
-    - [LINK TO GITHUB](BasicDataTypes/304_RangeSumQuery2D_Immutable.ipynb)
+    - [LINK TO GITHUB: IPYNB](BasicDataTypes/304_RangeSumQuery2D_Immutable.ipynb)
+    - [LINK TO GITHUB: JAVA](BasicDataTypes/304_RangeSumQuery2D_Immutable.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 - 703\. Kth Largest Element in a Stream
     - [LINK TO GITHUB](BasicDataTypes/703_KthLargestElementInAStream.ipynb)
@@ -880,7 +885,8 @@
     - [LINK TO GITHUB](DynamicProgramming/1220_count-vowels-permutation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-vowels-permutation/)
 - 1314\. Matrix Block Sum
-    - [LINK TO GITHUB](DynamicProgramming/1314_MatrixBlockSum.ipynb)
+    - [LINK TO GITHUB: IPYNB](DynamicProgramming/1314_MatrixBlockSum.ipynb)
+    - [LINK TO GITHUB: JAVA](DynamicProgramming/1314_MatrixBlockSum.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/matrix-block-sum/)
 - 1473\. Paint House III
     - [LINK TO GITHUB](DynamicProgramming/1473_paint-house-iii.ipynb)
@@ -960,7 +966,8 @@
     - [LINK TO GITHUB: JAVA](GraphTheory/752_OpenTheLock.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/open-the-lock/)
 - 785\. Is Graph Bipartite?
-    - [LINK TO GITHUB](GraphTheory/785_IsGraphBipartite.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/785_IsGraphBipartite.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/785_IsGraphBipartite.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/is-graph-bipartite/)
 - 797\. All Paths From Source To Target
     - [LINK TO GITHUB: IPYNB](GraphTheory/797_AllPathsFromSourceToTarget.ipynb)
@@ -979,7 +986,8 @@
     - [LINK TO GITHUB: JAVA](GraphTheory/847_ShortestPathVisitingAllNodes.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-visiting-all-nodes/solution/)
 - 886\. Possible Bipartion
-    - [LINK TO GITHUB](GraphTheory/886_PossibleBipartion.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/886_PossibleBipartion.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/886_PossibleBipartion.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/possible-bipartition/)
 - 934\. Shortest Bridge
     - [LINK TO GITHUB: IPYNB](GraphTheory/934_ShortestBridge.ipynb)
@@ -1049,7 +1057,8 @@
     - [LINK TO GITHUB: JAVA](GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 - 1615\. Maximal Network Rank
-    - [LINK TO GITHUB](GraphTheory/1615_MaximalNetworkRank.ipynb)
+    - [LINK TO GITHUB: IPYNB](GraphTheory/1615_MaximalNetworkRank.ipynb)
+    - [LINK TO GITHUB: JAVA](GraphTheory/1615_MaximalNetworkRank.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximal-network-rank/)
 - 1654\. Minimum Jump to Reach Home
     - [LINK TO GITHUB: IPYNB](GraphTheory/1654_MinimumJumpsToReachHome.ipynb)
@@ -1439,7 +1448,8 @@
     - [LINK TO GITHUB](LinkedListAndTree/637_average-of-levels-in-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - 653\. Two Sum IV - Input is a BST
-    - [LINK TO GITHUB](LinkedListAndTree/653_TwoSumIV_InputIsABST.ipynb)
+    - [LINK TO GITHUB: IPYNB](LinkedListAndTree/653_TwoSumIV_InputIsABST.ipynb)
+    - [LINK TO GITHUB: JAVA](LinkedListAndTree/653_TwoSumIV_InputIsABST.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 - 606\. Construct String from Binary Tree
     - [LINK TO GITHUB](LinkedListAndTree/606_construct-string-from-binary-tree.ipynb)
@@ -1516,7 +1526,8 @@
 ## Operator
 
 - 190\. Reverse Bits
-    - [LINK TO GITHUB](Operator/190_ReverseBits.ipynb)
+    - [LINK TO GITHUB: IPYNB](Operator/190_ReverseBits.ipynb)
+    - [LINK TO GITHUB: JAVA](Operator/190_ReverseBits.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-bits/)
 - 191\. Number of 1 Bits
     - [LINK TO GITHUB: IPYNB](Operator/191_NumberOf1Bit.ipynb)
@@ -1613,6 +1624,9 @@
     - [LINK TO GITHUB: IPYNB](Strings/389_FindTheDifference.ipynb)
     - [LINK TO GITHUB: JAVA](Strings/389_FindTheDifference.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-difference/)
+- 394\. Decode String
+    - [LINK TO GITHUB](Strings/394_decode-string.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/decode-string/)
 - 424\. Longest Repeating Character Replacement
     - [LINK TO GITHUB](Strings/424_longest-repeating-character-replacement.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-repeating-character-replacement/)
@@ -1748,7 +1762,8 @@
     - [LINK TO GITHUB](TwoPointers/838_push-dominoes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/push-dominoes/)
 - 844\. Backspace String Compare
-    - [LINK TO GITHUB](TwoPointers/844_BackspaceStringCompare.ipynb)
+    - [LINK TO GITHUB: IPYNB](TwoPointers/844_BackspaceStringCompare.ipynb)
+    - [LINK TO GITHUB: JAVA](TwoPointers/844_BackspaceStringCompare.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/backspace-string-compare/)
 - 876\. Middle of the Linked List
     - [LINK TO GITHUB: IPYNB](TwoPointers/876_MiddleOfTheLinkedList.ipynb)
