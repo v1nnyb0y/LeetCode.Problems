@@ -22,348 +22,348 @@
 ## Array
 
 - 1\. Two Sum
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/1_TwoSum.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/1_TwoSum.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/1_TwoSum.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/1_TwoSum.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum/)
 - 15\. 3Sum
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/15_3Sum.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/15_3Sum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/3sum/)
 - 16\. 3Sum Closest
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/16_3sum-closest.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/16_3sum-closest.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/3sum-closest/)
 - 20\. Valid Parentheses
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/20_ValidParentheses.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/20_ValidParentheses.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/20_ValidParentheses.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/20_ValidParentheses.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-parentheses/)
 - 26\. Remove Duplicates from Sorted Array
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/26_remove-duplicates-from-sorted-array.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/26_remove-duplicates-from-sorted-array.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 31\. Next Permutation
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/31_NextPermutation.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/31_NextPermutation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-permutation/)
 - 36\. Valid Sudoku
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/36_ValidSudoku.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/36_ValidSudoku.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/36_ValidSudoku.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/36_ValidSudoku.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-sudoku/)
 - 39\. Combination Sum
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/39_CombinationSum.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/39_CombinationSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/combination-sum/)
 - 40\. Combination Sum II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/40_CombinationSumII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/40_CombinationSumII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/combination-sum-ii/)
 - 47\. Permutations II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/47_PermutationsII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/47_PermutationsII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/permutations-ii/)
 - 51\. N-Queens
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/51_n-queens.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/51_n-queens.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-queens/)
 - 52\. N-Queens II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/52_n-queens-ii.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/52_n-queens-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-queens-ii/)
 - 53\. Maximum Subarray
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/53_MaximumSubarray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/53_MaximumSubarray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/53_MaximumSubarray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/53_MaximumSubarray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-subarray/)
 - 56\. Merge Intervals
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/56_MergeIntervals.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/56_MergeIntervals.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-intervals/)
 - 59\. Spiral Matrix II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/59_SpiralMatrixII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/59_SpiralMatrixII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/spiral-matrix-ii/)
 - 66\. Plus One
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/66_PlusOne.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/66_PlusOne.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/plus-one/)
 - 78\. Subsets
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/78_Subsets.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/78_Subsets.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subsets/)
 - 88\. Merge Sorted Array
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/88_MergeSortedArray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/88_MergeSortedArray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/88_MergeSortedArray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/88_MergeSortedArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-sorted-array/)
 - 90\. Subsets II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/90_SubsetsII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/90_SubsetsII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subsets-ii/)
 - 92\. Reverse Linked List II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/92_reverse-linked-list-ii.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/92_reverse-linked-list-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-linked-list-ii/)
 - 128\. Longest Consecutive Sequence
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/128_longest-consecutive-sequence.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/128_longest-consecutive-sequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-consecutive-sequence/)
 - 130\. Surrounded Regions
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/130_SurroundedRegions.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/130_SurroundedRegions.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/surrounded-regions/)
 - 135\. Candy
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/135_candy.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/135_candy.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/candy/)
 - 136\. Single Number
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/136_SingleNumber.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/136_SingleNumber.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/136_SingleNumber.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/136_SingleNumber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/single-number/)
 - 150\. Evaluate Reverse Polish Notation
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/150_EvaluateReversePolishNotation.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/150_EvaluateReversePolishNotation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - 169\. Majority Element
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/169_MajorityElement.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/169_MajorityElement.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/majority-element/)
 - 187\. Repeated DNA Sequences
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/187_RepeatedDNASequence.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/187_RepeatedDNASequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/repeated-dna-sequences/)
 - 188\. Best Time to Buy and Sell Stock IV
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/188_best-time-to-buy-and-sell-stock-iv.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/188_best-time-to-buy-and-sell-stock-iv.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 - 215\. Kth Largest Element in an Array
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/215_KthLargestElementInAnArray.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/215_KthLargestElementInAnArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - 216\. Combination Sum III
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/216_CombinationSumIII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/216_CombinationSumIII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/combination-sum-iii/)
 - 217\. Contains Duplicate
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/217_ContainsDuplicate.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/217_ContainsDuplicate.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate/)
 - 218\. The Skyline Problem
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/218_the-skyline-problem.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/218_the-skyline-problem.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-skyline-problem/)
 - 219\. Contains Duplicate II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/219_contains-duplicate-ii.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/219_contains-duplicate-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate-ii/)
 - 238\. Product of Array Except Self
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/238_ProductOfArrayExceptSelf.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/238_ProductOfArrayExceptSelf.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/product-of-array-except-self/)
 - 283\. Move Zeroes
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/283_MoveZeroes.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/283_MoveZeroes.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/283_MoveZeroes.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/283_MoveZeroes.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/move-zeroes/)
 - 289\. Game of Life
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/289_GameOfLife.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/289_GameOfLife.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/game-of-life/)
 - 315\. Count of Smaller Numbers After Self
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/315_count-of-smaller-numbers-after-self.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/315_count-of-smaller-numbers-after-self.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - 318\. Maximum Product of Word Lengths
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/318_maximum-product-of-word-lengths.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/318_maximum-product-of-word-lengths.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 - 329\. Longest Incresing Path in a Matrix
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/329_longest-increasing-path-in-a-matrix.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/329_longest-increasing-path-in-a-matrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 - 334\. Incresing Triplet Subsequence
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/334_IncreasingTripletSubsequence.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/334_IncreasingTripletSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/increasing-triplet-subsequence/)
 - 336\. Palindrome Pairs
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/336_palindrome-pairs.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/336_palindrome-pairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/palindrome-pairs/)
 - 347\. Top K Frequest Elements
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/347_TopKFrequentElements.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/347_TopKFrequentElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/top-k-frequent-elements/)
 - 350\. Intersection of Two Arrays II
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/350_IntersectionOfTwoArraysII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/350_IntersectionOfTwoArraysII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/350_IntersectionOfTwoArraysII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/350_IntersectionOfTwoArraysII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - 363\. Max Sum of Rectangle No Larger Than K
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/363_max-sum-of-rectangle-no-larger-than-k.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/363_max-sum-of-rectangle-no-larger-than-k.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
 - 378\. Kth Smallest Element in a Sorted Matrix
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/378_kth-smallest-element-in-a-sorted-matrix.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/378_kth-smallest-element-in-a-sorted-matrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - 393\. UTF-8 Validation
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/393_utf-8-validation.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/393_utf-8-validation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/utf-8-validation/)
 - 406\. Queue Reconstruction by Height
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/406_queue-reconstruction-by-height.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/406_queue-reconstruction-by-height.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/queue-reconstruction-by-height/)
 - 446\. Arithmetic Slices II - Subsequence
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/446_arithmetic-slices-ii-subsequence.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/446_arithmetic-slices-ii-subsequence.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
 - 462\. Minimum Moves to Equal Array Elements II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/462_minimum-moves-to-equal-array-elements-ii.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/462_minimum-moves-to-equal-array-elements-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 - 473\. Matchsticks to Square
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/473_matchsticks-to-square.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/473_matchsticks-to-square.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/matchsticks-to-square/)
 - 474\. Ones and Zeroes
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/474_ones-and-zeroes.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/474_ones-and-zeroes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ones-and-zeroes/)
 - 503\. Next Greater Element II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/503_NextGreaterElementII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/503_NextGreaterElementII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-ii/)
 - 560\. Subarray Sum Equals K
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/560_SubarraySumEqualsK.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/560_SubarraySumEqualsK.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/)
 - 566\. Reshape the Matrix
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/566_ReshapeTheMatrix.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/566_ReshapeTheMatrix.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/566_ReshapeTheMatrix.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/566_ReshapeTheMatrix.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reshape-the-matrix/)
 - 581\. Short Unsorted Continuous Subarray
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/581_ShortestUnsortedContiniousSubarray.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/581_ShortestUnsortedContiniousSubarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - 609\. Find Duplicate File in System
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/609_find-duplicate-file-in-system.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/609_find-duplicate-file-in-system.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-duplicate-file-in-system/)
 - 630\. Course Schedule III
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/630_course-schedule-iii.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/630_course-schedule-iii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/course-schedule-iii/)
 - 645\. Set Mismatch
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/645_set-mismatch.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/645_set-mismatch.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/set-mismatch/)
 - 658\. Find K Closest Elements
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/658_find-k-closest-elements.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/658_find-k-closest-elements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-k-closest-elements/)
 - 659\. Split Array into Consecutive Subsequences
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/659_split-array-into-consecutive-subsequences.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/659_split-array-into-consecutive-subsequences.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
 - 665\. Non-decreasing Array
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/665_non-decreasing-array.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/665_non-decreasing-array.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/non-decreasing-array/)
 - 682\. Baseball Game
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/682_BaseballGame.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/682_BaseballGame.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/baseball-game/)
 - 713\. Subarray Product Less Than K
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/713_SubarrayProductLessThanK.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/713_SubarrayProductLessThanK.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subarray-product-less-than-k/)
 - 718\. Maximum Length of Repeated Subarray
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/718_maximum-length-of-repeated-subarray.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/718_maximum-length-of-repeated-subarray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - 724\. Find Pivot Index
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/724_find-pivot-index.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/724_find-pivot-index.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-pivot-index/)
 - 739\. Daily Temperatures
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/739_DailyTemperature.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/739_DailyTemperature.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/daily-temperatures/)
 - 804\. Unique Morse Code Words
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/804_unique-morse-code-words.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/804_unique-morse-code-words.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/unique-morse-code-words/)
 - 820\. Short Encoding of Words
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/820_short-encoding-of-words.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/820_short-encoding-of-words.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/short-encoding-of-words/)
 - 823\. Binary Trees With Factors
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/823_binary-trees-with-factors.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/823_binary-trees-with-factors.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-trees-with-factors/)
 - 860\. Lemonade Change
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/860_LemonadeChange.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/860_LemonadeChange.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/lemonade-change/)
 - 867\. Transpose Matrix
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/867_transpose-matrix.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/867_transpose-matrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/transpose-matrix/)
 - 871\. Minimum Number of Refueling Stops
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/871_minimum-number-of-refueling-stops.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/871_minimum-number-of-refueling-stops.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 - 890\. Find and Replace Pattern
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/890_find-and-replace-pattern.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/890_find-and-replace-pattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-and-replace-pattern/)
 - 896\. Monotonic Array
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/896_MonotonicArray.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/896_MonotonicArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/monotonic-array/)
 - 907\. Sum of Subarray Minimums
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/907_sum-of-subarray-minimums.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/907_sum-of-subarray-minimums.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-subarray-minimums/)
 - 916\. Word Subsets
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/916_word-subsets.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/916_word-subsets.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-subsets/)
 - 948\. Bag of Tokens
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/948_bag-of-tokens.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/948_bag-of-tokens.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/bag-of-tokens/)
 - 967\. Numbers With Same Consecutive Differences
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/967_numbers-with-same-consecutive-differences.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/967_numbers-with-same-consecutive-differences.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
 - 985\. Sum of Even Numbers After Queries
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/985_sum-of-even-numbers-after-queries.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/985_sum-of-even-numbers-after-queries.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 - 989\. Add to Array-Form of Integer
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/989_AddToArrayFormOfInteger.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/989_AddToArrayFormOfInteger.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - 990\. Satisfiability of Equality Equations
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/990_satisfiability-of-equality-equations.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/990_satisfiability-of-equality-equations.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/satisfiability-of-equality-equations/)
 - 1046\. Last Stone Weight
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/1046_LastStoneWeight.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/1046_LastStoneWeight.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/1046_LastStoneWeight.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/1046_LastStoneWeight.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/last-stone-weight/)
 - 1048\. Longest String Chain
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1048_longest-string-chain.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1048_longest-string-chain.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-string-chain/)
 - 1074\. Number of Submatrices That Sum to Target
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1074_number-of-submatrices-that-sum-to-target.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1074_number-of-submatrices-that-sum-to-target.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
 - 1235\. Maximum Profit in Job Scheduling
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1235_maximum-profit-in-job-scheduling.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1235_maximum-profit-in-job-scheduling.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 - 1239\. Maximum Length of a Concatenated String with Unique Characters
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1239_maximum-length-of-a-concatenated-string-with-unique-characters.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1239_maximum-length-of-a-concatenated-string-with-unique-characters.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 - 1260\. Shift 2D Grid
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1260_Shift2DGrid.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1260_Shift2DGrid.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shift-2d-grid/)
 - 1268\. Search Suggestions System
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1268_search-suggestions-system.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1268_search-suggestions-system.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-suggestions-system/)
 - 1329\. Sort the Matrix Diagonally
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1329_sort-the-matrix-diagonally.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1329_sort-the-matrix-diagonally.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-the-matrix-diagonally/)
 - 1335\. Minimum Difficulty of a Job Schedule
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1335_minimum-difficulty-of-a-job-schedule.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1335_minimum-difficulty-of-a-job-schedule.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
 - 1338\. Reduce Array Size to The Half
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1338_reduce-array-size-to-the-half.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1338_reduce-array-size-to-the-half.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 - 1354\. Construct Target Array With Multiple Sums
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1354_construct-target-array-with-multiple-sums.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1354_construct-target-array-with-multiple-sums.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - 1383\. Maximum Performance of a Team
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1383_maximum-performance-of-a-team.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1383_maximum-performance-of-a-team.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-performance-of-a-team/)
 - 1423\. Maximum Points You Can Obtain from Cards
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1423_maximum-points-you-can-obtain-from-cards.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1423_maximum-points-you-can-obtain-from-cards.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 - 1465\. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1465_maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1465_maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)
 - 1480\. Running Sum of 1d array
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/1480_running-sum-of-1d-array.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/1480_running-sum-of-1d-array.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/1480_running-sum-of-1d-array.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/1480_running-sum-of-1d-array.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/running-sum-of-1d-array/)
 - 1572\. Matrix Diagonal Sum
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/1572_MatrixDiagonalSum.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/1572_MatrixDiagonalSum.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/1572_MatrixDiagonalSum.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/1572_MatrixDiagonalSum.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/)
 - 1578\. Minimum Time to Make Rope Colorful
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1578_minimum-time-to-make-rope-colorful.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1578_minimum-time-to-make-rope-colorful.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
 - 1588\. Sum Of All Odd Length Subarrays
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/1588_SumOfAllOddLengthSubarrays.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/1588_SumOfAllOddLengthSubarrays.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/1588_SumOfAllOddLengthSubarrays.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/1588_SumOfAllOddLengthSubarrays.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/)
 - 1630\. Arithmetic Subarrays
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1630_ArithmeticSubarrays.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1630_ArithmeticSubarrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-subarrays/)
 - 1642\. Furthest Building You Can Reach
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1642_furthest-building-you-can-reach.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1642_furthest-building-you-can-reach.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/furthest-building-you-can-reach/)
 - 1658\. Minimum Operations to Reduce X to Zero
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1658_minimum-operations-to-reduce-x-to-zero.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1658_minimum-operations-to-reduce-x-to-zero.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - 1662\. Check If Two String Arrays are Equivalent
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1662_check-if-two-string-arrays-are-equivalent.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1662_check-if-two-string-arrays-are-equivalent.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - 1672\. Richest Customer Wealth
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Array/1672_RichestCustomerWealth.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Array/1672_RichestCustomerWealth.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/1672_RichestCustomerWealth.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/1672_RichestCustomerWealth.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/richest-customer-wealth/submissions/)
 - 1695\. Maximum Erasure Value
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1695_maximum-erasure-value.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1695_maximum-erasure-value.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-erasure-value/)
 - 1696\. Jump Game VI
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1696_jump-game-vi.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1696_jump-game-vi.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game-vi/)
 - 1710\. Maximum Units on a Truck
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1710_maximum-units-on-a-truck.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1710_maximum-units-on-a-truck.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-units-on-a-truck/)
 - 1770\. Maximum Score from Performing Multiplication Operations
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1770_maximum-score-from-performing-multiplication-operations.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1770_maximum-score-from-performing-multiplication-operations.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
 - 1996\. The Number of Weak Characters in the Game
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/1996_the-number-of-weak-characters-in-the-game.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1996_the-number-of-weak-characters-in-the-game.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 - 2007\. Find Original Array From Doubled Array
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Array/2007_find-original-array-from-doubled-array.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2007_find-original-array-from-doubled-array.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-original-array-from-doubled-array/)
 
 ----
@@ -372,22 +372,24 @@
 ## Basic Data Types and Design
 
 - 304\. Range Sum Query 2D - Immutable
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BasicDataTypes/304_RangeSumQuery2D_Immutable.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BasicDataTypes/304_RangeSumQuery2D_Immutable.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BasicDataTypes/304_RangeSumQuery2D_Immutable.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BasicDataTypes/304_RangeSumQuery2D_Immutable.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 - 703\. Kth Largest Element in a Stream
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BasicDataTypes/703_KthLargestElementInAStream.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BasicDataTypes/703_KthLargestElementInAStream.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
-- 1493\. Average Salary Excluding the Minimum and Maximum Salary
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.java)
+- 1491\. Average Salary Excluding the Minimum and Maximum Salary
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.java)
+    - [LINK TO GITHUB: KOTLIN](src/main/app/com/leetcode/BasicDataTypes/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.kt)
     - [LINK TO LEET CODE](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - 1523\. Count Odd Numbers in an Interval Range
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.java)
+    - [LINK TO GITHUB: KOTLIN](src/main/app/com/leetcode/BasicDataTypes/1523_CountOddNumbersInAnIntervalRange.kt)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - 1845\. Seat Reservation Manager
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BasicDataTypes/1845_SeatReservationManager.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BasicDataTypes/1845_SeatReservationManager.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/seat-reservation-manager/)
 
 ----
@@ -396,197 +398,197 @@
 ## Binary Search
 
 - 33\. Search in Rotated Sorted Array
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/33_SearchInRotatedSortedArray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/33_SearchInRotatedSortedArray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/33_SearchInRotatedSortedArray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/33_SearchInRotatedSortedArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - 34\. Find First and Last Position of Element in Sorted Array
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/34_FindFirstAndLastPositionOfElementInSortedArray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/34_FindFirstAndLastPositionOfElementInSortedArray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/34_FindFirstAndLastPositionOfElementInSortedArray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/34_FindFirstAndLastPositionOfElementInSortedArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - 35\. Search Insert Position
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/35_InsertPosition.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/35_InsertPosition.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/35_InsertPosition.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/35_InsertPosition.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-insert-position/)
 - 69\. Sqrt(x)
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/69_SqrtX.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/69_SqrtX.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/69_SqrtX.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/69_SqrtX.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sqrtx/)
 - 74\. Search a 2D Matrix
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/74_SearchA2DMatrix.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/74_SearchA2DMatrix.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/74_SearchA2DMatrix.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/74_SearchA2DMatrix.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-a-2d-matrix/)
 - 81\. Search in Rotated Sorted II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/81_SearchInRotatedSortedArrayII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/81_SearchInRotatedSortedArrayII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - 153\. Find Minimum in Rotated Sorted Array
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/153_FindMinimumInRotatedSortedArray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/153_FindMinimumInRotatedSortedArray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/153_FindMinimumInRotatedSortedArray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/153_FindMinimumInRotatedSortedArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - 154\. Find Minimum in Rotated Sorted Array II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/154_FindMinimumInRotatedSortedArrayII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/154_FindMinimumInRotatedSortedArrayII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - 162\. Find Peak Element
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/162_FindPeakElement.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/162_FindPeakElement.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-peak-element/)
 - 209\. Minimum Size Subarray Sum
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/209_MinimumSizeSubarraySum.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/209_MinimumSizeSubarraySum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - 240\. Search a 2D Matrix II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/240_SearchA2DMatrixII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/240_SearchA2DMatrixII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - 275\. H-index II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/275_HIndexII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/275_HIndexII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/h-index-ii/)
 - 278\. First Bad Version
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/278_FirstBadVersion.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/278_FirstBadVersion.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/278_FirstBadVersion.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/278_FirstBadVersion.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-bad-version/)
 - 287\. Find the Duplicate Number
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/287_FindTheDuplicateNumber.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/287_FindTheDuplicateNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-duplicate-number/)
 - 300\. Longest Increasing Subsequence
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/300_LongestIncreasingSubsequence.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/300_LongestIncreasingSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-increasing-subsequence/)
 - 367\. Valid Perfect Square
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/367_ValidPerfectSquare.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/367_ValidPerfectSquare.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/367_ValidPerfectSquare.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/367_ValidPerfectSquare.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-perfect-square/)
 - 374\. Guess Number Higher or Lower
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/374_GuessNumberHigherOrLower.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/374_GuessNumberHigherOrLower.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/374_GuessNumberHigherOrLower.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/374_GuessNumberHigherOrLower.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - 426\. Find Right Interval
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/426_FindRightInterval.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/426_FindRightInterval.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-right-interval/)
 - 441\. Arranging Coins
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/441_ArrangingCoins.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/441_ArrangingCoins.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/441_ArrangingCoins.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/441_ArrangingCoins.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arranging-coins/)
 - 456\. 132 Pattern
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/456_132Pattern.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/456_132Pattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/132-pattern/)
 - 528\. Random Pick with Weight
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/528_RandomPickWithWeight.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/528_RandomPickWithWeight.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/random-pick-with-weight/)
 - 540\. Single Element in a Sorted Array
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/540_SingleElementInASortedArray.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/540_SingleElementInASortedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - 611\. Valid Triangle Number
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/611_ValidTriangleNumber.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/611_ValidTriangleNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-triangle-number/)
 - 658\. Find K Closest Elements
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/658_FindKClosestElements.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/658_FindKClosestElements.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-k-closest-elements/)
 - 704\. Binary Search
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/704_BinarySearch.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/704_BinarySearch.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/704_BinarySearch.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/704_BinarySearch.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search/)
 - 744\. Find Smallest Letter Greater Than Target
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/744_FindSmallestLetterGreaterThanTarget.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/744_FindSmallestLetterGreaterThanTarget.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/744_FindSmallestLetterGreaterThanTarget.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/744_FindSmallestLetterGreaterThanTarget.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - 826\. Most Profit Assigning Work
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/826_MostProfitAssigningWork.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/826_MostProfitAssigningWork.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/most-profit-assigning-work/)
 - 852\. Peak Index in a Mountain Array
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/852_PeakIndexInAMountainArray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/852_PeakIndexInAMountainArray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/852_PeakIndexInAMountainArray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/852_PeakIndexInAMountainArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - 875\. Koko Eating Bananas
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/875_KokoEatingBananas.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/875_KokoEatingBananas.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/koko-eating-bananas/)
 - 911\. Online Election
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/911_OnlineElection.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/911_OnlineElection.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/online-election/)
 - 981\. Time Based Key-Value Store
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/981_TimeBasedKeyValueStore.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/981_TimeBasedKeyValueStore.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/time-based-key-value-store/)
 - 1126\. Snapshot Array
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1146_SnapshotArray.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1146_SnapshotArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/snapshot-array/)
 - 1201\. Ugly Number III
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1201_UglyNumberIII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1201_UglyNumberIII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number-iii/)
 - 1283\. Find the Smallest Divisor Given a Threshold
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1283_FindTheSmallestDivisorGivenAThreshold.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1283_FindTheSmallestDivisorGivenAThreshold.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 - 1292\. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1292_MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1292_MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)
 - 1300\. Sum of Mutated Array CLosest to Target
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1300_SuOfMutatedArrayClosestToTarget.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1300_SuOfMutatedArrayClosestToTarget.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/)
 - 1337\. The K Weakest Rows in a Matrix
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/1337_TheKWeakestRowsInAMatrix.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/1337_TheKWeakestRowsInAMatrix.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/1337_TheKWeakestRowsInAMatrix.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/1337_TheKWeakestRowsInAMatrix.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - 1346\. Check If N and Its Double Exist
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/1346_CheckIfNAndItsDoubleExist.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/1346_CheckIfNAndItsDoubleExist.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/1346_CheckIfNAndItsDoubleExist.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/1346_CheckIfNAndItsDoubleExist.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - 1351\. Count Negative Numbers in a Sorted Matrix
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/1351_CountNegativeNumbersInASortedMatrix.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/1351_CountNegativeNumbersInASortedMatrix.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/1351_CountNegativeNumbersInASortedMatrix.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/1351_CountNegativeNumbersInASortedMatrix.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - 1385\. Find the Distance Value Between Two Arrays
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/1385_FindTheDistanceValueBetweenTwoArrays.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/1385_FindTheDistanceValueBetweenTwoArrays.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/1385_FindTheDistanceValueBetweenTwoArrays.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/1385_FindTheDistanceValueBetweenTwoArrays.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
 - 1482\. Minimum Number of Days to Make M Bouquets
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1482_MinimumNumberOfDaysToMakeMBouquets.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1482_MinimumNumberOfDaysToMakeMBouquets.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
 - 1488\. Avoid Flood in The City
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1488_AvoidFloodInTheCity.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1488_AvoidFloodInTheCity.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/avoid-flood-in-the-city/)
 - 1498\. Number of Subsequences That Satisfy the Given Sum Condition
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1498_NumberOfSequenecesThatSatisfyTheGivenSumCondition.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1498_NumberOfSequenecesThatSatisfyTheGivenSumCondition.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 - 1508\. Range Sum of Sorted Subarray Sums
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1508_RangeSumOfSortedSubarraySums.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1508_RangeSumOfSortedSubarraySums.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)
 - 1539\. Kth Missing Positive Number
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/1539_KthMissingPositiveNumber.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/1539_KthMissingPositiveNumber.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/1539_KthMissingPositiveNumber.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/1539_KthMissingPositiveNumber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-missing-positive-number/)
 - 1552\. Magnetic Force Between Two Balls
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1552_MagneticForceBetweenTwoBalls.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1552_MagneticForceBetweenTwoBalls.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/magnetic-force-between-two-balls/)
 - 1562\. Find Latest Group of Size M
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1562_FindLatestGroupOfSizeM.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1562_FindLatestGroupOfSizeM.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-latest-group-of-size-m/)
 - 1574\. Shortest Subarray to be Removed to Make Array Sorted
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1574_ShortestSubarrayToBeRemovedToMakeArraySorted.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1574_ShortestSubarrayToBeRemovedToMakeArraySorted.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
 - 1608\. Special Array With X Elements Greated Than or Equal X
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/BinarySearch/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/BinarySearch/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/BinarySearch/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/BinarySearch/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - 1648\. Sell Diminishing-Valued Colored Balls
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1648_SellDiminishingValuedColoredBalls.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1648_SellDiminishingValuedColoredBalls.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)
 - 1760\. Minimum Limit of Balls in a Bag
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1760_MinimumLimitOfBallsInABag.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1760_MinimumLimitOfBallsInABag.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
 - 1802\. Maximum Value at a Given Index a Bounded Array
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1802_MaximumValueAtAGivenIndexInABoundedArray.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1802_MaximumValueAtAGivenIndexInABoundedArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
 - 1818\. Minimum Absolute Sum Difference
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1818_MinimumAbsoluteSumDifference.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1818_MinimumAbsoluteSumDifference.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-absolute-sum-difference/)
 - 1838\. Frequency of the Most Frequent Element
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1838_FrequencyOfTheMostFrequentElement.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1838_FrequencyOfTheMostFrequentElement.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - 1854\. Find the Student that Will Replace the Chalk
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1854_FindTheStudentThatWillReplaceTheChalk.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1854_FindTheStudentThatWillReplaceTheChalk.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)
 - 1870\. Minimum Speed to Arrive on Time
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1870_MinimumSpeedToArriveOnTime.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1870_MinimumSpeedToArriveOnTime.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
 - 1898\. Maximum Number of Removable Characters
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1898_MaximumNumberOfRemovableCharacters.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1898_MaximumNumberOfRemovableCharacters.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-number-of-removable-characters/)
 - 1901\. Find a Peak Element II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/BinarySearch/1901_FindAPeakElementII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/BinarySearch/1901_FindAPeakElementII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-a-peak-element-ii/)
 
 ----
@@ -595,69 +597,71 @@
 ## Class and Objects
 
 - 155\. Min Stack
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/155_MinStack.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/155_MinStack.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/min-stack/)
 - 173\. Binary Search Tree Iterator
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/173_BinarySearchTreeIterator.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/173_BinarySearchTreeIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-search-tree-iterator/)
 - 225\. Implement Start using Queues
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/225_ImplementStackUsingQueues.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/225_ImplementStackUsingQueues.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/implement-stack-using-queues/)
 - 284\. Peeking Iterator
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/284_PeekingIterator.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/284_PeekingIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/peeking-iterator/)
 - 295\. Find Median from Data Stream
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/295_find-median-from-data-stream.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/295_find-median-from-data-stream.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-median-from-data-stream/)
 - 303\. Range Sum Query
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/ClassAndObjects/303_RangeSumQuery.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/ClassAndObjects/303_RangeSumQuery.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/ClassAndObjects/303_RangeSumQuery.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/ClassAndObjects/303_RangeSumQuery.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-immutable/)
 - 307\. Range Sum Query - Mutable
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/307_range-sum-query-mutable.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/307_range-sum-query-mutable.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-query-mutable/)
 - 341\. Flatten Nested List Iterator
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/341_FlattenNestedListIterator.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/341_FlattenNestedListIterator.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flatten-nested-list-iterator/)
 - 380\. Insert Delete GetRandom O(1)
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/380_InsertDeleteGetRandomO1.ipynb)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/ClassAndObjects/380_InsertDeleteGetRandomO1.ipynb)
+    - [LINK TO GITHUB: KOTLIN](src/main/app/com/leetcode/ClassAndObjects/380_InsertDeleteGetRandomO1.kt)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/ClassAndObjects/380_InsertDeleteGetRandomO1.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 - 384\. Shuffle an Array
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/384_ShuffleAnArray.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/384_ShuffleAnArray.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shuffle-an-array/)
 - 535\. Encode and Decode TinyURL
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/535_EncodeAndDecodeTinyURL.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/535_EncodeAndDecodeTinyURL.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 - 622\. Design Circular Queue
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/622_DesignCircularQueue.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/622_DesignCircularQueue.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-circular-queue/)
 - 705\. Desing HashSet
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/705_DesignHashSet.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/705_DesignHashSet.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-hashset/)
 - 706\. Design HashMap
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/706_DesignHashMap.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/706_DesignHashMap.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-hashmap/)
 - 707\. Design Linked List
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/707_DesignLinkedList.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/707_DesignLinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-linked-list/)
 - 732\. My Calendar III
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/732_my-calendar-iii.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/732_my-calendar-iii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/my-calendar-iii/)
 - 729\. My Calendar I
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/729_MyCalendarI.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/729_MyCalendarI.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/my-calendar-i/)
 - 901\. Online Stock Span
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/901_online-stock-span.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/901_online-stock-span.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/online-stock-span/)
 - 1396\. Design Underground System
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/1396_DesignUndergroundSystem.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/1396_DesignUndergroundSystem.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-underground-system/)
 - 1603\. Design Parking System
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/ClassAndObjects/1603_DesignParkingSystem.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/ClassAndObjects/1603_DesignParkingSystem.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/ClassAndObjects/1603_DesignParkingSystem.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/ClassAndObjects/1603_DesignParkingSystem.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-parking-system/)
 - 1797\. Design Authentication Manager
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ClassAndObjects/1797_DesignAuthenticationManager.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ClassAndObjects/1797_DesignAuthenticationManager.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/design-authentication-manager/)
 
 ----
@@ -666,12 +670,12 @@
 ## Conditional Statements
 
 - 976\. Largest Perimeter Triangle
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/ConditionalStatements/976_LargestPerimeterTriangle.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/ConditionalStatements/976_LargestPerimeterTriangle.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/ConditionalStatements/976_LargestPerimeterTriangle.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/ConditionalStatements/976_LargestPerimeterTriangle.java)
     - [LINK TO LEETCODE CODE](https://leetcode.com/problems/largest-perimeter-triangle/)
 - 1779\. Find Nearest Point That Has the Same X or Y Coordinate
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/ConditionalStatements/1779_FindNearestPointThatHasTheSameXorYCoordinate.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/ConditionalStatements/1779_FindNearestPointThatHasTheSameXorYCoordinate.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/ConditionalStatements/1779_FindNearestPointThatHasTheSameXorYCoordinate.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/ConditionalStatements/1779_FindNearestPointThatHasTheSameXorYCoordinate.java)
     - [LINK TO LEETCODE CODE](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
 
 ----
@@ -680,23 +684,23 @@
 ## Containers and Libraries
 
 - 217\. Contains Duplicate
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/ContainersAndLibs/217_ContainsDuplicate.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/ContainersAndLibs/217_ContainsDuplicate.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/ContainersAndLibs/217_ContainsDuplicate.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/ContainersAndLibs/217_ContainsDuplicate.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/contains-duplicate/)
 - 232\. Implement Queue using Stacks
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/ContainersAndLibs/232_ImplementQueueUsingStacks.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/ContainersAndLibs/232_ImplementQueueUsingStacks.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/ContainersAndLibs/232_ImplementQueueUsingStacks.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/ContainersAndLibs/232_ImplementQueueUsingStacks.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/implement-queue-using-stacks/)
 - 242\. Valid Anagram
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/ContainersAndLibs/242_ValidAnagram.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/ContainersAndLibs/242_ValidAnagram.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/ContainersAndLibs/242_ValidAnagram.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/ContainersAndLibs/242_ValidAnagram.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-anagram/)
 - 981\. Time Based Key-Value Store
-    - [LINK TO GITHUB](src/main/java/com/leetcode/ContainersAndLibs/981_time-based-key-value-store.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ContainersAndLibs/981_time-based-key-value-store.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/time-based-key-value-store/)
 - 1356\. Sort Integers by The Number of 1 Bits
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/ContainersAndLibs/1356_SortIntegersByTheNumberOf1Bits.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/ContainersAndLibs/1356_SortIntegersByTheNumberOf1Bits.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/ContainersAndLibs/1356_SortIntegersByTheNumberOf1Bits.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/ContainersAndLibs/1356_SortIntegersByTheNumberOf1Bits.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 
 ----
@@ -705,203 +709,203 @@
 ## Dynamic Programming
 
 - 5\. Longest Palindromic Substring
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/5_LongestPalindromicSubstring.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/5_LongestPalindromicSubstring.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-palindromic-substring/)
 - 24\. Coin Change
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/24_CoinChange.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/24_CoinChange.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/coin-change/)
 - 32\. Longest Valid Parentheses
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/32_longest-valid-parentheses.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/32_longest-valid-parentheses.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-valid-parentheses/)
 - 42\. Trapping Rain Water
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/42_TrappingRainWater.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/42_TrappingRainWater.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/42_TrappingRainWater.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/42_TrappingRainWater.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/trapping-rain-water/)
 - 45\. Jump Game II
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/45_JumpGameII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/45_JumpGameII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/45_JumpGameII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/45_JumpGameII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game-ii/)
 - 55\. Jump Game
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/55_JumpGame.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/55_JumpGame.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/55_JumpGame.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/55_JumpGame.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game/)
 - 62\. Unique Paths
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/62_UniquePaths.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/62_UniquePaths.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/62_UniquePaths.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/62_UniquePaths.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/unique-paths/)
 - 63\. Unique Paths II
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/63_UniquePathsII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/63_UniquePathsII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/63_UniquePathsII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/63_UniquePathsII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/unique-paths-ii/solution/)
 - 64\. Minimum Path Sum
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/64_MinimumPathSum.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/64_MinimumPathSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-path-sum/)
 - 70\. Climbing Stairs
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/70_ClimbingStairs.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/70_ClimbingStairs.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/70_ClimbingStairs.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/70_ClimbingStairs.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/climbing-stairs/)
 - 72\. Edit Distance
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/72_EditDistance.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/72_EditDistance.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/edit-distance/)
 - 91\. Decode Ways
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/91_DecodeWays.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/91_DecodeWays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decode-ways/)
 - 96\. Unique Binary Search Trees
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/96_UniqueBinarySearchTrees.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/96_UniqueBinarySearchTrees.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/96_UniqueBinarySearchTrees.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/96_UniqueBinarySearchTrees.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/unique-binary-search-trees/)
 - 118\. Pasacal's Triangle
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/118_PascalsTriangle.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/118_PascalsTriangle.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/118_PascalsTriangle.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/118_PascalsTriangle.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pascals-triangle/)
 - 119\. Pascal's Triangle II
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/119_PasacalsTriangleII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/119_PasacalsTriangleII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/119_PasacalsTriangleII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/119_PasacalsTriangleII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pascals-triangle-ii/)
 - 120\. Triangle
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/120_Triangle.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/120_Triangle.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/120_Triangle.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/120_Triangle.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/triangle/)
 - 121\. Best Time to Buy and Sell Stock
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/121_BestTimeToButAndSellStock.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/121_BestTimeToButAndSellStock.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/121_BestTimeToButAndSellStock.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/121_BestTimeToButAndSellStock.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - 122\. Best Time to Buy and Sell Stock II
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/122_BestTimeToBuyAndSellStockII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/122_BestTimeToBuyAndSellStockII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/122_BestTimeToBuyAndSellStockII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/122_BestTimeToBuyAndSellStockII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - 139\. Work Break
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/139_WordBreak.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/139_WordBreak.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/139_WordBreak.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/139_WordBreak.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-break/)
 - 152\. Maximum Product Subarray
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/152_MaximumProductSubarray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/152_MaximumProductSubarray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/152_MaximumProductSubarray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/152_MaximumProductSubarray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-product-subarray/)
 - 198\. House Robber
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/198_HouseRobber.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/198_HouseRobber.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/198_HouseRobber.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/198_HouseRobber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/house-robber/)
 - 213\. House Robber II
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/213_HouseRobberII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/213_HouseRobberII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/213_HouseRobberII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/213_HouseRobberII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/house-robber-ii/)
 - 221\. Maximal Square
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/221_MaximalSquare.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/221_MaximalSquare.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximal-square/)
 - 264\. Ugly Number II
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/264_UglyNumberII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/264_UglyNumberII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/264_UglyNumberII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/264_UglyNumberII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number-ii/)
 - 279\. Perfect Squares
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/279_PerfectSquares.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/279_PerfectSquares.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/279_PerfectSquares.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/279_PerfectSquares.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/perfect-squares/)
 - 309\. Best Time to Buy and Sell Stock with Cooldown
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/309_BestTimeToBuyAndSellStockWithCooldown.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/309_BestTimeToBuyAndSellStockWithCooldown.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/309_BestTimeToBuyAndSellStockWithCooldown.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/309_BestTimeToBuyAndSellStockWithCooldown.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - 343\. Integer Break
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/343_IntegerBreak.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/343_IntegerBreak.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/integer-break/)
 - 354\. Russian Doll Envelopes
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/354_russian-doll-envelopes.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/354_russian-doll-envelopes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/russian-doll-envelopes/)
 - 376\. Wiggle Subsequence
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/376_WiggleSubsequence.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/376_WiggleSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/wiggle-subsequence/)
 - 377\. Combination Sum IV
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/377_CombinationSumIV.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/377_CombinationSumIV.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/combination-sum-iv/)
 - 392\. Is Subsequence
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/392_IsSubsequence.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/392_IsSubsequence.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/392_IsSubsequence.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/392_IsSubsequence.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/is-subsequence/)
 - 413\. Arithmetic Slices
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/413_ArithmeticSlices.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/413_ArithmeticSlices.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/413_ArithmeticSlices.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/413_ArithmeticSlices.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-slices/)
 - 435\. Non-overlapping Intervals
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/435_Non-overlappingIntervals.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/435_Non-overlappingIntervals.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/non-overlapping-intervals/)
 - 458\. Poor Pigs
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/458_poor-pigs.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/458_poor-pigs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/poor-pigs/)
 - 509\. Fibonacci Number
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/509_FibonacciNumber.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/509_FibonacciNumber.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/509_FibonacciNumber.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/509_FibonacciNumber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fibonacci-number/)
 - 516\. Longest Palindromic Subsequence
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/516_LongestPalindromicSubsequence.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/516_LongestPalindromicSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-palindromic-subsequence/)
 - 518\. Coin Change II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/518_CoinChangeII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/518_CoinChangeII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/coin-change-2/)
 - 583\. Delete Operating for Two Strings
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/583_DeleteOperatingForTwoStrings.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/583_DeleteOperatingForTwoStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-operation-for-two-strings/)
 - 629\. K Inverse Pairs Array
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/629_k-inverse-pairs-array.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/629_k-inverse-pairs-array.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/k-inverse-pairs-array/)
 - 647\. Palindromic Substrings
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/647_palindromic-substrings.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/647_palindromic-substrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/palindromic-substrings/)
 - 673\. Number of Longest Increasing Subsequence
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/673_NumberOfLongestIncreasingSubsequence.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/673_NumberOfLongestIncreasingSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 - 714\. Best Time to Buy and Sell Stock with Transaction Fee
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/714_BestTimeToBuyAndSellStockWithTransactionFee.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/714_BestTimeToBuyAndSellStockWithTransactionFee.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/714_BestTimeToBuyAndSellStockWithTransactionFee.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/714_BestTimeToBuyAndSellStockWithTransactionFee.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 - 740\. Delete and Earn
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/740_DeleteAndEarn.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/740_DeleteAndEarn.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/740_DeleteAndEarn.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/740_DeleteAndEarn.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-and-earn/)
 - 746\. Min Cost Climbing Stairs
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/746_MinCostClimbingStairs.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/746_MinCostClimbingStairs.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/746_MinCostClimbingStairs.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/746_MinCostClimbingStairs.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - 918\. Maximum Sum Circular Subarray
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/918_MaximumSumCircularSubarray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/918_MaximumSumCircularSubarray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/918_MaximumSumCircularSubarray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/918_MaximumSumCircularSubarray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - 931\. Minimum Faliing Path Sum
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/931_MinimumFallingPathSum.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/931_MinimumFallingPathSum.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/931_MinimumFallingPathSum.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/931_MinimumFallingPathSum.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-falling-path-sum/)
 - 968\. Binary Tree Cameras
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/968_binary-tree-cameras.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/968_binary-tree-cameras.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-cameras/)
 - 1014\. Best Sightseeing Pair
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/1014_BestSighseeingPair.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/1014_BestSighseeingPair.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/1014_BestSighseeingPair.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/1014_BestSighseeingPair.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/best-sightseeing-pair/)
 - 1137\. N-th Tribonacci Number
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/1137_NthTribonacciNumber.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/1137_NthTribonacciNumber.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/1137_NthTribonacciNumber.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/1137_NthTribonacciNumber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-th-tribonacci-number/)
 - 1143\. Longest Common Subsequence
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/1143_LongestCommonSubsequence.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/1143_LongestCommonSubsequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-common-subsequence/)
 - 1155\. Number of Dice Rolls With Target Sum
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/1155_number-of-dice-rolls-with-target-sum.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/1155_number-of-dice-rolls-with-target-sum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
 - 1220\. Count Vowels Permutation
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/1220_count-vowels-permutation.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/1220_count-vowels-permutation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-vowels-permutation/)
 - 1314\. Matrix Block Sum
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/1314_MatrixBlockSum.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/1314_MatrixBlockSum.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/1314_MatrixBlockSum.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/1314_MatrixBlockSum.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/matrix-block-sum/)
 - 1473\. Paint House III
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/1473_paint-house-iii.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/1473_paint-house-iii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/paint-house-iii/)
 - 1567\. Maximum Length of Subarray With Positive Product
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/DynamicProgramming/1567_MaximumLengthOfSubarrayWithPositiveProduct.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/DynamicProgramming/1567_MaximumLengthOfSubarrayWithPositiveProduct.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/1567_MaximumLengthOfSubarrayWithPositiveProduct.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/1567_MaximumLengthOfSubarrayWithPositiveProduct.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)
 - 1641\. Count Sorted Vowel Strings
-    - [LINK TO GITHUB](src/main/java/com/leetcode/DynamicProgramming/1641_CountSortedVowelStrings.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/1641_CountSortedVowelStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-sorted-vowel-strings/)
 
 ----
@@ -910,175 +914,175 @@
 ## Graph Theory
 
 - 48\. Rotate Image
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/48_RotateImage.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/48_RotateImage.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-image/)
 - 54\. Spiral Matrix
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/54_SpiralMatrix.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/54_SpiralMatrix.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/spiral-matrix/)
 - 113\. Path Sum II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/113_path-sum-ii.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/113_path-sum-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/path-sum-ii/)
 - 127\. Word Ladder
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/127_WordLadder.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/127_WordLadder.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/127_WordLadder.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/127_WordLadder.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-ladder/)
 - 200\. Number of Islands
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/200_NumberOfIslands.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/200_NumberOfIslands.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/200_NumberOfIslands.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/200_NumberOfIslands.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-islands/)
 - 365\. Water and Jug Problem
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/365_WaterAndJugProblem.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/365_WaterAndJugProblem.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/365_WaterAndJugProblem.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/365_WaterAndJugProblem.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/water-and-jug-problem/)
 - 399\. Evaluate Divison
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/399_EvaluateDivison.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/399_EvaluateDivison.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/evaluate-division/)
 - 417\. Pacific Atlantic Water Flow
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/417_PacificAtlanticWaterFlow.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/417_PacificAtlanticWaterFlow.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/417_PacificAtlanticWaterFlow.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/417_PacificAtlanticWaterFlow.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - 433\. Minimum Generic Mutation
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/433_MinimumGeneticMutation.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/433_MinimumGeneticMutation.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/433_MinimumGeneticMutation.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/433_MinimumGeneticMutation.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-genetic-mutation/)
 - 542\. 01 Matrix
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/542_01Matrix.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/542_01Matrix.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/542_01Matrix.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/542_01Matrix.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/01-matrix/)
 - 547\. Number of Province
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/547_NumberOfProvinces.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/547_NumberOfProvinces.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/547_NumberOfProvinces.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/547_NumberOfProvinces.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-provinces/)
 - 576\. Out of Boundary Paths
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/576_out-of-boundary-paths.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/576_out-of-boundary-paths.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/out-of-boundary-paths/)
 - 623\. Add One Row to Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/623_add-one-row-to-tree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/623_add-one-row-to-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-one-row-to-tree/)
 - 695\. Max Area of Island
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/695_MaxAreaOfIsland.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/695_MaxAreaOfIsland.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/695_MaxAreaOfIsland.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/695_MaxAreaOfIsland.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-area-of-island/)
 - 733\. Flood Fill
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/733_FloodFill.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/733_FloodFill.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/733_FloodFill.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/733_FloodFill.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flood-fill/)
 - 743\. Network Delay Time
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/743_NetworkDelayTime.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/743_NetworkDelayTime.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/network-delay-time/)
 - 752\. Open the Lock
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/752_OpenTheLock.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/752_OpenTheLock.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/752_OpenTheLock.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/752_OpenTheLock.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/open-the-lock/)
 - 785\. Is Graph Bipartite?
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/785_IsGraphBipartite.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/785_IsGraphBipartite.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/785_IsGraphBipartite.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/785_IsGraphBipartite.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/is-graph-bipartite/)
 - 797\. All Paths From Source To Target
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/797_AllPathsFromSourceToTarget.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/797_AllPathsFromSourceToTarget.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/797_AllPathsFromSourceToTarget.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/797_AllPathsFromSourceToTarget.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/all-paths-from-source-to-target/)
 - 802\. Find Eventual Safe States
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/802_FindEventualSafeStates.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/802_FindEventualSafeStates.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/802_FindEventualSafeStates.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/802_FindEventualSafeStates.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-eventual-safe-states/)
 - 841\. Keys and Rooms
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/841_KeysAndRooms.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/841_KeysAndRooms.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/841_KeysAndRooms.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/841_KeysAndRooms.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/keys-and-rooms/)
 - 847\. Shortest Path Visiting All Nodes
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/847_ShortestPathVisitingAllNodes.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/847_ShortestPathVisitingAllNodes.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/847_ShortestPathVisitingAllNodes.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/847_ShortestPathVisitingAllNodes.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-visiting-all-nodes/solution/)
 - 886\. Possible Bipartion
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/886_PossibleBipartion.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/886_PossibleBipartion.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/886_PossibleBipartion.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/886_PossibleBipartion.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/possible-bipartition/)
 - 934\. Shortest Bridge
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/934_ShortestBridge.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/934_ShortestBridge.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/934_ShortestBridge.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/934_ShortestBridge.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-bridge/)
 - 947\. Most Stones Removed with Same Row or Column
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/947_most-stones-removed-with-same-row-or-column.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/947_most-stones-removed-with-same-row-or-column.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 - 994\. Rotting Oranges
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/994_RottingOranges.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/994_RottingOranges.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/994_RottingOranges.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/994_RottingOranges.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotting-oranges/)
 - 997\. Find the Town Judge
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/997_FindTheTownJudge.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/997_FindTheTownJudge.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/997_FindTheTownJudge.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/997_FindTheTownJudge.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-town-judge/)
 - 1020\. Number of Enclaves
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1020_NumberOfEnclaves.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1020_NumberOfEnclaves.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1020_NumberOfEnclaves.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1020_NumberOfEnclaves.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-enclaves/)
 - 1091\. Shortest Path in Binary Matrix
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1091_ShortestPathInBinaryMatrix.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1091_ShortestPathInBinaryMatrix.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1091_ShortestPathInBinaryMatrix.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1091_ShortestPathInBinaryMatrix.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 - 1129\. Shortest Path with Alternating Colors
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1129_ShortestPathWithAlternatingColors.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1129_ShortestPathWithAlternatingColors.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1129_ShortestPathWithAlternatingColors.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1129_ShortestPathWithAlternatingColors.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
 - 1162\. As Far from Land as Possible
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1162_AsFarFromLandAsPossible.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1162_AsFarFromLandAsPossible.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1162_AsFarFromLandAsPossible.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1162_AsFarFromLandAsPossible.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/as-far-from-land-as-possible/)
 - 1192\. Critical Connections in a Network
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/1192_critical-connections-in-a-network.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/1192_critical-connections-in-a-network.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/critical-connections-in-a-network/)
 - 1254\. Number of Closed Islands
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1254_NumberOfClosedIslands.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1254_NumberOfClosedIslands.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1254_NumberOfClosedIslands.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1254_NumberOfClosedIslands.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-closed-islands/)
 - 1302\. Deepest Leaves Sum
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/1302_DeepestLeavesSum.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/1302_DeepestLeavesSum.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/deepest-leaves-sum/)
 - 1306\. Jump Game III
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1306_JumpGameIII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1306_JumpGameIII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1306_JumpGameIII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1306_JumpGameIII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/jump-game-iii/)
 - 1359\. Number of Operations to Make Network Connected
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1319_NumberOfOperationsToMakeNetworkConnected.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1319_NumberOfOperationsToMakeNetworkConnected.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1319_NumberOfOperationsToMakeNetworkConnected.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1319_NumberOfOperationsToMakeNetworkConnected.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 - 1376\. Time Needed to Inform All Employees
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1376_TimeNeededToInformAllEmployees.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1376_TimeNeededToInformAllEmployees.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1376_TimeNeededToInformAllEmployees.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1376_TimeNeededToInformAllEmployees.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
 - 1379\. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/1379_find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/1379_find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
 - 1457\. Pseudo-Palindromic Paths in a Binary Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/1457_pseudo-palindromic-paths-in-a-binary-tree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/1457_pseudo-palindromic-paths-in-a-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 - 1466\. Reorder Routes to Make All Paths Lead to the City Zero
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1466_ReorderRoutesToMakeAllPathsLeadToTheCityZero.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
 - 1557\. Minimum Number of Vertices to Reach All Nodes
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1557_MinimumNumberOfVerticesToReachAllNodes.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 - 1615\. Maximal Network Rank
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1615_MaximalNetworkRank.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1615_MaximalNetworkRank.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1615_MaximalNetworkRank.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1615_MaximalNetworkRank.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximal-network-rank/)
 - 1654\. Minimum Jump to Reach Home
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1654_MinimumJumpsToReachHome.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1654_MinimumJumpsToReachHome.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1654_MinimumJumpsToReachHome.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1654_MinimumJumpsToReachHome.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-jumps-to-reach-home/)
 - 1886\. Determine Whether Matrix Can Be Obtained By Rotation
-    - [LINK TO GITHUB](src/main/java/com/leetcode/GraphTheory/1886_DetermineWhetherMatrixCanBeObtainedByRotation.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/1886_DetermineWhetherMatrixCanBeObtainedByRotation.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 - 1905\. Count Sub Islands
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1905_CountSubIslands.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1905_CountSubIslands.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1905_CountSubIslands.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1905_CountSubIslands.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-sub-islands/)
 - 1926\. Nearest Exit from Entrance in Maze
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/GraphTheory/1926_NearestExitFromEntranceInMaze.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/GraphTheory/1926_NearestExitFromEntranceInMaze.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1926_NearestExitFromEntranceInMaze.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1926_NearestExitFromEntranceInMaze.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 
 ----
@@ -1087,67 +1091,67 @@
 ## Math
 
 - 29\. Divide Two Integers
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/29_divide-two-integers.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/29_divide-two-integers.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/divide-two-integers/)
 - 32\. Path With Minimum Effort
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/32_PathWithMinimumEffort.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/32_PathWithMinimumEffort.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/path-with-minimum-effort/)
 - 149\. Max Points on a Line
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/149_MaxPointsOnALine.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/149_MaxPointsOnALine.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-points-on-a-line/)
 - 223\. Rectangle Area
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/223_rectangle-area.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/223_rectangle-area.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rectangle-area/)
 - 231\. Power of Two
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Math/231_PowerOfTwo.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Math/231_PowerOfTwo.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Math/231_PowerOfTwo.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Math/231_PowerOfTwo.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-two/)
 - 263\. Ugly Number
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/263_ugly-number.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/263_ugly-number.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ugly-number/)
 - 268\. Missing Number
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/268_missing-number.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/268_missing-number.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/missing-number/)
 - 326\. Power of Three
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/326_power-of-three.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/326_power-of-three.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-three/)
 - 342\. Power of Four
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/342_power-of-four.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/342_power-of-four.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/power-of-four/)
 - 409\. Longest Palindrome
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Math/409_LongestPalindrome.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Math/409_LongestPalindrome.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Math/409_LongestPalindrome.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Math/409_LongestPalindrome.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-palindrome/)
 - 415\. Add Strings
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/415_AddStrings.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/415_AddStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-strings/)
 - 633\. Sum of Square Numbers
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Math/633_SumOfSquareNumbers.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Math/633_SumOfSquareNumbers.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Math/633_SumOfSquareNumbers.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Math/633_SumOfSquareNumbers.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-square-numbers/)
 - 858\. Mirror Reflection
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/858_mirror-reflection.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/858_mirror-reflection.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/mirror-reflection/)
 - 869\. Reordered Power of 2
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/869_reordered-power-of-2.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/869_reordered-power-of-2.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reordered-power-of-2/)
 - 910\. Smallest Range II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/910_SmallestRangeII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/910_SmallestRangeII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-range-ii/)
 - 973\. K Closest Pointrs to Origin
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/973_KClosestPointsToOrigin.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/973_KClosestPointsToOrigin.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/k-closest-points-to-origin/)
 - 1323\. Maximum 69 Number
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/1323_maximum-69-number.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/1323_maximum-69-number.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-69-number/)
 - 1342\. Number of Steps to Reduce a Number to Zero
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/1342_number-of-steps-to-reduce-a-number-to-zero.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/1342_number-of-steps-to-reduce-a-number-to-zero.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - 1584\. Min Cost to Connect All Points
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/1584_MinCostToConnectAllPoints.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/1584_MinCostToConnectAllPoints.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 - 1680\. Concatenation of Consecutive Binary Numbers
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Math/1680_concatenation-of-consecutive-binary-numbers.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/1680_concatenation-of-consecutive-binary-numbers.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
 
 ----
@@ -1156,103 +1160,103 @@
 ## SQL
 
 - 175\. Combine Two Tables
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/175_CombineTwoTables.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/175_CombineTwoTables.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/combine-two-tables/)
 - 176\. Second Highest Salary
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/176_SecondHighestSalary.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/176_SecondHighestSalary.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/second-highest-salary/)
 - 182\. Duplicate Emails
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/182_DuplicateEmails.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/182_DuplicateEmails.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/duplicate-emails/)
 - 183\. Customers Who Never Order
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/183_CustomersWhoNeverOrder.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/183_CustomersWhoNeverOrder.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/customers-who-never-order/)
 - 196\. Delete Duplicate Emails
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/196_DeleteDuplicateEmails.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/196_DeleteDuplicateEmails.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-duplicate-emails/)
 - 197\. Rising Temperature
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/197_RisingTemperature.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/197_RisingTemperature.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rising-temperature/)
 - 511\. Game Play Analysis I
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/511_GamePlayAnalysisI.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/511_GamePlayAnalysisI.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/game-play-analysis-i/)
 - 584\. Find Customer Referee
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/584_FindCustomerReferee.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/584_FindCustomerReferee.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-customer-referee/submissions/)
 - 586\. Customer Placing the Largest Number of Orders
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/586_CustomerPlacingTheLargestNumberOfOrders.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/586_CustomerPlacingTheLargestNumberOfOrders.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)
 - 595\. Big Countries
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/595_BigCountries.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/595_BigCountries.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/big-countries/)
 - 607\. Sales Person
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/607_SalesPerson.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/607_SalesPerson.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sales-person/)
 - 608\. Tree Node
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/608_TreeNode.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/608_TreeNode.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/tree-node/)
 - 627\. Swap Salary
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/627_SwapSalary.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/627_SwapSalary.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swap-salary/)
 - 1050\. Actors and Directors Who Cooperated At Least Three Times
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1050_ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1050_ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)
 - 1084\. Sales Analysis III
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1084_SalesAnalysisIII.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1084_SalesAnalysisIII.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sales-analysis-iii/)
 - 1141\. User Activity for the Past 30 Days I
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1141_UserActivityForThePast30DaysI.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1141_UserActivityForThePast30DaysI.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)
 - 1148\. Article Views I
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1148_ArticleViewI.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1148_ArticleViewI.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/article-views-i/)
 - 1158\. Market Analysis I
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1158_MarketAnalysisI.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1158_MarketAnalysisI.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/market-analysis-i/)
 - 1393\. Capital GainLoss
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1393_CapitalGainLoss.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1393_CapitalGainLoss.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/capital-gainloss/)
 - 1407\. Top Trabellers
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1407_TopTravellers.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1407_TopTravellers.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/top-travellers/)
 - 1484\. Group Sold Products By The Date
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1484_GroupSoldProductsByTheDate.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1484_GroupSoldProductsByTheDate.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/group-sold-products-by-the-date/)
 - 1527\. Patients With a Condition
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1527_PatientsWithACondition.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1527_PatientsWithACondition.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/patients-with-a-condition/)
 - 1581\. Customer Who Visited but Did Not Make Any Transactions
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1581_CustomerWhoVisitedButDidNotMakeAnyTransactions.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1581_CustomerWhoVisitedButDidNotMakeAnyTransactions.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)
 - 1587\. Bank Account Summray II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1587_BankAccountSummaryII.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1587_BankAccountSummaryII.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/bank-account-summary-ii/)
 - 1667\. Fix Names in a Table
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1667_FixNamesInATable.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1667_FixNamesInATable.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/fix-names-in-a-table/)
 - 1693\. Daily Leads and Partners
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1693_DailyLeadsAndPartners.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1693_DailyLeadsAndPartners.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/daily-leads-and-partners/)
 - 1729\. Find Followers Count
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1729_FindFollowersCount.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1729_FindFollowersCount.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-followers-count/)
 - 1741\. Find Total Time Spend by Each Employee
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1741_FindTotalTimeSpentByEachEmployee.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1741_FindTotalTimeSpentByEachEmployee.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
 - 1757\. Recyclable and Low Fat Products
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1757_RecyclableAndLowFatProducts.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1757_RecyclableAndLowFatProducts.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/)
 - 1795\. Rearrange Products Table
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1795_RearrangeProductsTable.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1795_RearrangeProductsTable.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rearrange-products-table/)
 - 1873\. Calculate Special Bonus
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1873_CalculateSpecialBonus.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1873_CalculateSpecialBonus.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/calculate-special-bonus/)
 - 1890\. The Latest Login in 2020
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1890_TheLatestLoginIn2020.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1890_TheLatestLoginIn2020.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/the-latest-login-in-2020/)
 - 1965\. Employees With Missing Information
-    - [LINK TO GITHUB](src/main/java/com/leetcode/SQL/1965_EmployeesWithMissingInformation.sql)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/SQL/1965_EmployeesWithMissingInformation.sql)
     - [LINK TO LEETCODE](https://leetcode.com/problems/employees-with-missing-information/)
 
 ----
@@ -1261,28 +1265,28 @@
 ## Function
 
 - 46\. Permutations
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Function/46_Permutations.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Function/46_Permutations.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Function/46_Permutations.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Function/46_Permutations.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/permutations/)
 - 77\. Combinations
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Function/77_Combinations.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Function/77_Combinations.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Function/77_Combinations.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Function/77_Combinations.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/combinations/)
 - 496\. Next Greater Element I
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Function/496_NextGreaterElementFirst.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Function/496_NextGreaterElementFirst.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Function/496_NextGreaterElementFirst.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Function/496_NextGreaterElementFirst.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-i/submissions/)
 - 589\. N-ary Tree Preorder Traversal
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Function/589_N-aryTreePreorderTraversal.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Function/589_N-aryTreePreorderTraversal.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Function/589_N-aryTreePreorderTraversal.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Function/589_N-aryTreePreorderTraversal.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-ary-tree-preorder-traversal/submissions/)
 - 784\. Letter Case Permutation
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Function/784_LetterCasePermutation.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Function/784_LetterCasePermutation.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Function/784_LetterCasePermutation.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Function/784_LetterCasePermutation.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/letter-case-permutation/)
 - 1232\. Check if It is a straight Line
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Function/1232_CheckIfItIsAStraightLine.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Function/1232_CheckIfItIsAStraightLine.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Function/1232_CheckIfItIsAStraightLine.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Function/1232_CheckIfItIsAStraightLine.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 
 ----
@@ -1291,216 +1295,216 @@
 ## Linked List and Tree
 
 - 2\. Add Two Numbers
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/2_AddTwoNumebers.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/2_AddTwoNumebers.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-two-numbers/)
 - 19\. Remove Nth Node From End of List
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/19_remove-nth-node-from-end-of-list.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/19_remove-nth-node-from-end-of-list.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/19_remove-nth-node-from-end-of-list.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/19_remove-nth-node-from-end-of-list.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - 21\. Merge Two Sorted Lists
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/21_MergeTwoSortedLists.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/21_MergeTwoSortedLists.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/21_MergeTwoSortedLists.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/21_MergeTwoSortedLists.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-sorted-lists/)
 - 24\. Swap Nodes in Pairs
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/24_SwapNodesInPairs.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/24_SwapNodesInPairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - 25\. Reverse Nodes in k-Group
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/25_ReverseNodesInKGroup.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/25_ReverseNodesInKGroup.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - 61\. Rotate List
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/61_RotateList.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/61_RotateList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-list/)
 - 83\. Remove Duplicates from Sorted List
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/83_RemoveDuplicatedFromSortedList.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/83_RemoveDuplicatedFromSortedList.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/83_RemoveDuplicatedFromSortedList.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/83_RemoveDuplicatedFromSortedList.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - 94\. Binary Tree Inorder Traversal
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/94_BinaryTreeInorderTraversal.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/94_BinaryTreeInorderTraversal.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/94_BinaryTreeInorderTraversal.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/94_BinaryTreeInorderTraversal.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - 98\. Validate Binary Search Tree
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/98_ValidateBinarySearchTree.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/98_ValidateBinarySearchTree.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/98_ValidateBinarySearchTree.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/98_ValidateBinarySearchTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/validate-binary-search-tree/)
 - 99\. Recover Binary Search Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/99_RecoverBinarySearchTree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/99_RecoverBinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/recover-binary-search-tree/)
 - 101\. Symmetric Tree
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/101_SymmetricTree.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/101_SymmetricTree.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/101_SymmetricTree.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/101_SymmetricTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/symmetric-tree/)
 - 102\. Binary Tree Level Order Traversal
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/102_BinaryTreeLevelOrderTraversal.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/102_BinaryTreeLevelOrderTraversal.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/102_BinaryTreeLevelOrderTraversal.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/102_BinaryTreeLevelOrderTraversal.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - 103\. Binary Tree Zigzag Level Order Traversal
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/103_BinaryTreeZigzagLevelOrderTraversal.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/103_BinaryTreeZigzagLevelOrderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - 104\. Maximum Depth of Binary Tree
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/104_MaximumDepthOfBinaryTree.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/104_MaximumDepthOfBinaryTree.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/104_MaximumDepthOfBinaryTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - 105\. Construct Binary Tree from Preorder and Inorder Travesal
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - 108\. Convert Sorted Array to Binary Search Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/108_ConvertSortedArrayToBinarySearchTree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/108_ConvertSortedArrayToBinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - 110\. Balanced Binary Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/110_BalancedBinaryTree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/110_BalancedBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/balanced-binary-tree/)
 - 112\. Path Sum
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/112_PathSum.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/112_PathSum.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/112_PathSum.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/112_PathSum.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/path-sum/)
 - 113\. Path Sum II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/113_PathSumII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/113_PathSumII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/path-sum-ii/)
 - 114\. Flatten Binary Tree to Linked List
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/114_flatten-binary-tree-to-linked-list.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/114_flatten-binary-tree-to-linked-list.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 - 116\. Populating Next Right Pointers in Each Node
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/116_PopulatingNextRightPointersInEachNode.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/116_PopulatingNextRightPointersInEachNode.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/116_PopulatingNextRightPointersInEachNode.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/116_PopulatingNextRightPointersInEachNode.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 - 117\. Populating Next Right Pointers in Each Node II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/117_PopulatingNextRightPointersInEachNodeII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/117_PopulatingNextRightPointersInEachNodeII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 - 138\. Copy List with Random Pointer
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/138_CopyListWithRandomPointer.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/138_CopyListWithRandomPointer.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/copy-list-with-random-pointer/)
 - 141\. Linked List Cycle
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/141_LinkedListCycle.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/141_LinkedListCycle.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/141_LinkedListCycle.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/141_LinkedListCycle.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-cycle/)
 - 142\. Linked List Cycle II
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/142_LinkedListCycleII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/142_LinkedListCycleII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/142_LinkedListCycleII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/142_LinkedListCycleII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-cycle-ii/)
 - 143\. Reorder List
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/143_ReorderList.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/143_ReorderList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reorder-list/)
 - 144\. Binary Tree Preorder Traversal
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/144_BinaryTreePreorderTraversal.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/144_BinaryTreePreorderTraversal.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/144_BinaryTreePreorderTraversal.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/144_BinaryTreePreorderTraversal.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - 145\. Binary Tree Postorder Traversal
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/145_BinaryTreePostorderTraversal.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/145_BinaryTreePostorderTraversal.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/145_BinaryTreePostorderTraversal.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/145_BinaryTreePostorderTraversal.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - 160\. Intersection of Two Linked Lists
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/160_IntersectionOfTwoLinkedLists.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/160_IntersectionOfTwoLinkedLists.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - 199\. Binary Tree Right Side View
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/199_BinaryTreeRightSideView.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/199_BinaryTreeRightSideView.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-right-side-view/)
 - 203\. Remove Linked List Elements
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/203_RemoveLinkedListElements.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/203_RemoveLinkedListElements.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/203_RemoveLinkedListElements.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/203_RemoveLinkedListElements.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-linked-list-elements/)
 - 206\. Reverse Linked List
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/206_ReverseLinkedList.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/206_ReverseLinkedList.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/206_ReverseLinkedList.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/206_ReverseLinkedList.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-linked-list/)
 - 222\. Count Complete Tree Nodes
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/222_CountCompleteTreeNodes.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/222_CountCompleteTreeNodes.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/222_CountCompleteTreeNodes.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/222_CountCompleteTreeNodes.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-complete-tree-nodes/)
 - 226\. Invert Binary Tree
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/226_InvertBinaryTree.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/226_InvertBinaryTree.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/226_InvertBinaryTree.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/226_InvertBinaryTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/invert-binary-tree/)
 - 230\. Kth Smallest Element in a BST
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/230_KthSmallestElementInABST.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/230_KthSmallestElementInABST.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - 235\. Lowest Common Ancestor of a Binary Search Tree
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/235_LowestCommonAncestorOfABinarySearchTree.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/235_LowestCommonAncestorOfABinarySearchTree.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/235_LowestCommonAncestorOfABinarySearchTree.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/235_LowestCommonAncestorOfABinarySearchTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - 236\. Lowest Common Ancestor of a Binary Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/236_LowestCommonAncestorOfABinaryTree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/236_LowestCommonAncestorOfABinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - 237\. Delete Node in a Linked List
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/237_delete-node-in-a-linked-list.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/237_delete-node-in-a-linked-list.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 - 297\. Serialize and Desirialize Binary Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/297_SerializeAndDesirializeBinaryTree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/297_SerializeAndDesirializeBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - 404\. Sum of Left Leaves
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/404_SumOfLeftLeaves.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/404_SumOfLeftLeaves.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-left-leaves/)
 - 429\. N-ary Tree Level Order Traversal
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/429_NaryTreeLevelOrderTraversal.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/429_NaryTreeLevelOrderTraversal.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
 - 445\. Add Two Numbers II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/445_AddTwoNumbersII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/445_AddTwoNumbersII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-two-numbers-ii/)
 - 450\. Delete Node in a BST
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/450_DeleteNodeInABST.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/450_DeleteNodeInABST.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-node-in-a-bst/)
 - 538\. Convert BST to Greater Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/538_ConvertBSTToGreaterTreea.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/538_ConvertBSTToGreaterTreea.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 - 572\. Subtree of Another Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/572_SubtreeOfAnotherTree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/572_SubtreeOfAnotherTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subtree-of-another-tree/)
 - 617\. Merge Two Binary Trees
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/617_MergeTwoBinaryTrees.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/617_MergeTwoBinaryTrees.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/617_MergeTwoBinaryTrees.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/617_MergeTwoBinaryTrees.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-two-binary-trees/)
 - 637\. Average of Levels in Binary Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/637_average-of-levels-in-binary-tree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/637_average-of-levels-in-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - 653\. Two Sum IV - Input is a BST
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/653_TwoSumIV_InputIsABST.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/653_TwoSumIV_InputIsABST.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/653_TwoSumIV_InputIsABST.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/653_TwoSumIV_InputIsABST.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 - 606\. Construct String from Binary Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/606_construct-string-from-binary-tree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/606_construct-string-from-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/construct-string-from-binary-tree/)
 - 669\. Trim a Binary Search Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/669_TrimABinarySearchTree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/669_TrimABinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/trim-a-binary-search-tree/)
 - 700\. Search in a Binary Search Tree
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/700_SearchInABinarySearchTree.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/700_SearchInABinarySearchTree.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/700_SearchInABinarySearchTree.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/700_SearchInABinarySearchTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - 701\. Insert Into a Binary Search Tree
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/701_InsertIntoABinarySearchTree.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/701_InsertIntoABinarySearchTree.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/701_InsertIntoABinarySearchTree.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/701_InsertIntoABinarySearchTree.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 - 814\. Binary Tree Pruning
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/814_binary-tree-pruning.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/814_binary-tree-pruning.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-pruning/)
 - 876\. Middle of the Linked List
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/876_MiddleOfTheLinkedList.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/876_MiddleOfTheLinkedList.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/876_MiddleOfTheLinkedList.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/876_MiddleOfTheLinkedList.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
 - 897\. Increasing Order Search Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/897_IncreasingOrderSearchTree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/897_IncreasingOrderSearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/increasing-order-search-tree/)
 - 987\. Vertical Order Traversal of a Binary Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/987_vertical-order-traversal-of-a-binary-tree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/987_vertical-order-traversal-of-a-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 - 1290\. Convert Binary Number in a Linked List of Integer
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 - 1367\. Linked List in Binary Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/1367_LinkedListInBinaryTree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1367_LinkedListInBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-in-binary-tree/)
 - 1448\. Count Good Nodes in Binary Tree
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/1448_count-good-nodes-in-binary-tree.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1448_count-good-nodes-in-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 - 1731\. Swapping Nodes in a Linked List
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/1731_SwappingNodesInALinkedList.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1731_SwappingNodesInALinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 - 1823\. Find the Winner of the Circular Game
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/1823_FindTheWinnerOfTheCicularGame.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1823_FindTheWinnerOfTheCicularGame.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 - 2095\. Delete the Middle Node of a Linked List
-    - [LINK TO GITHUB](src/main/java/com/leetcode/LinkedListAndTree/2095_delete-the-middle-node-of-a-linked-list.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/2095_delete-the-middle-node-of-a-linked-list.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
 ----
@@ -1509,20 +1513,20 @@
 ## Loop
 
 - 202\. Happy Number
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Loop/202_HappyNumber.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Loop/202_HappyNumber.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Loop/202_HappyNumber.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Loop/202_HappyNumber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/happy-number/submissions/)
 - 1502\. Can Make Arithmetic Progression From Sequence
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Loop/1502_CanMakeArithmeticProgressionFromSequence.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Loop/1502_CanMakeArithmeticProgressionFromSequence.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Loop/1502_CanMakeArithmeticProgressionFromSequence.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Loop/1502_CanMakeArithmeticProgressionFromSequence.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - 1790\. Check if One String Swap Can Make Strings Equal
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Loop/1790_CheckIfOneStringSwapCanMakeStringsEqual.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Loop/1790_CheckIfOneStringSwapCanMakeStringsEqual.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Loop/1790_CheckIfOneStringSwapCanMakeStringsEqual.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Loop/1790_CheckIfOneStringSwapCanMakeStringsEqual.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)
 - 1822\. Sign of the Product of an Array
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Loop/1822_SignOfTheProductOfAnArray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Loop/1822_SignOfTheProductOfAnArray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Loop/1822_SignOfTheProductOfAnArray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Loop/1822_SignOfTheProductOfAnArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/)
 
 ----
@@ -1531,16 +1535,16 @@
 ## Operator
 
 - 190\. Reverse Bits
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Operator/190_ReverseBits.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Operator/190_ReverseBits.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Operator/190_ReverseBits.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Operator/190_ReverseBits.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-bits/)
 - 191\. Number of 1 Bits
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Operator/191_NumberOf1Bit.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Operator/191_NumberOf1Bit.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Operator/191_NumberOf1Bit.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Operator/191_NumberOf1Bit.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-1-bits/)
 - 1281\. Subtract the Product and Sum of Digits of an Integer
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Operator/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Operator/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Operator/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Operator/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
 ----
@@ -1549,174 +1553,174 @@
 ## Strings
 
 - 3\. Longest Substring Without Repeating Characters
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/3_LongestSubstringWithoutRepeatingCharacters.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/3_LongestSubstringWithoutRepeatingCharacters.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/3_LongestSubstringWithoutRepeatingCharacters.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/3_LongestSubstringWithoutRepeatingCharacters.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - 12\. Integer to Roman
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/12_integer-to-roman.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/12_integer-to-roman.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/integer-to-roman/)
 - 13\. Roman to Integer
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/13_roman-to-integer.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/13_roman-to-integer.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/roman-to-integer/)
 - 17\. Letter Combinations of a Phone Number
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/17_LetterCombinationsOfAPhoneNumber.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/17_LetterCombinationsOfAPhoneNumber.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - 22\. Generate Parentheses
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/22_GenerateParentheses.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/22_GenerateParentheses.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/generate-parentheses/)
 - 28\. Implement strStr()
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/28_ImplementStrStr.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/28_ImplementStrStr.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/implement-strstr/)
 - 30\. Substring with Concatenation of All Words
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/30_substring-with-concatenation-of-all-words.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/30_substring-with-concatenation-of-all-words.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - 38\. Count and Say
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/38_count-and-say.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/38_count-and-say.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-and-say/)
 - 43\. Multiply Strings
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/43_MultiplyStrings.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/43_MultiplyStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/multiply-strings/)
 - 49\. Group Anagrams
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/49_GroupAnagrams.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/49_GroupAnagrams.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/group-anagrams/)
 - 56\. Length of Last Word
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/58_LenghtOfLastWord.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/58_LenghtOfLastWord.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/length-of-last-word/)
 - 67\. Add Binary
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/67_AddBinary.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/67_AddBinary.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/add-binary/)
 - 76\. Minimum Window Substring
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/76_minimum-window-substring.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/76_minimum-window-substring.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-window-substring/)
 - 79\. Word Search
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/79_WordSearch.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/79_WordSearch.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/79_WordSearch.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/79_WordSearch.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-search/)
 - 91\. Decode Ways
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/91_decode-ways.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/91_decode-ways.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/91_decode-ways.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/91_decode-ways.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decode-ways/)
 - 97\. Interleaving String
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/97_interleaving-string.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/97_interleaving-string.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/interleaving-string/)
 - 126\. Word Ladder II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/126_word-ladder-ii.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/126_word-ladder-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-ladder-ii/)
 - 151\. Reverse Words in a String
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/151_reverse-words-in-a-string.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/151_reverse-words-in-a-string.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-words-in-a-string/)
 - 201\. Bitwise AND of Numbers Range
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/201_BitwiseAndOfNumbersRange.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/201_BitwiseAndOfNumbersRange.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 - 205\. Isomorphic Strings
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/205_isomorphic-strings.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/205_isomorphic-strings.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/isomorphic-strings/)
 - 290\. Word Pattern
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/290_WordPattern.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/290_WordPattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-pattern/)
 - 299\. Bulls and Cows
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/299_bulls-and-cows.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/299_bulls-and-cows.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/bulls-and-cows/)
 - 383\. Ransom Note
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/383_RansomNote.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/383_RansomNote.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/383_RansomNote.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/383_RansomNote.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ransom-note/)
 - 387\. First Unique Character in a String
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/387_FirstUniqueCharacterInAString.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/387_FirstUniqueCharacterInAString.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/387_FirstUniqueCharacterInAString.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/387_FirstUniqueCharacterInAString.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - 389\. Find the Difference
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/389_FindTheDifference.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/389_FindTheDifference.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/389_FindTheDifference.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/389_FindTheDifference.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-the-difference/)
 - 394\. Decode String
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/394_decode-string.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/394_decode-string.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decode-string/)
 - 424\. Longest Repeating Character Replacement
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/424_longest-repeating-character-replacement.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/424_longest-repeating-character-replacement.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - 438\. Find All Anagrams in a String
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/438_FindAllAnagramsInAString.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/438_FindAllAnagramsInAString.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/438_FindAllAnagramsInAString.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/438_FindAllAnagramsInAString.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - 451\. Sort Characters By Frequency
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/451_SortCharactersByFrequency.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/451_SortCharactersByFrequency.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-characters-by-frequency/)
 - 459\. Repeated Substring Pattern
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/459_RepeatedSubstringPattern.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/459_RepeatedSubstringPattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/repeated-substring-pattern/)
 - 567\. Permutation in String
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/567_PermutationInString.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/567_PermutationInString.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/567_PermutationInString.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/567_PermutationInString.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/permutation-in-string/)
 - 692\. Top K Frequent Words
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/692_top-k-frequent-words.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/692_top-k-frequent-words.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/692_top-k-frequent-words.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/692_top-k-frequent-words.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/top-k-frequent-words/)
 - 709\. To Lower case
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/709_ToLowerCase.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/709_ToLowerCase.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/709_ToLowerCase.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/709_ToLowerCase.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/to-lower-case/)
 - 745\. Prefix and Suffix Search
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/745_prefix-and-suffix-search.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/745_prefix-and-suffix-search.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/prefix-and-suffix-search/)
 - 763\. Partion Labels
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/763_PartitionLabels.ipynb)
-    - [LINK TO LEETCODE](https://leetcode.com/problems/partition-labels/)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/763_PartitionLabels.ipynb)
+    - [LINK TO LEETCODE](https://leetc15ode.com/problems/partition-labels/)
 - 792\. Number of Matching Subsequences
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/792_number-of-matching-subsequences.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/792_number-of-matching-subsequences.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-matching-subsequences/)
 - 936\. Stamping The Sequence
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/936_stamping-the-sequence.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/936_stamping-the-sequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/stamping-the-sequence/)
 - 953\. Verifying an Alien Dictionary
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/953_VerifyingAnAlienDictionary.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/953_VerifyingAnAlienDictionary.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/953_VerifyingAnAlienDictionary.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/953_VerifyingAnAlienDictionary.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 - 1047\. Remove All Adjacent Duplicates In String
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1047_remove-all-adjacent-duplicates-in-string.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1047_remove-all-adjacent-duplicates-in-string.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - 1202\. Smallest String With Swaps
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1202_SmallestStringWithSwaps.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1202_SmallestStringWithSwaps.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-string-with-swaps/)
 - 1209\. Remove All Adjacent Duplicates in String II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1209_RemoveAllAdjacentDuplicatesInStringII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1209_RemoveAllAdjacentDuplicatesInStringII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 - 1249\. Minimum Remove to Make Valid Parentheses
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1249_MinimumRemoveToMakeValidParentheses.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1249_MinimumRemoveToMakeValidParentheses.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 - 1309\. Decrypt String From Alphabet to Integer Mapping
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/1309_DecryptStringsFromAlhabetToIntegerMapping.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/1309_DecryptStringsFromAlhabetToIntegerMapping.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/1309_DecryptStringsFromAlhabetToIntegerMapping.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/1309_DecryptStringsFromAlhabetToIntegerMapping.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 - 1328\. Break a Palindrome
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1328_break-a-palindrome.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1328_break-a-palindrome.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/break-a-palindrome/)
 - 1461\. Check If a String Contains All Binary Codes of Size K
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1461_check-if-a-string-contains-all-binary-codes-of-size-k.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1461_check-if-a-string-contains-all-binary-codes-of-size-k.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 - 1531\. String Compression II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1531_string-compression-ii.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1531_string-compression-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/string-compression-ii/)
 - 1544\. Make The String Great
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1544_make-the-string-great.java)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1544_make-the-string-great.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/make-the-string-great/)
 - 1647\. Minimum Deletions to Make Character Frequencies Unique
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1647_minimum-deletions-to-make-character-frequencies-unique.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1647_minimum-deletions-to-make-character-frequencies-unique.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 - 1678\. Goal Parser Interpretation
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/1678_GoalParserInterpretation.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/1678_GoalParserInterpretation.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/1678_GoalParserInterpretation.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/1678_GoalParserInterpretation.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/goal-parser-interpretation/)
 - 1689\. Partitioning Into Minimum Number of Deci-Binary Numbers
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1689_partitioning-into-minimum-number-of-deci-binary-numbers.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1689_partitioning-into-minimum-number-of-deci-binary-numbers.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
 - 1768\. Merge Strings Alternately
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/Strings/1768_MergeStringsAlternately.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/Strings/1768_MergeStringsAlternately.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/1768_MergeStringsAlternately.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/1768_MergeStringsAlternately.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-strings-alternately/)
 - 1832\. Check if the Sentence Is Pangram
-    - [LINK TO GITHUB](src/main/java/com/leetcode/Strings/1832_check-if-the-sentence-is-pangram.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1832_check-if-the-sentence-is-pangram.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 
 ----
@@ -1725,81 +1729,81 @@
 ## Two Pointers problems
 
 - 11\. Container With Most Water
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/11_ContainerWithMostWater.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/11_ContainerWithMostWater.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/container-with-most-water/)
 - 19\. Remove Nth Node Fromt End of List
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/19_RemoveNthNodeFromTheList)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/19_RemoveNthNodeFromTheList)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/)
 - 75\. Sort Colors
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/75_SortColors.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/75_SortColors.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-colors/)
 - 82\. Remove Duplicates from Sorted List II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/82_RemoveDuplicatesFromSortedListII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/82_RemoveDuplicatesFromSortedListII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - 86\. Partition List
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/86_partition-list.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/86_partition-list.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/partition-list/)
 - 167\. Two Sum II
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/TwoPointers/167_TwoSumII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/TwoPointers/167_TwoSumII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/TwoPointers/167_TwoSumII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/TwoPointers/167_TwoSumII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - 189\. Rotate Array
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/TwoPointers/189_RotateArray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/TwoPointers/189_RotateArray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/TwoPointers/189_RotateArray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/TwoPointers/189_RotateArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/rotate-array/)
 - 234\. Palindrome Linked List
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/234_palindrome-linked-list.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/234_palindrome-linked-list.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/palindrome-linked-list/)
 - 344\. Reverse String
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/TwoPointers/344_ReverseString.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/TwoPointers/344_ReverseString.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/TwoPointers/344_ReverseString.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/TwoPointers/344_ReverseString.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-string/)
 - 556\. Next Greater Element III
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/553_NextGreaterElementIII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/553_NextGreaterElementIII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-iii/)
 - 557\. Reverse Words in a String III
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/TwoPointers/557_ReverseWordsInAStringIII.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/TwoPointers/557_ReverseWordsInAStringIII.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/TwoPointers/557_ReverseWordsInAStringIII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/TwoPointers/557_ReverseWordsInAStringIII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - 680\. Valid Palindrome II
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/680_ValidPalindromII.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/680_ValidPalindromII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-palindrome-ii/)
 - 838\. Push Dominoes
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/838_push-dominoes.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/838_push-dominoes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/push-dominoes/)
 - 844\. Backspace String Compare
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/TwoPointers/844_BackspaceStringCompare.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/TwoPointers/844_BackspaceStringCompare.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/TwoPointers/844_BackspaceStringCompare.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/TwoPointers/844_BackspaceStringCompare.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/backspace-string-compare/)
 - 876\. Middle of the Linked List
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/TwoPointers/876_MiddleOfTheLinkedList.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/TwoPointers/876_MiddleOfTheLinkedList.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/TwoPointers/876_MiddleOfTheLinkedList.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/TwoPointers/876_MiddleOfTheLinkedList.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/)
 - 905\. Sort Array By Parity
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/905_SortArrayByParity.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/905_SortArrayByParity.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-array-by-parity/)
 - 923\. 3Sum With Multiplicity
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/923_3SumWithMultiplicity.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/923_3SumWithMultiplicity.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/3sum-with-multiplicity/)
 - 977\. Squares of a Sorted Array
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/TwoPointers/977_SquaresOfASortedArray.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/TwoPointers/977_SquaresOfASortedArray.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/TwoPointers/977_SquaresOfASortedArray.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/TwoPointers/977_SquaresOfASortedArray.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - 986\. Interval List Intersection
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/986_IntervalListIntersection.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/986_IntervalListIntersection.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/interval-list-intersections/)
 - 1332\. Remove Palindromic Subsequences
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/1332_remove-palindromic-subsequences.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/1332_remove-palindromic-subsequences.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-palindromic-subsequences/)
 - 1679\. Max Number of K-Sum Pairs
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/1679_MaxNumberOfKSumPairs.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/1679_MaxNumberOfKSumPairs.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 - 1712\. Ways to Split Array Into Three Subarrays
-    - [LINK TO GITHUB](src/main/java/com/leetcode/TwoPointers/1712_WaysToSplitArrayIntoThreeSubarrays.ipynb)
+    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/1712_WaysToSplitArrayIntoThreeSubarrays.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
 - 1855\. Maximum Distance Between a Pair of Values
-    - [LINK TO GITHUB: IPYNB](src/main/java/com/leetcode/TwoPointers/1855_MaximumDistanceBetweenAPairOfValues.ipynb)
-    - [LINK TO GITHUB: JAVA](src/main/java/com/leetcode/TwoPointers/1855_MaximumDistanceBetweenAPairOfValues.java)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/TwoPointers/1855_MaximumDistanceBetweenAPairOfValues.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/TwoPointers/1855_MaximumDistanceBetweenAPairOfValues.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)
 
 ----
