@@ -283,6 +283,10 @@
 - 1074\. Number of Submatrices That Sum to Target
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1074_number-of-submatrices-that-sum-to-target.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+- 1207\. Unique Number of Occurrences
+    - [LINK TO GITHUB: KOTLIN](src/main/app/com/leetcode/Array/1207_unique-number-of-occurrences.kt)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/1207_unique-number-of-occurrences.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/unique-number-of-occurrences/)
 - 1235\. Maximum Profit in Job Scheduling
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1235_maximum-profit-in-job-scheduling.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
