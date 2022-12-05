@@ -185,6 +185,10 @@
 - 503\. Next Greater Element II
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/503_NextGreaterElementII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-ii/)
+- 523\. Continuous Subarray Sum
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/503_continuous-subarray-sum.java)
+    - [LINK TO GITHUB: KOTLIN](src/main/app/com/leetcode/Array/503_continuous-subarray-sum.kt)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/continuous-subarray-sum/)
 - 560\. Subarray Sum Equals K
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/560_SubarraySumEqualsK.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/)
@@ -237,6 +241,9 @@
 - 823\. Binary Trees With Factors
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/823_binary-trees-with-factors.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-trees-with-factors/)
+- 835\. Image Overlap
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/835_image-overlap.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/image-overlap/)
 - 860\. Lemonade Change
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/860_LemonadeChange.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/lemonade-change/)
@@ -1585,7 +1592,9 @@
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/43_MultiplyStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/multiply-strings/)
 - 49\. Group Anagrams
-    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/49_GroupAnagrams.ipynb)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/49_GroupAnagrams.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/49_GroupAnagrams.java)
+    - [LINK TO GITHUB: KOTLIN](src/main/app/com/leetcode/Strings/49_GroupAnagrams.kt)
     - [LINK TO LEETCODE](https://leetcode.com/problems/group-anagrams/)
 - 56\. Length of Last Word
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/58_LenghtOfLastWord.ipynb)
