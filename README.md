@@ -1441,6 +1441,9 @@
 - 297\. Serialize and Desirialize Binary Tree
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/297_SerializeAndDesirializeBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- 328\. Odd Even Linked List
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/328_odd-even-linked-list.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/odd-even-linked-list/)
 - 404\. Sum of Left Leaves
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/404_SumOfLeftLeaves.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/404_SumOfLeftLeaves.java)
