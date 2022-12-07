@@ -1498,6 +1498,9 @@
 - 897\. Increasing Order Search Tree
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/897_IncreasingOrderSearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/increasing-order-search-tree/)
+- 938\. Range Sum of BST
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/938_range-sum-of-bst.kt)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/range-sum-of-bst/description/)
 - 987\. Vertical Order Traversal of a Binary Tree
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/987_vertical-order-traversal-of-a-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
