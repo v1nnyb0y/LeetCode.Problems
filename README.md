@@ -1491,6 +1491,9 @@
 - 814\. Binary Tree Pruning
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/814_binary-tree-pruning.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-pruning/)
+- 872\. Leaf-Similar Trees
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/872_leaf-similar-trees.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/leaf-similar-trees/description/)
 - 876\. Middle of the Linked List
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/876_MiddleOfTheLinkedList.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/876_MiddleOfTheLinkedList.java)
