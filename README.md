@@ -1507,6 +1507,9 @@
 - 987\. Vertical Order Traversal of a Binary Tree
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/987_vertical-order-traversal-of-a-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+- 1026\. Maximum Difference Between Node and Ancestor
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1026_maximum-difference-between-node-and-ancestor.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 - 1290\. Convert Binary Number in a Linked List of Integer
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.java)
