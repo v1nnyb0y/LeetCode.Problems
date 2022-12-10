@@ -1,9 +1,18 @@
 package com.leetcode.TwoPointers;
 
+class ListNode82 {
+    ListNode82 next;
+    int val;
+
+    public ListNode82(int value) {
+        val = value;
+    }
+}
+
 class Solution_82 {
-    public ListNode deleteDuplicates(ListNode head) {
+    public ListNode82 deleteDuplicates(ListNode82 head) {
         if(head == null || head.next == null) return head;
-        ListNode dummy = new ListNode(0), l = dummy;
+        ListNode82 dummy = new ListNode82(0), l = dummy;
         dummy.next = head;
         while(head != null && head.next != null){
             if(head != null && head.next != null && head.val != head.next.val){

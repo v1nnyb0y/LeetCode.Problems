@@ -918,6 +918,9 @@
 - 1641\. Count Sorted Vowel Strings
     - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/1641_CountSortedVowelStrings.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-sorted-vowel-strings/)
+- 1916\. Count Ways to Build Rooms in an Ant Colony
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/1916_count-ways-to-build-rooms-in-an-ant-colony.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/)
 
 ----
 [:arrow_up:References](#References)
