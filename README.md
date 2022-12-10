@@ -1514,6 +1514,9 @@
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/1290_ConvertBinaryNumberInLinkedListToInteger.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+- 1339\. Maximum Product of Splitted Binary Tree
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1339_maximum-product-of-splitted-binary-tree.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
 - 1367\. Linked List in Binary Tree
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1367_LinkedListInBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-in-binary-tree/)
