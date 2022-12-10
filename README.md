@@ -1766,7 +1766,8 @@
     - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/75_SortColors.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-colors/)
 - 82\. Remove Duplicates from Sorted List II
-    - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/82_RemoveDuplicatesFromSortedListII.ipynb)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/TwoPointers/82_RemoveDuplicatesFromSortedListII.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/TwoPointers/82_RemoveDuplicatesFromSortedListII.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - 86\. Partition List
     - [LINK TO GITHUB](src/main/app/com/leetcode/TwoPointers/86_partition-list.ipynb)
