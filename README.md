@@ -1384,6 +1384,9 @@
 - 117\. Populating Next Right Pointers in Each Node II
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/117_PopulatingNextRightPointersInEachNodeII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+- 124\. Binary Tree Maximum Path Sum
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/124_binary-tree-maximum-path-sum.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - 138\. Copy List with Random Pointer
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/138_CopyListWithRandomPointer.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/copy-list-with-random-pointer/)
