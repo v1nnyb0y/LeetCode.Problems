@@ -896,7 +896,8 @@
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/1137_NthTribonacciNumber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/n-th-tribonacci-number/)
 - 1143\. Longest Common Subsequence
-    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/1143_LongestCommonSubsequence.ipynb)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/1143_LongestCommonSubsequence.ipynb)
+    - [LINK TO GITHUB: KOTLIN](src/main/app/com/leetcode/DynamicProgramming/1143_LongestCommonSubsequence.kt)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-common-subsequence/)
 - 1155\. Number of Dice Rolls With Target Sum
     - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/1155_number-of-dice-rolls-with-target-sum.ipynb)
