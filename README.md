@@ -100,7 +100,8 @@
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/136_SingleNumber.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/single-number/)
 - 150\. Evaluate Reverse Polish Notation
-    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/150_EvaluateReversePolishNotation.ipynb)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Array/150_EvaluateReversePolishNotation.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Array/150_EvaluateReversePolishNotation.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - 169\. Majority Element
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/169_MajorityElement.ipynb)
