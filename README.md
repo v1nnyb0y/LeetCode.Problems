@@ -1145,6 +1145,9 @@
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Math/633_SumOfSquareNumbers.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Math/633_SumOfSquareNumbers.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-square-numbers/)
+- 780\. Reaching Points
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/780_reaching-points.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/reaching-points/)
 - 858\. Mirror Reflection
     - [LINK TO GITHUB](src/main/app/com/leetcode/Math/858_mirror-reflection.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/mirror-reflection/)
