@@ -1100,6 +1100,9 @@
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/GraphTheory/1926_NearestExitFromEntranceInMaze.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/GraphTheory/1926_NearestExitFromEntranceInMaze.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
+- 1971\. Find if Path Exists in Graph
+    - [LINK TO GITHUB](src/main/app/com/leetcode/GraphTheory/1971_find-if-path-exists-in-graph.kt)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 
 ----
 [:arrow_up:References](#References)
