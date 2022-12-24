@@ -877,6 +877,12 @@
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/746_MinCostClimbingStairs.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/746_MinCostClimbingStairs.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- 790\. Domino and Tromino Tiling
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/790_domino-and-tromino-tiling.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/domino-and-tromino-tiling/)
+- 834\. Sum of Distances in Tree
+    - [LINK TO GITHUB](src/main/app/com/leetcode/DynamicProgramming/834_sum-of-distances-in-tree.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-distances-in-tree/)
 - 918\. Maximum Sum Circular Subarray
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/DynamicProgramming/918_MaximumSumCircularSubarray.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/DynamicProgramming/918_MaximumSumCircularSubarray.java)
