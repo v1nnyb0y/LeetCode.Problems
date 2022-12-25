@@ -1,5 +1,8 @@
 package com.leetcode.Array;
 
+import java.util.Arrays;
+import java.util.TreeMap;
+
 class Solution_2389 {
     public int[] answerQueries(int[] nums, int[] queries) {
         Arrays.sort(nums);
