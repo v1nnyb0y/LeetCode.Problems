@@ -377,6 +377,9 @@
 - 2007\. Find Original Array From Doubled Array
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2007_find-original-array-from-doubled-array.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-original-array-from-doubled-array/)
+- 2389\. Longest Subsequence With Limited Sum
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2389_longest-subsequence-with-limited-sum.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
 
 ----
 [:arrow_up:References](#References)
