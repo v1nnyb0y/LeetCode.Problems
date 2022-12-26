@@ -266,6 +266,9 @@
 - 916\. Word Subsets
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/916_word-subsets.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-subsets/)
+- 941\. Valid Mountain Array
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/941_valid-mountain-array.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/valid-mountain-array/)
 - 948\. Bag of Tokens
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/948_bag-of-tokens.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/bag-of-tokens/)
@@ -1654,6 +1657,9 @@
 - 97\. Interleaving String
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/97_interleaving-string.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/interleaving-string/)
+- 125\. Valid Palindrome
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/125_valid-palindrome.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/valid-palindrome/)
 - 126\. Word Ladder II
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/126_word-ladder-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-ladder-ii/)
@@ -1694,6 +1700,9 @@
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/438_FindAllAnagramsInAString.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/438_FindAllAnagramsInAString.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- 443\. String Compression
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/443_string-compression.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/string-compression/)
 - 451\. Sort Characters By Frequency
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/451_SortCharactersByFrequency.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sort-characters-by-frequency/)
