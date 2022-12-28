@@ -1,6 +1,6 @@
 package com.leetcode.LinkedListAndTree;
 
-import java.lang.Math;
+import com.leetcode.TreeNode;
 
 class Solution117 {
     int maxd = 0;

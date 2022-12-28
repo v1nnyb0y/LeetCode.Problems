@@ -1,5 +1,7 @@
 package com.leetcode.LinkedListAndTree;
 
+import com.leetcode.TreeNode;
+
 class Solution113 {
     public TreeNode searchBST(TreeNode root, int val) {
         if (root == null) return null;

@@ -1,16 +1,9 @@
 package com.leetcode.LinkedListAndTree;
 
+import com.leetcode.TreeNode;
+
 import java.util.Stack;
 
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
 class Solution130 {
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
         if (t1 == null)

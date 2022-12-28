@@ -1,5 +1,7 @@
 package com.leetcode.LinkedListAndTree;
 
+import com.leetcode.TreeNode;
+
 class Solution115 {
     public TreeNode insertIntoBST(TreeNode root, int val) {
         if (root == null) return new TreeNode(val);

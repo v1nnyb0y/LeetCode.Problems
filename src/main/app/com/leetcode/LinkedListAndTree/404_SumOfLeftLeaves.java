@@ -1,5 +1,7 @@
 package com.leetcode.LinkedListAndTree;
 
+import com.leetcode.TreeNode;
+
 class Solution119 {
     public int sumOfLeftLeaves(TreeNode root) {
         if (root == null) return 0;

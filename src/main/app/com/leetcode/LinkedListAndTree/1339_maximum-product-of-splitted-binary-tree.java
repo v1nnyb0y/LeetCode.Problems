@@ -1,5 +1,7 @@
 package com.leetcode.LinkedListAndTree;
 
+import com.leetcode.TreeNode;
+
 class Solution_1339 {
     static long sum;
     static long maxProd;

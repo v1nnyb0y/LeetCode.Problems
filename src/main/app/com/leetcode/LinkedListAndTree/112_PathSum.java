@@ -1,5 +1,7 @@
 package com.leetcode.LinkedListAndTree;
 
+import com.leetcode.TreeNode;
+
 class Solution133 {
     public boolean hasPathSum(TreeNode root, int sum) {
         if(root==null)

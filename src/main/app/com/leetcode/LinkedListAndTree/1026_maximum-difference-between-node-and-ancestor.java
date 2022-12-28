@@ -1,5 +1,7 @@
 package com.leetcode.LinkedListAndTree;
 
+import com.leetcode.TreeNode;
+
 class Solution_1026 {
     public int maxAncestorDiff(TreeNode root) {
         if (root == null) {

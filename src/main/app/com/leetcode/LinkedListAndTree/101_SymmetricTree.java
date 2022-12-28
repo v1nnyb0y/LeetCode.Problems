@@ -1,5 +1,7 @@
 package com.leetcode.LinkedListAndTree;
 
+import com.leetcode.TreeNode;
+
 class Solution122 {
     public boolean isSymmetric(TreeNode root) {
         if (root==null ||root.left == null && root.right == null) return true;

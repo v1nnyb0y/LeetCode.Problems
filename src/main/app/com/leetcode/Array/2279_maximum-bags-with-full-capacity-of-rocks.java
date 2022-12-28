@@ -1,5 +1,7 @@
 package com.leetcode.Array;
 
+import java.util.Arrays;
+
 class Solution_2279 {
     public int maximumBags(int[] capacity, int[] rocks, int additionalRocks) {
         int result = 0;

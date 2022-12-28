@@ -1,6 +1,6 @@
 package com.leetcode
 
-fun main(args: Array<String>) {
+fun main() {
     if (5 in 1..5) {
         print("good")
     } else {

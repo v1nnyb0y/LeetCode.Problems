@@ -1,5 +1,7 @@
 package com.leetcode.LinkedListAndTree;
 
+import com.leetcode.TreeNode;
+
 class Solution132 {
     public boolean isValidBST(TreeNode root) {
         double dmax = 2147483648d;

@@ -1,5 +1,7 @@
 package com.leetcode.LinkedListAndTree
 
+import com.leetcode.TreeNode
+
 class `938_range-sum-of-bst` {
     fun rangeSumBST(root: TreeNode?, low: Int, high: Int): Int {
         if (root == null) return 0

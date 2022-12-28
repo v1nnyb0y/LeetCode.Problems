@@ -1,5 +1,7 @@
 package com.leetcode.LinkedListAndTree;
 
+import com.leetcode.TreeNode;
+
 class Solution_124 {
     int max=Integer.MIN_VALUE;
     public int utilfunc(TreeNode root){
