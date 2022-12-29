@@ -374,6 +374,9 @@
 - 1770\. Maximum Score from Performing Multiplication Operations
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1770_maximum-score-from-performing-multiplication-operations.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
+- 1834\. Single-Threaded CPU
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1834_single-threaded-cpu.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/single-threaded-cpu/)
 - 1962\. Remove Stones to Minimize the Total
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1962_remove-stones-to-minimize-the-total.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)
