@@ -269,6 +269,9 @@
 - 941\. Valid Mountain Array
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/941_valid-mountain-array.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-mountain-array/)
+- 944\. Delete Columns to Make Sorted
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/944_delete-columns-to-make-sorted.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 - 948\. Bag of Tokens
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/948_bag-of-tokens.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/bag-of-tokens/)
@@ -386,6 +389,12 @@
 - 2007\. Find Original Array From Doubled Array
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2007_find-original-array-from-doubled-array.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/find-original-array-from-doubled-array/)
+- 2136\. Earliest Possible Day of Full Bloom
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2136_earliest-possible-day-of-full-bloom.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
+- 2244\. Minimum Rounds to Complete All Tasks
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2244_minimum-rounds-to-complete-all-tasks.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 - 2279\. Maximum Bags With Full Capacity of Rocks
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2279_maximum-bags-with-full-capacity-of-rocks.java) 
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
@@ -1682,7 +1691,8 @@
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/205_isomorphic-strings.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/isomorphic-strings/)
 - 290\. Word Pattern
-    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/290_WordPattern.ipynb)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/290_WordPattern.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/290_WordPattern.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-pattern/)
 - 299\. Bulls and Cows
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/299_bulls-and-cows.java)
@@ -1718,6 +1728,9 @@
 - 459\. Repeated Substring Pattern
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/459_RepeatedSubstringPattern.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/repeated-substring-pattern/)
+- 520\. Detect Capital
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/520_detect-capital.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/detect-capital/)
 - 567\. Permutation in String
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/567_PermutationInString.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/567_PermutationInString.java)
