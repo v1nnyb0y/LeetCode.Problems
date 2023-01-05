@@ -174,6 +174,9 @@
 - 446\. Arithmetic Slices II - Subsequence
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/446_arithmetic-slices-ii-subsequence.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+- 452\. Minimum Number of Arrows to Burst Balloons
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/452_minimum-number-of-arrows-to-burst-balloons.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 - 462\. Minimum Moves to Equal Array Elements II
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/462_minimum-moves-to-equal-array-elements-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
