@@ -380,6 +380,9 @@
 - 1770\. Maximum Score from Performing Multiplication Operations
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1770_maximum-score-from-performing-multiplication-operations.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
+- 1833\. Maximum Ice Cream Bars
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1833_maximum-ice-cream-bars.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-ice-cream-bars/)
 - 1834\. Single-Threaded CPU
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/1834_single-threaded-cpu.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/single-threaded-cpu/)
