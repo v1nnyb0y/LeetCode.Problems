@@ -1155,7 +1155,8 @@
     - [LINK TO GITHUB](src/main/app/com/leetcode/Math/32_PathWithMinimumEffort.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/path-with-minimum-effort/)
 - 149\. Max Points on a Line
-    - [LINK TO GITHUB](src/main/app/com/leetcode/Math/149_MaxPointsOnALine.ipynb)
+    - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Math/149_MaxPointsOnALine.ipynb)
+    - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Math/149_MaxPointsOnALine.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/max-points-on-a-line/)
 - 223\. Rectangle Area
     - [LINK TO GITHUB](src/main/app/com/leetcode/Math/223_rectangle-area.java)
