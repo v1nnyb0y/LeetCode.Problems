@@ -1391,6 +1391,9 @@
 - 99\. Recover Binary Search Tree
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/99_RecoverBinarySearchTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/recover-binary-search-tree/)
+- 100\. Same Tree
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/100_same-tree.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/same-tree/)
 - 101\. Symmetric Tree
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/LinkedListAndTree/101_SymmetricTree.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/LinkedListAndTree/101_SymmetricTree.java)
