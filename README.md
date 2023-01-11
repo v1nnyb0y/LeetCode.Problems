@@ -1577,6 +1577,9 @@
 - 1367\. Linked List in Binary Tree
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1367_LinkedListInBinaryTree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/linked-list-in-binary-tree/)
+- 1443\. Minimum Time to Collect All Apples in a Tree
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1443_minimum-time-to-collect-all-apples-in-a-tree.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
 - 1448\. Count Good Nodes in Binary Tree
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1448_count-good-nodes-in-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
