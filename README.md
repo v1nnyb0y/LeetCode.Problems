@@ -1583,6 +1583,9 @@
 - 1448\. Count Good Nodes in Binary Tree
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1448_count-good-nodes-in-binary-tree.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- 1519\. Number of Nodes in the Sub-Tree With the Same Label
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1519_number-of-nodes-in-the-sub-tree-with-the-same-label.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
 - 1731\. Swapping Nodes in a Linked List
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/1731_SwappingNodesInALinkedList.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
