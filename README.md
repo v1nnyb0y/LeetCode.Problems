@@ -1595,6 +1595,9 @@
 - 2095\. Delete the Middle Node of a Linked List
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/2095_delete-the-middle-node-of-a-linked-list.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+- 2246\. Longest Path With Different Adjacent Characters
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/2246_longest-path-with-different-adjacent-characters.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
 
 ----
 [:arrow_up:References](#References)
