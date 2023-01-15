@@ -1598,6 +1598,9 @@
 - 2246\. Longest Path With Different Adjacent Characters
     - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/2246_longest-path-with-different-adjacent-characters.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
+- 2421\. Number of Good Paths
+    - [LINK TO GITHUB](src/main/app/com/leetcode/LinkedListAndTree/2421_number-of-good-paths.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-good-paths/)
 
 ----
 [:arrow_up:References](#References)
@@ -1784,6 +1787,9 @@
 - 1047\. Remove All Adjacent Duplicates In String
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1047_remove-all-adjacent-duplicates-in-string.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- 1061\. Lexicographically Smallest Equivalent String
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1061_lexicographically-smallest-equivalent-string.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
 - 1202\. Smallest String With Swaps
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/1202_SmallestStringWithSwaps.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/smallest-string-with-swaps/)
