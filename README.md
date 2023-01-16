@@ -67,6 +67,9 @@
 - 56\. Merge Intervals
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/56_MergeIntervals.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/merge-intervals/)
+- 57\. Insert Interval
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/57_insert-interval.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/insert-interval/)
 - 59\. Spiral Matrix II
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/59_SpiralMatrixII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/spiral-matrix-ii/)
