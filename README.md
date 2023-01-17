@@ -1780,6 +1780,9 @@
 - 792\. Number of Matching Subsequences
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/792_number-of-matching-subsequences.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/number-of-matching-subsequences/)
+- 926\. Flip String to Monotone Increasing
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/926_flip-string-to-monotone-increasing.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
 - 936\. Stamping The Sequence
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/936_stamping-the-sequence.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/stamping-the-sequence/)
