@@ -287,6 +287,9 @@
 - 967\. Numbers With Same Consecutive Differences
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/967_numbers-with-same-consecutive-differences.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
+- 974\. Subarray Sums Divisible by K
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/974_subarray-sums-divisible-by-k.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 - 985\. Sum of Even Numbers After Queries
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/985_sum-of-even-numbers-after-queries.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
@@ -408,7 +411,7 @@
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2244_minimum-rounds-to-complete-all-tasks.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 - 2279\. Maximum Bags With Full Capacity of Rocks
-    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2279_maximum-bags-with-full-capacity-of-rocks.java) 
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2279_maximum-bags-with-full-capacity-of-rocks.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
 - 2389\. Longest Subsequence With Limited Sum
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/2389_longest-subsequence-with-limited-sum.java)
