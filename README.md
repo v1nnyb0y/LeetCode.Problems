@@ -192,6 +192,9 @@
 - 474\. Ones and Zeroes
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/474_ones-and-zeroes.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/ones-and-zeroes/)
+- 491\. Non-decreasing Subsequences
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Array/491_non-decreasing-subsequences.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/non-decreasing-subsequences/)
 - 503\. Next Greater Element II
     - [LINK TO GITHUB](src/main/app/com/leetcode/Array/503_NextGreaterElementII.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/next-greater-element-ii/)
