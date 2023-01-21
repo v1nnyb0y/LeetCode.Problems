@@ -1706,6 +1706,9 @@
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/Strings/91_decode-ways.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/Strings/91_decode-ways.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/decode-ways/)
+- 93\. Restore IP Addresses
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/94_restore-ip-addresses.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/restore-ip-addresses/)
 - 97\. Interleaving String
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/97_interleaving-string.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/interleaving-string/)
