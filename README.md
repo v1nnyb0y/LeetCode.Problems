@@ -1718,6 +1718,9 @@
 - 126\. Word Ladder II
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/126_word-ladder-ii.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/word-ladder-ii/)
+- 131\. Palindrome Partitioning
+    - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/131_palindrome-partitioning.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/palindrome-partitioning/)
 - 151\. Reverse Words in a String
     - [LINK TO GITHUB](src/main/app/com/leetcode/Strings/151_reverse-words-in-a-string.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/reverse-words-in-a-string/)
