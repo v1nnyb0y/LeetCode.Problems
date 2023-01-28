@@ -749,6 +749,9 @@
     - [LINK TO GITHUB: IPYNB](src/main/app/com/leetcode/ContainersAndLibs/242_ValidAnagram.ipynb)
     - [LINK TO GITHUB: JAVA](src/main/app/com/leetcode/ContainersAndLibs/242_ValidAnagram.java)
     - [LINK TO LEETCODE](https://leetcode.com/problems/valid-anagram/)
+- 352\. Data Stream as Disjoint Intervals
+    - [LINK TO GITHUB](src/main/app/com/leetcode/ContainersAndLibs/352_data-stream-as-disjoint-intervals.java)
+    - [LINK TO LEETCODE](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 - 981\. Time Based Key-Value Store
     - [LINK TO GITHUB](src/main/app/com/leetcode/ContainersAndLibs/981_time-based-key-value-store.ipynb)
     - [LINK TO LEETCODE](https://leetcode.com/problems/time-based-key-value-store/)
