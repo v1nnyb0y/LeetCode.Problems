@@ -11,5 +11,9 @@
 - [20. Valid Parentheses](leetcode/stack/20.go)
 - [21. Merge Two Sorted List](leetcode/linked-list/21.go)
 - [26. Remove Duplicates from Sorted Array](leetcode/array/26.go)
+- [129. Sum Root to Leaf Number](leetcode/tree/129.go)
 
 # Yandex Code
+
+- [1. Middle Element](yandexcode/sort/1.go)
+- [2. Cheapest Path](yandexcode/dynProg/d2/2.go)
