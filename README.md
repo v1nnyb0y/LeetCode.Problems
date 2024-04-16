@@ -12,6 +12,7 @@
 - [21. Merge Two Sorted List](leetcode/linked-list/21.go)
 - [26. Remove Duplicates from Sorted Array](leetcode/array/26.go)
 - [129. Sum Root to Leaf Number](leetcode/tree/129.go)
+- [623. Add One Row to Tree](leetcode/tree/623.go)
 
 # Yandex Code
 

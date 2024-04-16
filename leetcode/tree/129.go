@@ -1,12 +1,12 @@
 package tree
 
-type treeNode struct {
+type TreeNode struct {
 	Val   int
-	Left  *treeNode
-	Right *treeNode
+	Left  *TreeNode
+	Right *TreeNode
 }
 
-func dfs(root *treeNode, prevSum int) int {
+func dfs(root *TreeNode, prevSum int) int {
 	var newSum = prevSum*10 + root.Val
 	if root.Left == nil && root.Right == nil {
 		return newSum
@@ -22,7 +22,7 @@ func dfs(root *treeNode, prevSum int) int {
 	return result
 }
 
-func SumNumbers(root *treeNode) int {
+func SumNumbers(root *TreeNode) int {
 	if root.Left == nil && root.Right == nil {
 		return root.Val
 	}
