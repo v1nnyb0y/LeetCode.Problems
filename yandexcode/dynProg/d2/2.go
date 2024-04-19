@@ -5,11 +5,13 @@ import (
 	"log"
 )
 
-var n, m int
-var sizes []int
-var graph [][]int
+type CheapestPath struct {
+	N, M  int
+	sizes []int
+	graph [][]int
+}
 
-func inputFunc() {
+func (cp *CheapestPath) inputFunc() {
 	inputArr := func(size int) []int {
 		var arr = make([]int, size)
 		for i := 0; i < len(arr); i++ {
@@ -20,34 +22,35 @@ func inputFunc() {
 		}
 		return arr
 	}
-	sizes = inputArr(2)
-	n, m = sizes[0], sizes[1]
-	graph = make([][]int, n)
-	for i := 0; i < n; i++ {
-		graph[i] = inputArr(m)
+	cp.sizes = inputArr(2)
+	cp.N, cp.M = cp.sizes[0], cp.sizes[1]
+	cp.graph = make([][]int, cp.N)
+	for i := 0; i < cp.N; i++ {
+		cp.graph[i] = inputArr(cp.M)
 	}
 }
 
-func CheapestPath() {
-	inputFunc()
+func CheapestPathProcess() {
+	solution := &CheapestPath{}
+	solution.inputFunc()
 
-	dynamic := make([][]int, n+1)
+	dynamic := make([][]int, solution.N+1)
 	for i := range dynamic {
-		dynamic[i] = make([]int, m+1)
+		dynamic[i] = make([]int, solution.M+1)
 	}
 
-	for i := 1; i <= n; i++ {
-		dynamic[i][1] = graph[i-1][0] + dynamic[i-1][1]
+	for i := 1; i <= solution.N; i++ {
+		dynamic[i][1] = solution.graph[i-1][0] + dynamic[i-1][1]
 	}
-	for i := 1; i <= m; i++ {
-		dynamic[1][i] = graph[0][i-1] + dynamic[1][i-1]
+	for i := 1; i <= solution.M; i++ {
+		dynamic[1][i] = solution.graph[0][i-1] + dynamic[1][i-1]
 	}
 
-	for i := 2; i <= n; i++ {
-		for j := 2; j <= m; j++ {
-			val := graph[i-1][j-1]
+	for i := 2; i <= solution.N; i++ {
+		for j := 2; j <= solution.M; j++ {
+			val := solution.graph[i-1][j-1]
 			dynamic[i][j] = min(dynamic[i-1][j]+val, dynamic[i][j-1]+val)
 		}
 	}
-	fmt.Println(dynamic[n][m])
+	fmt.Println(dynamic[solution.N][solution.M])
 }
