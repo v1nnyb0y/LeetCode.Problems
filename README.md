@@ -17,11 +17,18 @@
 - [70. Climbing Stairs](leetcode/dp/70.go)
 - [88. Merge Sorted Array](leetcode/array/88.go)
 - [94. Binary Tree Inorder Traversal](leetcode/tree/94.go)
+- [101. Symmetric Tree](leetcode/tree/101.go)
+- [104. Maximum Depth of Binary Tree](leetcode/tree/104.go)
+- [108. Convert Sorted Array to Binary Search Tree](leetcode/tree/108.go)
+- [118. Pascal's Triangle](leetcode/dp/118.go)
+- [121. Best Time to Buy and Sell Stock](leetcode/dp/121.go)
+- [125. Valid Palindrome](leetcode/string/125.go)
 - [129. Sum Root to Leaf Number](leetcode/tree/129.go)
 - [200. Number of Islands](leetcode/graph/200.go)
 - [463. Island Perimeter](leetcode/graph/463.go)
 - [623. Add One Row to Tree](leetcode/tree/623.go)
 - [988. Smallest String Starting From Leaf](leetcode/tree/988.go)
+- [1992. Find All Groups of Farmland](leetcode/graph/1992.go)
 
 # Yandex Code
 

@@ -1,7 +1,7 @@
 package main
 
-import "awesomeProject/yandexcode/dynProg/d2"
+import string2 "awesomeProject/leetcode/string"
 
 func main() {
-	d2.PathWithMaxWeightProcess()
+	string2.Abc()
 }
