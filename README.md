@@ -28,6 +28,7 @@
 - [463. Island Perimeter](leetcode/graph/463.go)
 - [623. Add One Row to Tree](leetcode/tree/623.go)
 - [988. Smallest String Starting From Leaf](leetcode/tree/988.go)
+- [1971. Find if Path Exists in Graph](leetcode/graph/1971.go)
 - [1992. Find All Groups of Farmland](leetcode/graph/1992.go)
 
 # Yandex Code
