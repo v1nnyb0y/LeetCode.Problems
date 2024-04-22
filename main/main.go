@@ -1,7 +1,7 @@
 package main
 
-import string2 "awesomeProject/leetcode/string"
+import "awesomeProject/yandexcode/dynProg/d2"
 
 func main() {
-	string2.Abc()
+	d2.CafeProcessing()
 }
