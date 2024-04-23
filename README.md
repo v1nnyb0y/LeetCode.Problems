@@ -30,6 +30,7 @@
 - [171. Excel Sheet Column Number](leetcode/string/171.go)
 - [190. Reverse Bits](leetcode/bit/190.go)
 - [200. Number of Islands](leetcode/graph/200.go)
+- [310. Minimum Height Trees](leetcode/tree/310.go)
 - [463. Island Perimeter](leetcode/graph/463.go)
 - [623. Add One Row to Tree](leetcode/tree/623.go)
 - [752. Open the Lock](leetcode/graph/752.go)
@@ -44,3 +45,4 @@
 - [3. Path with Maximum Weight](yandexcode/dynProg/d2/3.go)
 - [4. Horse Step](yandexcode/dynProg/d2/4.go)
 - [5. Cafe](yandexcode/dynProg/d2/5.go)
+- [6. Longest Common Sequence](yandexcode/dynProg/d2/6.go)
