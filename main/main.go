@@ -1,7 +1,7 @@
 package main
 
-import "awesomeProject/yandexcode/dynProg/d2"
+import "awesomeProject/yandexcode/dfs"
 
 func main() {
-	d2.LCSProcess()
+	dfs.FindDepthProcessing()
 }

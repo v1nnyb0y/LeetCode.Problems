@@ -44,6 +44,7 @@
 - [1137. N-th Tribonacci Number](leetcode/dp/1137.go)
 - [1971. Find if Path Exists in Graph](leetcode/graph/1971.go)
 - [1992. Find All Groups of Farmland](leetcode/graph/1992.go)
+- [2370. Longest Ideal Subsequence](leetcode/string/2370.go)
 
 # Yandex Code
 
@@ -53,3 +54,4 @@
 - [4. Horse Step](yandexcode/dynProg/d2/4.go)
 - [5. Cafe](yandexcode/dynProg/d2/5.go)
 - [6. Longest Common Sequence](yandexcode/dynProg/d2/6.go)
+- [7. Find in Depth](yandexcode/dfs/7.go)
