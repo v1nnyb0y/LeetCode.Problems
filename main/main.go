@@ -3,5 +3,5 @@ package main
 import "awesomeProject/yandexcode/dfs"
 
 func main() {
-	dfs.FindDepthProcessing()
+	dfs.ComponentConnectivitySolution()
 }
