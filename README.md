@@ -6,6 +6,12 @@
 # LeetCode
 
 - [1. Two Sum](leetcode/array/1.go)
+- [2. Add Two Numbers](leetcode/linked-list/2.go)
+- [3. Longest Substring Without Repeating Characters](leetcode/string/3.go)
+- [5. Longest Palindromic Substring](leetcode/dp/5.go)
+- [7. Reverse Integer](leetcode/math/7.go)
+- [8. String to Integer (atoi)](leetcode/string/8.go)
+- [11. Container With Most Water](leetcode/array/11.go)
 - [13. Roman to Integer](leetcode/string/13.go)
 - [14. Longest Common Prefix](leetcode/string/14.go)
 - [20. Valid Parentheses](leetcode/stack/20.go)
@@ -55,6 +61,7 @@
 - [1971. Find if Path Exists in Graph](leetcode/graph/1971.go)
 - [1992. Find All Groups of Farmland](leetcode/graph/1992.go)
 - [2370. Longest Ideal Subsequence](leetcode/string/2370.go)
+- [2997. Minimum Number of Operations to Make Array XOR Equal to K](leetcode/bit/2997.go)
 
 # Yandex Code
 
