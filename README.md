@@ -58,6 +58,7 @@
 - [988. Smallest String Starting From Leaf](leetcode/tree/988.go)
 - [1137. N-th Tribonacci Number](leetcode/dp/1137.go)
 - [1289. Minimum Falling Path Sum II](leetcode/graph/1289.go)
+- [1915. Number of Wonderful Substrings](leetcode/string/1915.go)
 - [1971. Find if Path Exists in Graph](leetcode/graph/1971.go)
 - [1992. Find All Groups of Farmland](leetcode/graph/1992.go)
 - [2370. Longest Ideal Subsequence](leetcode/string/2370.go)
@@ -73,3 +74,4 @@
 - [6. Longest Common Sequence](yandexcode/dynProg/d2/6.go)
 - [7. Find in Depth](yandexcode/dfs/7.go)
 - [8. Components of Connectivity](yandexcode/dfs/8.go)
+- [9. Rewrite](yandexcode/dfs/9.go)
