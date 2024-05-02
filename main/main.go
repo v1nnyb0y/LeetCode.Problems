@@ -1,7 +1,9 @@
 package main
 
-import "awesomeProject/yandexcode/dfs"
+import (
+	"awesomeProject/yandexcode/sort"
+)
 
 func main() {
-	dfs.RewriteProcessing()
+	sort.TopSortProcessing()
 }
