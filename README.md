@@ -67,6 +67,7 @@
 - [623. Add One Row to Tree](leetcode/tree/623.go)
 - [752. Open the Lock](leetcode/graph/752.go)
 - [834. Sum of Distances in Tree](leetcode/graph/834.go)
+- [881. Boats to Save People](leetcode/array/881.go)
 - [988. Smallest String Starting From Leaf](leetcode/tree/988.go)
 - [1137. N-th Tribonacci Number](leetcode/dp/1137.go)
 - [1289. Minimum Falling Path Sum II](leetcode/graph/1289.go)
