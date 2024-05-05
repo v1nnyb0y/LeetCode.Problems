@@ -53,6 +53,7 @@
 - [206. Reverse Linked List](leetcode/linked-list/206.go)
 - [217. Contains Duplicates](leetcode/array/217.go)
 - [234. Palindrome Linked List](leetcode/linked-list/234.go)
+- [237. Delete Node in a Linked List](leetcode/linked-list/237.go)
 - [242. Valid Anagram](leetcode/string/242.go)
 - [268. Missing Number](leetcode/bit/268.go)
 - [283. Move Zeros](leetcode/array/283.go)
@@ -91,3 +92,4 @@
 - [8. Components of Connectivity](yandexcode/dfs/8.go)
 - [9. Rewrite](yandexcode/dfs/9.go)
 - [10. Topological Sort](yandexcode/sort/10.go)
+- [11. Find Cycle](yandexcode/dfs/11.go)
