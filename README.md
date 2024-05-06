@@ -29,6 +29,12 @@
 - [46. Permutations](leetcode/backtrack/46.go)
 - [48. Rotate Image](leetcode/array/48.go)
 - [49. Group Anagrams](leetcode/array/49.go)
+- [50. Pow(x, n)](leetcode/math/50.go)
+- [53. Maximum Subarray](leetcode/array/53.go)
+- [54. Spiral Matrix](leetcode/array/54.go)
+- [55. Jump Game](leetcode/dp/55.go)
+- [56. Merge Intervals](leetcode/array/56.go)
+- [62. Unique Paths](leetcode/dp/62.go)
 - [66. Plus One](leetcode/math/66.go)
 - [69. Sqrt(x)](leetcode/math/69.go)
 - [70. Climbing Stairs](leetcode/dp/70.go)
@@ -78,6 +84,7 @@
 - [2000. Reverse Prefix of Word](leetcode/string/2000.go)
 - [2370. Longest Ideal Subsequence](leetcode/string/2370.go)
 - [2441. Largest Positive Integer That Exists With Its Negative](leetcode/array/2441.go)
+- [2487. Remove Nodes From Linked List](leetcode/linked-list/2487.go)
 - [2997. Minimum Number of Operations to Make Array XOR Equal to K](leetcode/bit/2997.go)
 
 # Yandex Code
