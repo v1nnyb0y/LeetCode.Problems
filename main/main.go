@@ -1,9 +1,7 @@
 package main
 
-import (
-	"awesomeProject/yandexcode/sort"
-)
+import "awesomeProject/yandexcode/bfs"
 
 func main() {
-	sort.TopSortProcessing()
+	bfs.ShortestPathProcess()
 }
