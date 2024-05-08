@@ -70,6 +70,7 @@
 - [387. First Unique Character in a String](leetcode/string/387.go)
 - [417. Fizz Buzz](leetcode/emulate/412.go)
 - [463. Island Perimeter](leetcode/graph/463.go)
+- [506. Relative Ranks](leetcode/math/506.go)
 - [514. Freedom Trail](leetcode/dp/514.go)
 - [623. Add One Row to Tree](leetcode/tree/623.go)
 - [752. Open the Lock](leetcode/graph/752.go)
