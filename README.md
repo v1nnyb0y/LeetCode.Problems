@@ -92,6 +92,7 @@
 - [1971. Find if Path Exists in Graph](leetcode/graph/1971.go)
 - [1992. Find All Groups of Farmland](leetcode/graph/1992.go)
 - [2000. Reverse Prefix of Word](leetcode/string/2000.go)
+- [2331. Evaluate Boolean Binary Tree](leetcode/tree/2331.go)
 - [2370. Longest Ideal Subsequence](leetcode/string/2370.go)
 - [2373. Largest Local Values in a Matrix](leetcode/array/2373.go)
 - [2441. Largest Positive Integer That Exists With Its Negative](leetcode/array/2441.go)
