@@ -88,6 +88,7 @@
 - [1137. N-th Tribonacci Number](leetcode/dp/1137.go)
 - [1219. Path with Maximum Gold](leetcode/array/1219.go)
 - [1289. Minimum Falling Path Sum II](leetcode/graph/1289.go)
+- [1325. Delete Leaves With a Given Value](leetcode/tree/1325.go)
 - [1915. Number of Wonderful Substrings](leetcode/string/1915.go)
 - [1971. Find if Path Exists in Graph](leetcode/graph/1971.go)
 - [1992. Find All Groups of Farmland](leetcode/graph/1992.go)
