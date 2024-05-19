@@ -102,6 +102,7 @@
 - [2812. Find the Safest Path in a Grid](leetcode/graph/2812.go)
 - [2816. Double a Number Represented as a Linked List](leetcode/linked-list/2816.go)
 - [2997. Minimum Number of Operations to Make Array XOR Equal to K](leetcode/bit/2997.go)
+- [3068. Find the Maximum Sum of Node Values](leetcode/tree/3068.go)
 - [3075. Maximize Happiness of Selected Children](leetcode/array/3075.go)
 
 # Yandex Code
