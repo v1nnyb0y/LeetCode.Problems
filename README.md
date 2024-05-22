@@ -53,6 +53,7 @@
 - [121. Best Time to Buy and Sell Stock](leetcode/dp/121.go)
 - [125. Valid Palindrome](leetcode/string/125.go)
 - [129. Sum Root to Leaf Number](leetcode/tree/129.go)
+- [131. Palindrome Partitioning](leetcode/string/131.go)
 - [136. Single Number](leetcode/bit/136.go)
 - [141. Linked List Cycle](leetcode/linked-list/141.go)
 - [165. Compare Version Numbers](leetcode/emulate/165.go)
@@ -122,3 +123,5 @@
 - [12. Shortest Path](yandexcode/bfs/12.go)
 - [13. Path In Graph](yandexcode/bfs/13.go)
 - [14. Blohi](yandexcode/bfs/14.go)
+- [15. Steleolog Path](yandexcode/bfs/15.go)
+- [16. Metro](yandexcode/bfs/16.go)
