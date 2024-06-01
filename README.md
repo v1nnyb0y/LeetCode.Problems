@@ -115,6 +115,7 @@
 - [2997. Minimum Number of Operations to Make Array XOR Equal to K](leetcode/bit/2997.go)
 - [3068. Find the Maximum Sum of Node Values](leetcode/tree/3068.go)
 - [3075. Maximize Happiness of Selected Children](leetcode/array/3075.go)
+- [3110. Score of a String](leetcode/string/3110.go)
 
 # Yandex Code
 
