@@ -93,6 +93,7 @@
 - [834. Sum of Distances in Tree](leetcode/graph/834.go)
 - [857. Minimum Cost to Hire K Workers](leetcode/hard/857.go)
 - [881. Boats to Save People](leetcode/array/881.go)
+- [974. Subarray Sums Divisible by K](leetcode/array/974.go)
 - [979. Distribute Coins in Binary Tree](leetcode/tree/979.go)
 - [988. Smallest String Starting From Leaf](leetcode/tree/988.go)
 - [1137. N-th Tribonacci Number](leetcode/dp/1137.go)
