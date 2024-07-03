@@ -1,7 +1,9 @@
 package main
 
-import "awesomeProject/yandexcode/bfs"
+import (
+	"awesomeProject/yandexcode/contest"
+)
 
 func main() {
-	bfs.PathSteleologProcessing()
+	contest.TwiceLettersProcessing()
 }
