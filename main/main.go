@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	contest.TwiceLettersProcessing()
+	contest.MaxSquareProcessing()
 }
